@@ -27,7 +27,7 @@ AWS Glue is designed to operate flexible ETL operations for big data analytics a
 4. Standardize language and grammar   
 5. Make sure the data is on the same scale (e.g. either in cm or km)   
 6. Make sure a column doesn’t include multiple features (e.g. temperature, cost, time all in one column!)   
-7. Clean your data based on any outliers that may exist (points in dataset that lie at an abnormal distance from other values)   
+7. Clean the data based on any outliers that may exist (points in dataset that lie at an abnormal distance from other values)   
 8. Missing data needs to be handled   
 
 ### Terminologies    
