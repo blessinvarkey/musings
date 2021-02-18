@@ -5,9 +5,9 @@
 ### Terminologies     
 S3 - Simple Storage Service   
 ETL - Extract, Load, Transform  
-EMR - Elastic Map Reduce 
-Amazon Sagemaker 
-Amazon FSx with Lustre   
+EMR - Elastic Map Reduce    
+Amazon Sagemaker    
+Amazon FSx with Lustre       
 Amazon Elastic File System   
 Amazon EBS volumes   
 Amazon Kinesis Data Streams   
