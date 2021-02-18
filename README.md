@@ -49,15 +49,6 @@ Handling missing values and outliers
 5. For *nummerical variables* 1,2,3 vs 1M, 100M etc, data can be scaled using: Mean/variance standardization, MinMax scaling, Maxabs scaling, Robust scaling, Normalizer   
 
 ### Terminologies   
-Scatter plots      
-Box plots      
-Histograms      
-Scatter matrix      
-Correlation matrix      
-Heatmaps      
-Confusion matrix      
-
-## 2.3 Analyze and visualize data    
 ### Terminologies    
 Scaling   
 Normalizing   
@@ -65,5 +56,14 @@ Dimensionality reduction
 Date formatting      
 One-hot encoding      
 Attribute Statistics    
+
+## 2.3 Analyze and visualize data    
+Scatter plots      
+Box plots      
+Histograms      
+Scatter matrix      
+Correlation matrix      
+Heatmaps      
+Confusion matrix      
 
 
