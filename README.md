@@ -10,9 +10,9 @@ Amazon Sagemaker
 Amazon FSx with Lustre       
 Amazon Elastic File System   
 Amazon EBS volumes   
-Amazon Kinesis Data Streams  - low latency streaming ingest at scale   
+Amazon Kinesis Data Streams  - low latency streaming ingest at scale from click streams    
 Amazon Kinesis Video Streams -  
-Amazon Kinesis Data Firehose -  loads streams into S3, Redshift, Elastic Search and Splunk 
+Amazon Kinesis Data Firehose -  () loads streams into S3, Redshift, Elastic Search and Splunk 
 Amazon Kinesis Data Analytics - performs real-time analytics on streams using SQL  
 
 ### Difference between AWS Glue and AWS EMR    
