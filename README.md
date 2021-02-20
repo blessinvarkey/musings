@@ -48,7 +48,6 @@ Handling missing values and outliers
 4. For *nominal variables* like home type, instead of encoding it to a numerical data, one hot encoding is better.    
 5. For *nummerical variables* 1,2,3 vs 1M, 100M etc, data can be scaled using: Mean/variance standardization, MinMax scaling, Maxabs scaling, Robust scaling, Normalizer   
 
-### Terminologies   
 ### Terminologies    
 Scaling   
 Normalizing   
@@ -58,6 +57,8 @@ One-hot encoding
 Attribute Statistics    
 
 ## 2.3 Analyze and visualize data    
+
+### Terminologies   
 Scatter plots      
 Box plots      
 Histograms      
