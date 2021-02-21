@@ -1,8 +1,8 @@
 # aws-notes
 
 ### Terminologies     
-Elastic Load Balance - Elastic Load Balance automatically distributes incoming application traffic across multiple Amazon EC2 instances.
-EC2 instance - Elastic Compute Cloud 
+Elastic Load Balance - Elastic Load Balance automatically distributes incoming application traffic across multiple Amazon EC2 instances.   
+EC2 instance - Elastic Compute Cloud    
 
 # 1. Data Engineering
 
