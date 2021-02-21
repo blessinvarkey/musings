@@ -7,7 +7,7 @@ EC2 instance - Elastic Compute Cloud
 # 1. Data Engineering
 
 ### Terminologies     
-[S3](Fundamentals/S3-simple-storage-service.md) - Simple Storage Service is a storage service, typically used to store large binary files. Amazon also has other storage and database services, like RDS for relational databases and DynamoDB for NoSQL.  
+[S3](Fundamentals/S3-simple-storage-service.md) - Simple Storage Service is a storage service, typically used to store large binary files. Amazon also has other storage and database services, like RDS for relational databases and DynamoDB for NoSQL.     
 ETL - Extract, Load, Transform  
 EMR - Elastic Map Reduce    
 Amazon Sagemaker    
