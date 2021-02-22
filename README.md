@@ -20,6 +20,8 @@ Amazon Kinesis Video Streams -
 Amazon Kinesis Data Firehose -  () loads streams into S3, Redshift, Elastic Search and Splunk 
 Amazon Kinesis Data Analytics - performs real-time analytics on streams using SQL  
 
+### Difference between EC2 and AWS Lambda    
+
 ### Difference between AWS Glue and AWS EMR    
 AWS Glue is designed to operate flexible ETL operations for big data analytics as a serverless platform. Amazon EMR is used for ETL operations that have fixed requriements and are ideal for onsite platforms. AWS Glue is has more cost attached to it, since its serverless.    
 
