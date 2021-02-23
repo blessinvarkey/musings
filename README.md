@@ -1,5 +1,7 @@
 # aws-notes
 
+List of AWS Sagemaker's built in Algorithms can be found [here](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html). 
+
 ### Terminologies     
 Elastic Load Balance - Elastic Load Balance automatically distributes incoming application traffic across multiple Amazon EC2 instances.   
 EC2 instance - Elastic Compute Cloud    
