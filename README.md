@@ -10,7 +10,7 @@ Full list of AWS Sagemaker's built in Algorithms can be found [here](https://doc
 Elastic Load Balance - Elastic Load Balance automatically distributes incoming application traffic across multiple Amazon EC2 instances.   
 EC2 instance - Elastic Compute Cloud    
 
-# 1. Data Engineering
+# Step 1. Data Engineering
 
 ### Terminologies     
 S3 - Simple Storage Service: is a storage service, typically used to store large binary files. Amazon also has other storage and database services, like RDS for relational databases and DynamoDB for NoSQL.     
@@ -32,7 +32,7 @@ Amazon Kinesis Data Analytics - performs real-time analytics on streams using SQ
 AWS Glue is designed to operate flexible ETL operations for big data analytics as a serverless platform. Amazon EMR is used for ETL operations that have fixed requriements and are ideal for onsite platforms. AWS Glue is has more cost attached to it, since its serverless.    
 
 
-# 2. Exploratory Data Analysis   
+# Step 2. Exploratory Data Analysis   
 ## 2.1 Prepare data for modeling
 1. Sanatize and prepare data for modeling - Using descriptive statistics to understand data better   
 2. Perform feature engineering   
