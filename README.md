@@ -1,6 +1,6 @@
 # aws-notes
 
-### Supervised Learning 
+### Supervised Learning Algorithms on AWS
 * Regression & Binary/multi-class classification | Factorization Machines Algorithm, K-Nearest Neighbors (k-NN) Algorithm, Linear Learner Algorithm, XGBoost Algorithm   
 * Time-series forecasting | DeepAR Forecasting Algorithm   
 
