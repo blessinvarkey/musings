@@ -1,8 +1,8 @@
 # aws-notes
 
-### Supervised Learning Algorithms on AWS
-* Regression & Binary/multi-class classification | Factorization Machines Algorithm, K-Nearest Neighbors (k-NN) Algorithm, Linear Learner Algorithm, XGBoost Algorithm   
-* Time-series forecasting | DeepAR Forecasting Algorithm   
+### AWS Supervised Learning Algorithms List 
+* Regression & Binary/multi-class classification: Factorization Machines Algorithm, K-Nearest Neighbors (k-NN) Algorithm, Linear Learner Algorithm, XGBoost Algorithm   
+* Time-series forecasting: DeepAR Forecasting Algorithm   
 
 Full list of AWS Sagemaker's built in Algorithms can be found [here](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html). 
 
