@@ -7,7 +7,7 @@
 3. Download or retrieve the data.     
 5. Process / Prepare the data.      
 6. Upload the processed data to S3.      
-7. Train the chosen model.       
+7. **Train the chosen model**: Set Hyperparameters       
 8. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
 9. Deploy the trained model.      
 10. Use the deployed model.       
