@@ -6,13 +6,14 @@
 
 Full list of AWS Sagemaker's built in Algorithms can be found [here](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html). 
 
-Download or otherwise retrieve the data.     
-Process / Prepare the data.      
-Upload the processed data to S3.      
-Train a chosen model.       
-Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
-Deploy the trained model.      
-Use the deployed model.       
+### Steps involved 
+1. Download or retrieve the data.     
+2. Process / Prepare the data.      
+3. Upload the processed data to S3.      
+4. Train a chosen model.       
+5. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
+6. Deploy the trained model.      
+7. Use the deployed model.       
 
 
 ### Terminologies     
