@@ -9,6 +9,7 @@ Full list of AWS Sagemaker's built in Algorithms can be found [here](https://doc
 ### Terminologies     
 Elastic Load Balance - Elastic Load Balance automatically distributes incoming application traffic across multiple Amazon EC2 instances.   
 EC2 instance - Elastic Compute Cloud    
+AWS Lambda - is an event-driven, serverless computing platform provided by Amazon as a part of Amazon Web Services. In AWS Lambda, the code is executed based on the response of events in AWS services such as add/delete files in S3 bucket, HTTP request from Amazon API gateway, etc. However, Amazon Lambda can only be used to execute background tasks.    
 
 # Step 1. Data Engineering
 
