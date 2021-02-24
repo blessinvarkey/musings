@@ -6,6 +6,15 @@
 
 Full list of AWS Sagemaker's built in Algorithms can be found [here](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html). 
 
+Download or otherwise retrieve the data.     
+Process / Prepare the data.      
+Upload the processed data to S3.      
+Train a chosen model.       
+Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
+Deploy the trained model.      
+Use the deployed model.       
+
+
 ### Terminologies     
 Elastic Load Balance - Elastic Load Balance automatically distributes incoming application traffic across multiple Amazon EC2 instances.   
 EC2 instance - Elastic Compute Cloud    
