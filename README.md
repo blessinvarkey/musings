@@ -1,19 +1,22 @@
 # aws-notes
 
+
+### Steps involved 
+1. Create a Sagemaker notebook instance
+2. Create a Jupyter notebook
+3. Download or retrieve the data.     
+5. Process / Prepare the data.      
+6. Upload the processed data to S3.      
+7. Train the chosen model.       
+8. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
+9. Deploy the trained model.      
+10. Use the deployed model.       
+
 ### AWS Supervised Learning Algorithms List 
 * Regression & Binary/multi-class classification: Factorization Machines Algorithm, K-Nearest Neighbors (k-NN) Algorithm, Linear Learner Algorithm, XGBoost Algorithm   
 * Time-series forecasting: DeepAR Forecasting Algorithm   
 
 Full list of AWS Sagemaker's built in Algorithms can be found [here](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html). 
-
-### Steps involved 
-1. Download or retrieve the data.     
-2. Process / Prepare the data.      
-3. Upload the processed data to S3.      
-4. Train a chosen model.       
-5. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
-6. Deploy the trained model.      
-7. Use the deployed model.       
 
 
 ### Terminologies    
