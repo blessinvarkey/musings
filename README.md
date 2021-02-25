@@ -9,8 +9,8 @@
 6. Upload the processed data to S3.      
 7. Train the chosen model: Set Container, Estimators, Hyperparameters       
 8. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
-9. Deploy the trained model.      
-10. Use the deployed model.       
+9. Deploy & Evaluate the trained model.      
+10. Clean up      
 
 ### AWS Supervised Learning Algorithms List 
 * Regression & Binary/multi-class classification: Factorization Machines Algorithm, K-Nearest Neighbors (k-NN) Algorithm, Linear Learner Algorithm, XGBoost Algorithm   
