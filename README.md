@@ -5,12 +5,12 @@
 1. Create a Sagemaker notebook instance
 2. Create a Jupyter notebook
 3. Download or retrieve the data.     
-5. Process / Prepare the data.      
-6. Upload the processed data to S3.      
-7. Train the chosen model: Set Container, Estimators, Hyperparameters       
-8. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
-9. Deploy & Evaluate the trained model.      
-10. Clean up      
+4. Process / Prepare the data.      
+5. Upload the processed data to S3.      
+6. Train the chosen model: Set Container, Estimators, Hyperparameters       
+7. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
+8. Deploy & Evaluate the trained model.      
+9. Clean up      
 
 ### AWS Supervised Learning Algorithms List 
 * Regression & Binary/multi-class classification: Factorization Machines Algorithm, K-Nearest Neighbors (k-NN) Algorithm, Linear Learner Algorithm, XGBoost Algorithm   
