@@ -2,12 +2,12 @@
 
 
 ### Steps involved 
-1. Create a Sagemaker notebook instance
-2. Create a Jupyter notebook
+1. Create a Sagemaker notebook instance     
+2. Create a Jupyter notebook     
 3. Download or retrieve the data.     
-4. Process / Prepare the data.      
+4. Process / Prepare the data. (Exploratory Data Analysis, Split, train and validation)      
 5. Upload the processed data to S3.      
-6. Train the chosen model: Set Container, Estimators, Hyperparameters       
+6. Train the chosen model (Set Container, Estimators, Hyperparameters)       
 7. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
 8. Deploy & Evaluate the trained model.      
 9. Clean up      
