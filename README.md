@@ -10,7 +10,7 @@
 6. Train the chosen model (Set Container, Estimators, Hyperparameters)       
 7. Test the trained model (using [batch transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html) job).      
 8. Deploy the endpoint
-9. Use the model     
+9. Use the model (send test data to evaluate results)    
 10. Clean up      
 
 ### Terminologies
