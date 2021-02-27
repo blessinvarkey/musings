@@ -43,3 +43,19 @@ prefix = 'boston-xgboost-deploy-11'
 val_location = pass #validation.csv
 train_location = pass #train.csv
 
+""""""""""""""""""""""Train and execute the model""""""""""""""""
+#Set algo, hyperparameters
+#Set up the training job
+#Session logs - Model artifact is created
+# Create a model inside the sagemaker by specifying which model artifact should be used along with which docker container contains the inference code.
+# model_info is used to constuct the sagemaker model
+container = pass 
+training_params = {}
+training_params['RoleArn'] = role
+training_params['AlgorithmSpecification']
+training_params['OutputDataConfig']
+training_params['ResouceConfig']
+training_params['StoppingCondition']
+training_params['hyperparameters']
+training_params['InputDataConfig']
+
