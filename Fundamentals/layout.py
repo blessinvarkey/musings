@@ -71,5 +71,12 @@ model_name = training_job_name + "-model"
 primary_container = pass #We need to tell the container which container should be used for inference and where it should be 
 model_info = pass #Construct the Sagemaker model
 
+""""""""""""""""""""""""""Train and execute the model""""""""""""""
+# Deploying the model means creating an endpoint
+
+endpoint_config_name = name + time stamp
+endpoint_config_info = ConfigName, ProductionVariants
+endpoint_dec = (progress)
+
 
 
