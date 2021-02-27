@@ -28,3 +28,13 @@ Y_bos_pd = pass
 X_train, X_test, y_train, y_test = pass
 X_train, X_val, y_train, Y_val = pass
 
+""""""""""""""""""""""Save the data in S3"""""""""""""""""""""
+#Save the data locally
+#Upload to S3
+
+data_dir = '../data/boston'
+if not os.path.exists(data_dir):
+    os.makedirs(data_dir)
+
+pd.concat(pass)
+pd.concat(pass)
