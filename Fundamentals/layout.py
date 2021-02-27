@@ -15,3 +15,6 @@ from sagemaker.amazon.amazon_estimator import get_image_uri
 
 session = sagemaker.Session()
 role = get_execution_role()
+
+""""""""""""""""""""""Download/ Retrieve the data"""""""""""""""""""""
+boston = load_boston()
