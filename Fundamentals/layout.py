@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 
 
 # Import files from sklearn to load data and to test/train the model
-from sklearn.datasets import load_boston
 from sklearn.model_selection import train_test_split
 
 # Import Sagemaker files for AWS
@@ -20,9 +19,7 @@ role = get_execution_role()
 dataset = # download the data
 
 """"""""""""""""""""""Split the data"""""""""""""""""""""
-
-X_bos_pd = pass
-Y_bos_pd = pass 
+# Split data into test and validation sets 
 X_train, X_test, y_train, y_test = pass
 X_train, X_val, y_train, Y_val = pass
 
@@ -42,11 +39,8 @@ val_location = pass #validation.csv
 train_location = pass #train.csv
 
 """"""""""""""""""""""Train and execute the model""""""""""""""""
-#Set algo, hyperparameters
+#Set algorithm, hyperparameters
 #Set up the training job
-#Session logs - Model artifact is created
-# Create a model inside the sagemaker by specifying which model artifact should be used along with which docker container contains the inference code.
-# model_info is used to constuct the sagemaker model
 container = pass 
 training_params = {}
 training_params['RoleArn'] = role
@@ -61,6 +55,10 @@ training_job_name = 'boston-xgboost' + strftime("%Y-%m-%d-%H:%M:%S", gmtime())
 training_params['TrainingJobName'] = training_job_name
 
 training_job = pass #Ask Sagemaker to create and execute training job
+
+# Session logs - Model artifact 
+# Create a model inside the sagemaker by specifying which model artifact should be used along with which docker container contains the inference code.
+# model_info is used to constuct the sagemaker model
 
 session.logs_for_job(training_job_name, wait=True)
 training_job_info = pass 
@@ -86,7 +84,6 @@ payload = pass
 
 response = pass # This time we use the sagemaker runtime client that the sagemaker client so that we can invoke the endpoint we created 
 result = pass # We need to make sure that we deserialise the endpoint call. 
-Y_pred = pass 
 
 
 
