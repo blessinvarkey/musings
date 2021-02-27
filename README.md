@@ -27,7 +27,7 @@ Full list of AWS Sagemaker's built in Algorithms can be found [here](https://doc
 ### Terminologies    
 **S3 Bucket** A bucket is a container for objects stored in Amazon S3. Every object is contained in a bucket. Buckets are the fundamental containers in Amazon S3 for data storage.     
 **Elastic Load Balance** - Elastic Load Balance automatically distributes incoming application traffic across multiple Amazon EC2 instances.   
-**EC2 instance - Elastic Compute Cloud** An EC2 instance is nothing but a virtual server in Amazon Web services terminology.   
+**EC2 instance - Elastic Compute Cloud** An EC2 instance is nothing but a virtual server in Amazon Web services terminology. It is a web service where an AWS subscriber can request and provision a compute server in AWS cloud.  
 **AWS Lambda** - is an event-driven, serverless computing platform provided by Amazon as a part of Amazon Web Services. In AWS Lambda, the code is executed based on the response of events in AWS services such as add/delete files in S3 bucket, HTTP request from Amazon API gateway, etc. However, Amazon Lambda can only be used to execute background tasks.    
 
 # Step 1. Data Engineering
