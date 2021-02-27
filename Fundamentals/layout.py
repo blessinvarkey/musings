@@ -17,10 +17,8 @@ session = sagemaker.Session()
 role = get_execution_role()
 
 """"""""""""""""""""""Download/ Retrieve the data"""""""""""""""""""""
-boston = load_boston()
+dataset = # download the data
 
-""""""""""""""""""""""Split the data"""""""""""""""""""""
-boston = load_boston()
 """"""""""""""""""""""Split the data"""""""""""""""""""""
 
 X_bos_pd = pass
@@ -77,6 +75,9 @@ model_info = pass #Construct the Sagemaker model
 endpoint_config_name = name + time stamp
 endpoint_config_info = ConfigName, ProductionVariants
 endpoint_dec = (progress)
+
+""""""""""""""""""""""Test the model""""""""""""""""
+
 
 
 """"""""""""""""""""""Test the model""""""""""""""""
