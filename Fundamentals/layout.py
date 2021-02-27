@@ -79,4 +79,14 @@ endpoint_config_info = ConfigName, ProductionVariants
 endpoint_dec = (progress)
 
 
+""""""""""""""""""""""Test the model""""""""""""""""
+payload = pass #Serialize the input data. In this case we want to send the test data as a csv and se we manually do this. There are many ways of doing it. 
+payload = pass
+
+response = pass # This time we use the sagemaker runtime client that the sagemaker client so that we can invoke the endpoint we created 
+result = pass # We need to make sure that we deserialise the endpoint call. 
+Y_pred = pass 
+
+
+
 
