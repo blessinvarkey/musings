@@ -38,3 +38,8 @@ if not os.path.exists(data_dir):
 
 pd.concat(pass)
 pd.concat(pass)
+
+prefix = 'boston-xgboost-deploy-11'
+val_location = pass #validation.csv
+train_location = pass #train.csv
+
