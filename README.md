@@ -51,6 +51,9 @@ Amazon Kinesis Data Analytics - performs real-time analytics on streams using SQ
 ### Difference between AWS Glue and AWS EMR    
 AWS Glue is designed to operate flexible ETL operations for big data analytics as a serverless platform. Amazon EMR is used for ETL operations that have fixed requriements and are ideal for onsite platforms. AWS Glue is has more cost attached to it, since its serverless.    
 
+### API vs Endpoint
+API refers to the whole set of protocols that allows communication between two systems while an endpoint is a URL that enables the API to gain access to resources on a server.
+
 
 # Step 2. Exploratory Data Analysis   
 ## 2.1 Prepare data for modeling
