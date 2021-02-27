@@ -13,3 +13,5 @@ import os
 import sagemaker import get_execution_role
 from sagemaker.amazon.amazon_estimator import get_image_uri
 
+session = sagemaker.Session()
+role = get_execution_role()
