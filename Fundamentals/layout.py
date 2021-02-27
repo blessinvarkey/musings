@@ -18,3 +18,13 @@ role = get_execution_role()
 
 """"""""""""""""""""""Download/ Retrieve the data"""""""""""""""""""""
 boston = load_boston()
+
+""""""""""""""""""""""Split the data"""""""""""""""""""""
+boston = load_boston()
+""""""""""""""""""""""Split the data"""""""""""""""""""""
+
+X_bos_pd = pass
+Y_bos_pd = pass 
+X_train, X_test, y_train, y_test = pass
+X_train, X_val, y_train, Y_val = pass
+
