@@ -59,3 +59,17 @@ training_params['StoppingCondition']
 training_params['hyperparameters']
 training_params['InputDataConfig']
 
+training_job_name = 'boston-xgboost' + strftime("%Y-%m-%d-%H:%M:%S", gmtime())
+training_params['TrainingJobName'] = training_job_name
+
+training_job = pass #Ask Sagemaker to create and execute training job
+
+session.logs_for_job(training_job_name, wait=True)
+training_job_info = pass 
+model_artifacts = training_job_info['ModelArtifacts']['S3ModelArtifacts']
+model_name = training_job_name + "-model"
+primary_container = pass #We need to tell the container which container should be used for inference and where it should be 
+model_info = pass #Construct the Sagemaker model
+
+
+
