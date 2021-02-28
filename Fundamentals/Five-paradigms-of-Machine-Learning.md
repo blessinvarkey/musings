@@ -6,3 +6,4 @@ Evolutionaries  | Evolutionary biology | Genetic Programming
 Bayesians       | Statistics           | Probabilistic inference    
 Analogizers     | Psychology           | Kernal Machines     
 
+## Back Propagation
