@@ -7,3 +7,7 @@ Bayesians       | Statistics           | Probabilistic inference
 Analogizers     | Psychology           | Kernal Machines     
 
 ## Back Propagation
+
+## How To Implement The Perceptron Algorithm From Scratch In Python
+
+Visit [this page](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/) to learn more. 
