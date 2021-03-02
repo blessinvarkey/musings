@@ -12,6 +12,6 @@ Jump to:
 | Data Engineering      | aws     | 
 | [Simple Storage Service](posts/S3-simple-storage-service.md)| aws |
 | [Case Studies](posts/Case-Studies.md) | aws |
-| 5 paradigms of Machine Learning | ml  | 
+| [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | Pedro Domingos, Jason Brownlee, Alberto Bietti, Julien Mairal  | 
 
 
