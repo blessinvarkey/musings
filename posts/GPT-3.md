@@ -2,7 +2,7 @@
 
 *"AI is going to change the world, but GPT-3 is just a very early glimpse."* - Even Sam Altman, co-founder of OpenAI
 
-One of the most hyped, impressive piece of engineering announced last year was the GPT-3 language prediction model. 
+One of the most hyped, impressive piece of engineering announced last year was the GPT-3 language prediction model. It has the potential to someday merge with a search engine (like Google) and create the next trillion dollar company. So, let's have a look at what we know so far. 
 
 - GPT-3 is a language prediction model by OpenAI.  
 - An example of **unsupervised learning** as the training data doesn't include information that is right or wrong.      
