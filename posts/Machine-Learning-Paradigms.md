@@ -1,23 +1,26 @@
 ## Paradigms of Machine Learning 
 
-### The 14 Learnings in Machine Learning  
+### The 14 Learnings in Machine Learning ([collated by Jason Brownlee](https://machinelearningmastery.com/types-of-learning-in-machine-learning/))  
 
-Learning Problems
+#### Learning Problems
 
 1. Supervised Learning
 2. Unsupervised Learning
 3. Reinforcement Learning
-Hybrid Learning Problems
+
+#### Hybrid Learning Problems
 
 4. Semi-Supervised Learning
 5. Self-Supervised Learning
 6. Multi-Instance Learning
-Statistical Inference
+
+#### Statistical Inference
 
 7. Inductive Learning
 8. Deductive Inference
 9. Transductive Learning
-Learning Techniques
+
+#### Learning Techniques
 
 10. Multi-Task Learning
 11. Active Learning
