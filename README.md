@@ -1,7 +1,7 @@
 
 # Blog
 
-Topics both old and new. 
+Topics on AI, some old, some new. Mostly intended for making AWS notes. 
 
 | Topics        | Date |
 | ------------- | :------------- | 
