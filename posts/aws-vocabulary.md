@@ -1,4 +1,4 @@
-# aws-notes
+# aws-vocabulary
 
 
 ### Steps involved 
