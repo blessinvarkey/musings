@@ -12,9 +12,9 @@ The aws notes are part of my ongoing aws exploration.
 
 | Topics        |
 | ------------- |
+| [Simple Storage Service](posts/S3-simple-storage-service.md)| 
 | Data Engineering      | 
 | [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      |
-| [Simple Storage Service](posts/S3-simple-storage-service.md)| 
 | [Case Studies](posts/Case-Studies.md) | 
 
 
