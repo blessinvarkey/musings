@@ -4,13 +4,14 @@ PS: these notes are still being prepared.
 
 Jump to:
 
-machine learning
+## machine learning
 | Topics        | Keywords      | 
 | ------------- |:-------------:| 
 | [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | March, 2020  | 
 
-aws
+## aws
 | Topics        | Keywords      | 
+| ------------- |:-------------:| 
 | [aws vocabulary](posts/aws-vocabulary.md)     | Feb, 2020 | 
 | [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      | Feb, 2020      | 
 | Data Engineering      | Feb, 2020     | 
