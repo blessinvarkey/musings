@@ -1,4 +1,12 @@
-## 5 paradigms of Machine Learning by Pedro Domingos
+## Paradigms of Machine Learning 
+
+### Supervised Learning
+
+### Unsupervised Learning
+
+### Reinforcement Learning
+
+### Five paradigms of Machine Learning according to the Master Algorithm by Pedro Domingos:
 
 |                 |                      |                          |
 | -----------     | -----------          | --------------           |
