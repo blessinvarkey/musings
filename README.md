@@ -12,6 +12,6 @@ Jump to:
 | aws vocabulary     | aws, ML | 
 | Exploratory Data Analysis      | aws      | 
 | Data Engineering      | aws     | 
-
+| Simple Storage Service| aws |
 
 
