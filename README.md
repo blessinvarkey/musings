@@ -9,8 +9,8 @@
 ## aws
 | Topics        | Month      | 
 | ------------- |:-------------:| 
-| [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      | Feb, 2021      | 
 | Data Engineering      | Feb, 2021     | 
+| [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      | Feb, 2021      | 
 | [Simple Storage Service](posts/S3-simple-storage-service.md)| Feb, 2021 |
 | [Case Studies](posts/Case-Studies.md) | Feb, 2021 |
 
