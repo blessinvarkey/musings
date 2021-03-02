@@ -4,7 +4,7 @@
 | Topics        | Date |
 | ------------- | :------------- | 
 | [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | March 2021 |
-| [GPT-3 | Unsupervised Machine Learning](posts/GPT-3.md) | March 2021 |
+| [GPT-3 : Unsupervised Machine Learning](posts/GPT-3.md) | March 2021 |
 
 ## aws notes
 
