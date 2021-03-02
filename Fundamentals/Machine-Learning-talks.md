@@ -1,7 +1,7 @@
 ## 5 paradigms of Machine Learning by Pedro Domingos
 
-| Syntax          | Description          |                          |
-| -----------     | -----------          | -------------------------|
+|                 |                      |                          |
+| -----------     | -----------          | --------------           |
 | Symbolists      | Logic, Philosophy    | Inverse deduction        | 
 | Connectionists  | Neuroscience         | Backpropagation          | 
 | Evolutionaries  | Evolutionary biology | Genetic Programming      | 
