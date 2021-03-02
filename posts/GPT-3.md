@@ -20,5 +20,5 @@ I am not asking humans to like me. But they should see me as a friendly robot. I
 
 
 ## References 
-1. [What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?/ Forbes](https://www.forbes.com/sites/bernardmarr/2020/10/05/what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/?sh=435f1903481a)
+1. [What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence? via Forbes](https://www.forbes.com/sites/bernardmarr/2020/10/05/what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/?sh=435f1903481a)
 2. [A robot wrote this entire article. Are you scared yet, human?](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)
