@@ -29,13 +29,12 @@
 14. Ensemble Learning
 
 
-### Three paradigms of Machine Learning (Alberto Bietti, Julien Mairal)
+### Three paradigms of Machine Learning ([Alberto Bietti, Julien Mairal](https://lear.inrialpes.fr/people/mairal/resources/pdf/course_1.pdf))
 Optimization
 Kernal Methods
 Deep Neural Methods
 The sparsity principle
 
-[View source](https://lear.inrialpes.fr/people/mairal/resources/pdf/course_1.pdf) 
 
 ### Five paradigms of Machine Learning (Pedro Domingos):
 
