@@ -5,12 +5,12 @@ PS: these notes are still being prepared.
 Jump to:
 
 ## machine learning
-| Topics        | Keywords      | 
+| Topics        | Month      | 
 | ------------- |:-------------:| 
 | [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | March, 2020  | 
 
 ## aws
-| Topics        | Keywords      | 
+| Topics        | Month      | 
 | ------------- |:-------------:| 
 | [aws vocabulary](posts/aws-vocabulary.md)     | Feb, 2020 | 
 | [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      | Feb, 2020      | 
