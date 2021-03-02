@@ -1,6 +1,6 @@
 # GPT-3 | Generative Pre-trained Transformer 3 
 
-"AI is going to change the world, but GPT-3 is just a very early glimpse." - Even Sam Altman, co-founder of OpenAI
+*"AI is going to change the world, but GPT-3 is just a very early glimpse." - Even Sam Altman, co-founder of OpenAI*
 
 One of the most hyped, impressive piece of engineering announced last year was the GPT-3 language prediction model. 
 
