@@ -8,8 +8,8 @@
 | [GPT-3](posts/GPT-3.md) | 
 
 ## aws
-| Topics        | Month      | 
-| ------------- |:-------------:| 
+| Topics        |
+| ------------- |
 | Data Engineering      | 
 | [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      |
 | [Simple Storage Service](posts/S3-simple-storage-service.md)| 
