@@ -1,6 +1,8 @@
 # GPT-3 | Generative Pre-trained Transformer 3 
 
-One of the most hyped, impressive piece of engineering last year was the GPT-3 
+"AI is going to change the world, but GPT-3 is just a very early glimpse." - Even Sam Altman, co-founder of OpenAI
+
+One of the most hyped, impressive piece of engineering announced last year was the GPT-3 language prediction model. 
 
 - GPT-3 is a language prediction model by OpenAI.  
 - An example of **unsupervised learning** as the training data doesn't include information that is right or wrong.      
@@ -9,6 +11,7 @@ One of the most hyped, impressive piece of engineering last year was the GPT-3
 - GPT or Generative Pre-trained Transformer (-3) generates text using algorithms that are pre-trained or pre fed with the required data.     
 - Data has been collected from [Common Crawl](https://commoncrawl.org), Wikipedia and other sources.      
 - It scans all the text in its training data – hundreds of billions of words, arranged into meaningful language – and determines what word it should use to recreate the original phrase.   
+- The model has 175 billion parameters (the values that a neural network tries to optimize during training), compared with GPT-2’s already vast 1.5 billion. 
 - GPT-3 can answer questions, write essays, summarize long texts, translate languages, take memos, and even create computer code     
 
 ## GPT-3 in action 
