@@ -8,7 +8,7 @@
 
 ## aws notes
 
-The aws notes are part of my ongoing aws exploration. 
+The following notes are part of my ongoing aws exploration. 
 
 | Topics        |
 | ------------- |
