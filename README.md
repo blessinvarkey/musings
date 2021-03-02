@@ -10,7 +10,7 @@
 ## aws
 | Topics        | Month      | 
 | ------------- |:-------------:| 
-| Data Engineering      | Feb, 2021     | 
+| Data Engineering      | 
 | [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      |
 | [Simple Storage Service](posts/S3-simple-storage-service.md)| 
 | [Case Studies](posts/Case-Studies.md) | 
