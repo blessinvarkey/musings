@@ -1,13 +1,16 @@
 ## 5 paradigms of Machine Learning by Pedro Domingos
 
-Symbolists      | Logic, Philosophy    | Inverse deduction    
-Connectionists  | Neuroscience         | Backpropagation    
-Evolutionaries  | Evolutionary biology | Genetic Programming      
-Bayesians       | Statistics           | Probabilistic inference    
-Analogizers     | Psychology           | Kernal Machines     
+| Syntax          | Description          |                          |
+| -----------     | -----------          | -------------------------|
+| Symbolists      | Logic, Philosophy    | Inverse deduction        | 
+| Connectionists  | Neuroscience         | Backpropagation          | 
+| Evolutionaries  | Evolutionary biology | Genetic Programming      | 
+| Bayesians       | Statistics           | Probabilistic inference  |   
+| Analogizers     | Psychology           | Kernal Machines          | 
+
 
 ## Back Propagation
 
-## How To Implement The Perceptron Algorithm From Scratch In Python
+- [How To Implement The Perceptron Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)
+- [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
-Visit [this page](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/) to learn more. 
