@@ -1,6 +1,8 @@
 
 # Blog
-## machine learning
+
+Topics both old and new. 
+
 | Topics        | Date |
 | ------------- | :------------- | 
 | [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | March 2021 |
