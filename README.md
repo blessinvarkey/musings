@@ -4,8 +4,8 @@
 ## machine learning
 | Topics        | 
 | ------------- | 
-| [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | 
-| [GPT-3](posts/GPT-3.md) | 
+| [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | March 2021 |
+| [GPT-3](posts/GPT-3.md) | March 2021 |
 
 ## aws
 | Topics        |
