@@ -1,8 +1,5 @@
 # Notes
 
-PS: these notes are still being prepared. 
-
-Jump to:
 
 ## machine learning
 | Topics        | Month      | 
