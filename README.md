@@ -7,6 +7,9 @@
 | [GPT-3](posts/GPT-3.md) | March 2021 |
 
 ## aws notes
+
+The aws notes are part of my ongoing aws exploration. 
+
 | Topics        |
 | ------------- |
 | Data Engineering      | 
