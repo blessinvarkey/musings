@@ -36,7 +36,7 @@ Deep Neural Methods
 The sparsity principle
 
 
-### Five paradigms of Machine Learning (Pedro Domingos):
+### Five paradigms of Machine Learning ([Pedro Domingos](https://www.amazon.in/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)):
 
 |                 |                      |                          |
 | -----------     | -----------          | --------------           |
