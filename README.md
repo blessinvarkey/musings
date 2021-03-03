@@ -9,30 +9,26 @@ Topics on AI, some old, some new. Mostly intended for making AWS notes.
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
 
 # aws notes
-
 The following notes are part of my ongoing aws exploration. 
 
-| Topics        |
-| ------------- |
-| [Simple Storage Service](posts/S3-simple-storage-service.md)| 
-| Data Engineering      | 
-| [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)      |
-| [Case Studies](posts/Case-Studies.md) | 
-
-
-# aws + ml
-
 ### Steps involved 
-1. Create a Sagemaker notebook instance     
-2. Create a Jupyter notebook (Set session and role)     
-3. Download or retrieve the data.     
-4. Process / Prepare the data. (Exploratory Data Analysis/ Split into train, test and validation)      
-5. Upload the processed data to S3. (save locally and as test, train validation.csv)   
-6. Train the chosen model (Set Container, Estimators, Hyperparameters using [CreateTrainingJob API](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_CreateTrainingJob.html))       
-7. Test the trained model       
-8. Deploy the endpoint
-9. Use the model (send test data to evaluate results)    
-10. Clean up      
+| Topics        | Notes|
+| ------------- |:------ |
+| 1. Create a Sagemaker notebook instance     | |
+| 2. Create a Jupyter notebook  | (Set session and role)   |
+| 3. Download or retrieve the data.     | |
+| 4. Process / Prepare the data. |  [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)/ Split into train, test and validation  | 
+| 5. Upload the processed data to S3.   | save locally and as test, train validation.csv |
+| 6. Train the chosen model   | (Set Container, Estimators, Hyperparameters using [CreateTrainingJob API](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_CreateTrainingJob.html))     |
+| 7. Test the trained model |       |
+| 8. Deploy the endpoint | |
+| 9. Use the model    |   (send test data to evaluate results)    |
+| 10. Clean up      |   |
+| [Case Studies](posts/Case-Studies.md) | Netflix|
+
+[Simple Storage Service](posts/S3-simple-storage-service.md)
+
+
 
 ### Terminologies
 session - A session is a special object that allows you to manage data in S3 and create and train any machine learning models.  
