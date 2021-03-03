@@ -24,15 +24,17 @@ The following notes are part of my ongoing aws exploration.
 | 8. Deploy the endpoint | |
 | 9. Use the model    |   (send test data to evaluate results)    |
 | 10. Clean up      |   |
-| [Case Studies](posts/Case-Studies.md) | Netflix|
-
-[Simple Storage Service](posts/S3-simple-storage-service.md)
-
 
 
 ### Terminologies
 session - A session is a special object that allows you to manage data in S3 and create and train any machine learning models.  
 role - The role/IAM role defines how data is stored.
+[Simple Storage Service](posts/S3-simple-storage-service.md)
+
+### Case Studies
+[Netflix](posts/Case-Studies.md) 
+
+
 
 ### AWS Supervised Learning Algorithms List 
 * Regression & Binary/multi-class classification: Factorization Machines Algorithm, K-Nearest Neighbors (k-NN) Algorithm, Linear Learner Algorithm, XGBoost Algorithm   
