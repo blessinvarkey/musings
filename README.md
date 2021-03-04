@@ -28,7 +28,7 @@ The following notes are part of my ongoing aws exploration.
 
 ### Terminologies
 session - A session is a special object that allows you to manage data in S3 and create and train any machine learning models.  
-role - The role/IAM role defines how data is stored.
+role - The role/IAM role defines how data is stored. Session documentation can be found [here](https://sagemaker.readthedocs.io/en/latest/session.html). 
 [Simple Storage Service](posts/S3-simple-storage-service.md).   
 Hyperparameter tuning - Parameters which define the model architecture are referred to as hyperparameters and the process of searching for the ideal model architecture is referred to as hyperparameter tuning.
 ### Case Studies
