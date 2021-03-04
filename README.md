@@ -19,7 +19,7 @@ The following notes are part of my ongoing aws exploration.
 | 3. Download or retrieve the data.     | |
 | 4. Process / Prepare the data. |  [Exploratory Data Analysis](posts/Exploratory-Data-Analysis.md)/ Split into train, test and validation  | 
 | 5. Upload the processed data to S3.   | save locally and as test, train validation.csv |
-| 6. Train the chosen model   | (Set Container, Estimators, Hyperparameters using [CreateTrainingJob API](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_CreateTrainingJob.html))     |
+| 6. Train the chosen model   | Container, Estimators, Hyperparameters, using [CreateTrainingJob API](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_CreateTrainingJob.html))     |
 | 7. Test the trained model |       |
 | 8. Deploy the endpoint | |
 | 9. Use the model    |   (send test data to evaluate results)    |
@@ -30,7 +30,7 @@ The following notes are part of my ongoing aws exploration.
 session - A session is a special object that allows you to manage data in S3 and create and train any machine learning models.  
 role - The role/IAM role defines how data is stored.
 [Simple Storage Service](posts/S3-simple-storage-service.md)
-
+Hyperparameter tuning: Parameters which define the model architecture are referred to as hyperparameters and the process of searching for the ideal model architecture is referred to as hyperparameter tuning.
 ### Case Studies
 [Netflix](posts/Case-Studies.md) 
 
