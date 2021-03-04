@@ -30,7 +30,7 @@ The following notes are part of my ongoing aws exploration.
 session - A session is a special object that allows you to manage data in S3 and create and train any machine learning models.  
 role - The role/IAM role defines how data is stored.
 [Simple Storage Service](posts/S3-simple-storage-service.md).   
-Hyperparameter tuning: Parameters which define the model architecture are referred to as hyperparameters and the process of searching for the ideal model architecture is referred to as hyperparameter tuning.
+Hyperparameter tuning - Parameters which define the model architecture are referred to as hyperparameters and the process of searching for the ideal model architecture is referred to as hyperparameter tuning.
 ### Case Studies
 [Netflix](posts/Case-Studies.md) 
 
