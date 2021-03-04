@@ -1,2 +1,5 @@
 
-## The curse of dimentionality
+## Grid Search and the curse of dimentionality
+
+
+## Random Search 
