@@ -7,6 +7,8 @@ Topics on AI, some old, some new. Mostly intended for making AWS notes.
 | ------------- | :------------- | 
 | [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | March 2021 |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
+| ResNet | | 
+| Single Shot Multibox Detector | |
 
 # aws notes
 The following notes are part of my ongoing aws exploration. 
