@@ -9,7 +9,7 @@ Topics on AI, some old, some new. Mostly intended for making AWS notes.
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
 | ResNet | | 
 | Single Shot Multibox Detector | |
-
+| Neural Radiance Feilds | |
 # aws notes
 The following notes are part of my ongoing aws exploration. 
 
