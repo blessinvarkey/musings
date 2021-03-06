@@ -28,7 +28,15 @@ When tasks cannot be adequately solved using a simple (deterministic), rule-base
 | 10. Clean up      |   |
 
 
+
 ### Terminologies
+AWS Sagemaker-> Notebook Instance-> ml.t2.medium (Instance type)-> Any S3 bucket with Sagemaker (IAM Role)->Start-> Select New (button on the left)->terminal
+
+```
+cd SageMaker
+git clone https://github.com/..(repository link)
+exit
+```
 session - A session is a special object that allows you to manage data in S3 and create and train any machine learning models.  
 role - The role/IAM role defines how data is stored. Session documentation can be found [here](https://sagemaker.readthedocs.io/en/latest/session.html). 
 [Simple Storage Service](posts/S3-simple-storage-service.md).   
