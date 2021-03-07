@@ -4,7 +4,8 @@
 
 One of the most hyped, impressive piece of engineering announced last year was the GPT-3 language prediction model. It has the potential to someday merge with a search engine (like Google) and create the next trillion dollar company. So, let's have a look at what we know so far. 
 
-![alt text](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0145faf1-4ca1-43d9-9609-5fc7e9eb03ff_577x433.jpeg)
+![A text box sends a request to recite the first law of robotics to GPT-3. GPT-3 displays the output](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif)
+
 
 ## TL/DR
 
