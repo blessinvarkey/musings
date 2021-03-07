@@ -17,6 +17,7 @@ One of the most hyped, impressive piece of engineering announced last year was t
 - The model has 175 billion parameters (the values that a neural network tries to optimize during training), compared with GPT-2’s already vast 1.5 billion. 
 - We can pass GPT-3 some text: aka ask questions, ask GPT-3 to write essays, summarize long texts, translate languages, take memos, and even create computer code     
 
+![Turing test on GPT-3](https://raw.githubusercontent.com/blessinvarkey/blog/main/images/GPT-3-turing%20test.png)
 ## How does it work? 
 
 GPT-3 is a language model which can generate knowledge by training on a large dataset. So, when a user makes a request, the language prediction model analyses it and provides the most probable answer. The model processes all the text it has collected from Wikipedia, Common Crawl etc. and calculates the most statistically expected output. 
@@ -52,7 +53,9 @@ Porr's experiement highlighted a potential abuse of the tool i.e. a ton of click
 ![alt text](https://i.redd.it/dsux4qqlhbh61.jpg)
 
 
+
 ## References 
 1. [What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence? via Forbes](https://www.forbes.com/sites/bernardmarr/2020/10/05/what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/?sh=435f1903481a)
 2. [A robot wrote this entire article. Are you scared yet, human?](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)
 3. [Adolos Blog](https://adolos.substack.com/p/what-i-would-do-with-gpt-3-if-i-had)
+4. [Giving GPT-3 a Turing Test](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
