@@ -19,7 +19,9 @@ One of the most hyped, impressive piece of engineering announced last year was t
 
 ## How does it work? 
 
-GPT-3 is a language model which can generate knowledge by training on a large uncategorized dataset taken from the internet. So, when a user prompts a request, the language prediction model analyses it and provides the most probable answer. The model processes all the text it has collected from Wikipedia, Common Crawl etc. and calculates the most statistically expected output. 
+GPT-3 is a language model which can generate knowledge by training on a large uncategorized dataset taken from the internet. So, when a user prompts a request, the language prediction model analyses it and provides the most probable answer. The model processes all the text it has collected from the entirety of Wikipedia i.e. more than 6 million articles (which btw only makes up only 0.6 percent of its training data), Common Crawl, digitized books and various web links to calculate the most statistically expected output. 
+
+
 
 Therefore, GPT-3 is extremely powerful without understanding a single word it produces. Without specific tuning & adjustments, the language can write stories, blog articles, PR materials, and even technical documentation. Most of the time, the outputs feel very similar to those written by a human.
 ![alt-text](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif)
