@@ -40,6 +40,8 @@ When Kevin Lackner got his hands on GPT-3, he did a Turing Test on the language 
 
 ![alt-text](https://prototypr.gumlet.io/wp-content/uploads/2020/07/2020-07-22-14-39-08.2020-07-22-14_40_46.gif?w=2400)
 
+# GPT-3 and Programming 
+![GPT-3 React](https://miro.medium.com/max/1200/1*djwjfDwCks17MMuP-TxJQg.gif)
 
 
 ## Potential Misuse
