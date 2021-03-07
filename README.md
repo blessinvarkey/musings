@@ -5,8 +5,8 @@ Topics on AI, some old, some new. Mostly intended for making AWS notes.
 
 | Topics        | Date |
 | ------------- | :------------- | 
-| [Paradigms of Machine Learning](posts/Machine-Learning-Paradigms.md) | March 2021 |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
+| Paradigms of Machine Learning |  |
 | ResNet | | 
 | Single Shot Multibox Detector | |
 | Neural Radiance Fields (NERF) | |
