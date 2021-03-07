@@ -6,9 +6,9 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 | Topics        | Month |
 | ------------- | :------------- | 
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
-| Neural Radiance Fields (NERF) | |
+| NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
-| ResNet | | 
+| ResNet: Residual Neural Network | | 
 | Single Shot Multibox Detector | |
 
 # aws notes
