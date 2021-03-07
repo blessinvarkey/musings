@@ -6,6 +6,8 @@ One of the most hyped, impressive piece of engineering announced last year was t
 
 ![alt text](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0145faf1-4ca1-43d9-9609-5fc7e9eb03ff_577x433.jpeg)
 
+## TL/DR
+
 - GPT-3 is a language prediction model by OpenAI.  
 - An example of **unsupervised learning** as the training data doesn't include information that is right or wrong.      
 - To learn how to build language constructs, such as sentences, it employs semantic analytics - studying not just the words and their meanings, but also gathering an understanding of how the usage of words differs depending on other words also used in the text.   
