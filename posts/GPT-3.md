@@ -19,10 +19,15 @@ One of the most hyped, impressive piece of engineering announced last year was t
 
 ## How does it work? 
 
+
 ![alt-text](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif)
 [Jalammar's blog](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) provides an extensive breakdown of GPT-3 through visuals (like the one shown above). Do check it out. 
 
+
+
 ## GPT-3 in action 
+
+![alt-text](https://prototypr.gumlet.io/wp-content/uploads/2020/07/2020-07-22-14-39-08.2020-07-22-14_40_46.gif?w=2400)
 
 Among the various examples of GPT-3 is the following op-ed published by the Guardian. 
 
