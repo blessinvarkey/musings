@@ -59,7 +59,7 @@ Porr's experiement highlighted a potential abuse of the tool i.e. a ton of click
 
 
 ## References 
-1. [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
+1. [Open AI's Latest Breakthrough Is Astonishingly Powerful, But Still Fighting Its Flaws](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
 2. [What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence? via Forbes](https://www.forbes.com/sites/bernardmarr/2020/10/05/what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/?sh=435f1903481a)
 3. [A robot wrote this entire article. Are you scared yet, human?](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)
 4. [Adolos Blog](https://adolos.substack.com/p/what-i-would-do-with-gpt-3-if-i-had)
