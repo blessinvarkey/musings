@@ -14,8 +14,6 @@ One of the most hyped, impressive piece of engineering announced last year was t
 - The model has 175 billion parameters (the values that a neural network tries to optimize during training), compared with GPT-2’s already vast 1.5 billion. 
 - GPT-3 can answer questions, write essays, summarize long texts, translate languages, take memos, and even create computer code     
 
-![alt text](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0145faf1-4ca1-43d9-9609-5fc7e9eb03ff_577x433.jpeg)
-
 
 ## GPT-3 in action 
 
@@ -25,13 +23,17 @@ Among the various examples of GPT-3 is the following op-ed published by the Guar
 
 ![alt text](https://i.redd.it/f7kd7hyjnt451.png)
 
+
+
 ## Potential Misuse
 
-*"In order to get something done, maybe we need to think less. Seems counter-intuitive, but I believe sometimes our thoughts can get in the way of the creative process. We can work better at times when we "tune out" the external world and focus on what's in front of us.  I've been thinking about this lately, so I thought it would be good to write an article about it."* - excerpt from *Feeling unproductive? Maybe you should stop overthinking,* **by GPT-3**, adolos.substack.com 
+*"Ever since COVID hit, **everyone and their mother started writing online**. One of the most interesting ways people have been playing with this technology is in feeding it article headlines and introductions. While the output is not perfect, you can easily curate it to something that's convincing. This will make it so easy for people to just pump out clickbait articles to drive traffic. It would be pretty simple to do actually. First thing you would need to do is come up with a name. If it were me, I’d name it after the Greek god of deception or something like that just to be clever. Then I’d just stick an “A” in front so nobody gets suspicious.* - blog post titled *What I would do with GPT-3 if I had no ethics* **written by GPT-3** on adolos.substack.com
+
+
+![alt text](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0145faf1-4ca1-43d9-9609-5fc7e9eb03ff_577x433.jpeg)
+
 
 When Liam Porr, a college grad who got his hands on GPT-3, he wrote a small script to execute it on a blog called [adolos](https://adolos.substack.com/archive?sort=new) to see if GPT-3 could pass of as a human writer. The site, which contains 21 blogs, are written by the language prediction model using Liam's name. 
-
-*"Ever since COVID hit, everyone and their mother started writing online. One of the most interesting ways people have been playing with this technology is in feeding it article headlines and introductions. While the output is not perfect, you can easily curate it to something that's convincing. This will make it so easy for people to just pump out clickbait articles to drive traffic. It would be pretty simple to do actually. First thing you would need to do is come up with a name. If it were me, I’d name it after the Greek god of deception or something like that just to be clever. Then I’d just stick an “A” in front so nobody gets suspicious.* - blog post titled *What I would do with GPT-3 if I had no ethics* **written by GPT-3** on adolos.substack.com
 
 
 Porr's experiement highlighted a potential abuse of the tool i.e. a ton of clickbait content. Imagine websites flooded with substandard information on a topic you want to read, which gets updated by a blog post in every few minutes.  
