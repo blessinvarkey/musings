@@ -14,6 +14,8 @@ One of the most hyped, impressive piece of engineering announced last year was t
 - The model has 175 billion parameters (the values that a neural network tries to optimize during training), compared with GPT-2’s already vast 1.5 billion. 
 - GPT-3 can answer questions, write essays, summarize long texts, translate languages, take memos, and even create computer code     
 
+![alt text](https://i.redd.it/f7kd7hyjnt451.png)
+
 ## GPT-3 in action 
 
 Among the various examples of GPT-3 is the following op-ed published by the Guardian. 
