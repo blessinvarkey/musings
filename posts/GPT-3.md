@@ -12,7 +12,7 @@ One of the most hyped, impressive piece of engineering announced last year was t
 - To learn how to build language constructs, such as sentences, it employs semantic analytics - studying not just the words and their meanings, but also gathering an understanding of how the usage of words differs depending on other words also used in the text.   
 - It's an AI that is better at creating content that has a language structure – human or machine language – than anything that has come before it.    
 - GPT or Generative Pre-trained Transformer (-3) generates text using algorithms that are pre-trained or pre fed with the required data.     
-- Data has been collected from [Common Crawl](https://commoncrawl.org), Wikipedia and other sources.      
+- Data has been collected from [Common Crawl](https://commoncrawl.org), [Wikipedia](https://arxiv.org/pdf/1801.10198.pdf) and other sources.      
 - It scans all the text in its training data – hundreds of billions of words, arranged into meaningful language – and determines what word it should use to recreate the original phrase. 
 - The model has 175 billion parameters (the values that a neural network tries to optimize during training), compared with GPT-2’s already vast 1.5 billion. 
 - We can pass GPT-3 some text: aka ask questions, ask GPT-3 to write essays, summarize long texts, translate languages, take memos, and even create computer code     
@@ -20,9 +20,9 @@ One of the most hyped, impressive piece of engineering announced last year was t
 ## How does it work? 
 
 
-![A text box sends a request to recite the first law of robotics to GPT-3. GPT-3 displays the output](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif)
+![A text box sends a request to recite the first law of robotics to GPT-3. GPT-3 displays the output](https://jalammar.github.io/images/gpt3/04-gpt3-generate-tokens-output.gif)
 
-[Jalammar's blog](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif) provides an extensive breakdown of GPT-3 through visuals (like the one shown above). Do check it out. 
+[Jalammar's blog](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) provides an extensive breakdown of GPT-3 through visuals (like the one shown above). Do check it out. 
 
 ## GPT-3 in action 
 
