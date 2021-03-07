@@ -19,8 +19,6 @@ One of the most hyped, impressive piece of engineering announced last year was t
 
 ## How does it work? 
 
-
-![alt-text](https://jalammar.github.io/images/gpt3/04-gpt3-generate-tokens-output.gif)
 ![alt-text](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif)
 [Jalammar's blog](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) provides an extensive breakdown of GPT-3 through visuals (like the one shown above). Do check it out. 
 
