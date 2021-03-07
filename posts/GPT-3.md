@@ -22,7 +22,7 @@ One of the most hyped, impressive piece of engineering announced last year was t
 
 ![A text box sends a request to recite the first law of robotics to GPT-3. GPT-3 displays the output](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif)
 
-[Jalammar's blog](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif) provides excellent visuals on GPT-3. Do check it out. 
+[Jalammar's blog](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif) provides an extensive breakdown of GPT-3 through visuals (like the one shown above). Do check it out. 
 
 ## GPT-3 in action 
 
