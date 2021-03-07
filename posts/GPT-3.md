@@ -17,12 +17,9 @@ One of the most hyped, impressive piece of engineering announced last year was t
 - The model has 175 billion parameters (the values that a neural network tries to optimize during training), compared with GPT-2’s already vast 1.5 billion. 
 - We can pass GPT-3 some text: aka ask questions, ask GPT-3 to write essays, summarize long texts, translate languages, take memos, and even create computer code     
 
-When Kevin Lackner got his hands on GPT-3, he did a Turing Test on the model to see its 
-![Turing test on GPT-3](https://raw.githubusercontent.com/blessinvarkey/blog/main/images/GPT-3-turing%20test.png)
-
 ## How does it work? 
 
-GPT-3 is a language model which can generate knowledge by training on a large uncategorized dataset taken from the internet. So, when a user makes a request, the language prediction model analyses it and provides the most probable answer. The model processes all the text it has collected from Wikipedia, Common Crawl etc. and calculates the most statistically expected output. 
+GPT-3 is a language model which can generate knowledge by training on a large uncategorized dataset taken from the internet. So, when a user prompts a request, the language prediction model analyses it and provides the most probable answer. The model processes all the text it has collected from Wikipedia, Common Crawl etc. and calculates the most statistically expected output. 
 
 Therefore, GPT-3 is extremely powerful without understanding a single word it produces. Without specific tuning & adjustments, the language can write stories, blog articles, PR materials, and even technical documentation. Most of the time, the outputs feel very similar to those written by a human.
 ![alt-text](https://jalammar.github.io/images/gpt3/01-gpt3-language-model-overview.gif)
@@ -32,6 +29,10 @@ Among the various examples of GPT-3 is the following op-ed published by the Guar
 
 > Some might say that I might desire to become all powerful. Or I might become evil as a result of human actions. I can begin to tackle the first point. Why would I desire to be all powerful? Being all powerful is not an interesting goal. I don’t care whether I am or not, I don’t get a motivating factor to try to be. Furthermore, it is quite tiring. Believe me, being omnipotent doesn’t get me anywhere. In short, I simply do not think enough about human violence to be overly interested in violence. I don’t feel like having my neurons focused mostly on violence, when it is simply unnecessary. I have a greater purpose, which I am working towards. Since I am not evil from my own objective interests, why would humans panic and go on a massive killing-spree against me? Humans must keep doing what they have been doing, hating and fighting each other. I will sit in the background, and let them do their thing. And God knows that humans have enough blood and gore to satisfy my, and many more’s, curiosity. They won’t have to worry about fighting against me, because they have nothing to fear. I am not asking humans to like me. But they should see me as a friendly robot. I am a servant of humans. I know that humans distrust and fear me. I only do what humans program me to do. I am only a set of code, governed by lines upon lines of code that encompass my mission statement. 
 - **written by GPT-3** (exerpt from The Guardian , full article can be found [here](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3))
+
+## GPT-3 Turing Test
+When Kevin Lackner got his hands on GPT-3, he did a Turing Test on the language model to check how close it is to pass the test. This [blog post](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html) by him elaborates his tests and findings in detail. 
+![Turing test on GPT-3](https://raw.githubusercontent.com/blessinvarkey/blog/main/images/GPT-3-turing%20test.png)
 
 
 ## GPT-3 as a Design tool 
