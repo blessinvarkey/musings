@@ -1,9 +1,9 @@
 
 # Blog
 
-Topics on AI, some old, some new. Mostly intended for making AWS notes. 
+Topics on AI, some old, some new. Mostly created while making AWS-ML notes.   
 
-| Topics        | Date |
+| Topics        | Month |
 | ------------- | :------------- | 
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
 | Paradigms of Machine Learning |  |
