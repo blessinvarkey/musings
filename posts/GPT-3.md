@@ -32,15 +32,13 @@ Among the various examples of GPT-3 is the following op-ed published by the Guar
 
 ## Potential Misuse
 
+When Liam Porr, a college grad who got his hands on GPT-3, he wrote a small script to execute it on a blog called [adolos](https://adolos.substack.com/archive?sort=new) to see if GPT-3 could pass of as a human writer. The site, which contains 21 blogs, are written by the language prediction model using Liam's name. 
+
 > "Ever since COVID hit, **everyone and their mother started writing online**. One of the most interesting ways people have been playing with this technology is in feeding it article headlines and introductions. While the output is not perfect, you can easily curate it to something that's convincing. This will make it so easy for people to just pump out clickbait articles to drive traffic. It would be pretty simple to do actually. First thing you would need to do is come up with a name. If it were me, I’d name it after the Greek god of deception or something like that just to be clever. Then I’d just stick an “A” in front so nobody gets suspicious.
  
 - blog post titled *What I would do with GPT-3 if I had no ethics* **written by GPT-3** on adolos.substack.com
 
 ![alt text](https://i.redd.it/f7kd7hyjnt451.png)
-
-
-When Liam Porr, a college grad who got his hands on GPT-3, he wrote a small script to execute it on a blog called [adolos](https://adolos.substack.com/archive?sort=new) to see if GPT-3 could pass of as a human writer. The site, which contains 21 blogs, are written by the language prediction model using Liam's name. 
-
 
 Porr's experiement highlighted a potential abuse of the tool i.e. a ton of clickbait content. Imagine websites flooded with substandard information on a topic you want to read, which gets updated by a blog post in every few minutes.  
 
