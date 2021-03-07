@@ -1,5 +1,7 @@
 ## Paradigms of Machine Learning 
 
+![Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
+
 ### The 14 Learnings in Machine Learning ([collated by Jason Brownlee](https://machinelearningmastery.com/types-of-learning-in-machine-learning/))  
 
 #### Learning Problems
