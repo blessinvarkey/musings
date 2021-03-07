@@ -19,8 +19,7 @@ One of the most hyped, impressive piece of engineering announced last year was t
 
 ## How does it work? 
 
-GPT-3 is a language model which can generate knowledge by training on a large uncategorized dataset taken from the internet. So, when a user prompts a request, the language prediction model analyses it and provides the most probable answer. The model processes all the text it has collected from the entirety of Wikipedia i.e. more than 6 million articles (which btw only makes up only 0.6 percent of its training data), Common Crawl, digitized books and various web links to calculate the most statistically expected output. 
-
+GPT-3 is a language model which can generate knowledge by training on a large uncategorized dataset taken from the internet. So, when a user prompts a request, the language prediction model analyses it and provides the most probable answer. The model processes all the text it has collected from the entirety of Wikipedia i.e. more than 6 million articles (which btw only makes up only 0.6 percent of its training data), Common Crawl, digitized books and various web links to calculate the most statistically expected output. Do note that the data contains not just informative text, but also coding manuals, fanfictions, religious prophecies, pseudoscientific textbooks, conspiracy theories, racist screeds, and the manifestos of mass shooters. They may not be in their origional format, but might be extracted from articles, essays and other sources.[1](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)  
 
 
 Therefore, GPT-3 is extremely powerful without understanding a single word it produces. Without specific tuning & adjustments, the language can write stories, blog articles, PR materials, and even technical documentation. Most of the time, the outputs feel very similar to those written by a human.
@@ -60,7 +59,8 @@ Porr's experiement highlighted a potential abuse of the tool i.e. a ton of click
 
 
 ## References 
-1. [What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence? via Forbes](https://www.forbes.com/sites/bernardmarr/2020/10/05/what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/?sh=435f1903481a)
-2. [A robot wrote this entire article. Are you scared yet, human?](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)
-3. [Adolos Blog](https://adolos.substack.com/p/what-i-would-do-with-gpt-3-if-i-had)
-4. [Giving GPT-3 a Turing Test](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
+1. [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
+2. [What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence? via Forbes](https://www.forbes.com/sites/bernardmarr/2020/10/05/what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/?sh=435f1903481a)
+3. [A robot wrote this entire article. Are you scared yet, human?](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)
+4. [Adolos Blog](https://adolos.substack.com/p/what-i-would-do-with-gpt-3-if-i-had)
+5. [Giving GPT-3 a Turing Test](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
