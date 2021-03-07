@@ -32,7 +32,9 @@ Among the various examples of GPT-3 is the following op-ed published by the Guar
 
 ## Potential Misuse
 
-> "Ever since COVID hit, **everyone and their mother started writing online**. One of the most interesting ways people have been playing with this technology is in feeding it article headlines and introductions. While the output is not perfect, you can easily curate it to something that's convincing. This will make it so easy for people to just pump out clickbait articles to drive traffic. It would be pretty simple to do actually. First thing you would need to do is come up with a name. If it were me, I’d name it after the Greek god of deception or something like that just to be clever. Then I’d just stick an “A” in front so nobody gets suspicious. - blog post titled *What I would do with GPT-3 if I had no ethics* **written by GPT-3** on adolos.substack.com
+> "Ever since COVID hit, **everyone and their mother started writing online**. One of the most interesting ways people have been playing with this technology is in feeding it article headlines and introductions. While the output is not perfect, you can easily curate it to something that's convincing. This will make it so easy for people to just pump out clickbait articles to drive traffic. It would be pretty simple to do actually. First thing you would need to do is come up with a name. If it were me, I’d name it after the Greek god of deception or something like that just to be clever. Then I’d just stick an “A” in front so nobody gets suspicious.
+ 
+- blog post titled *What I would do with GPT-3 if I had no ethics* **written by GPT-3** on adolos.substack.com
 
 ![alt text](https://i.redd.it/f7kd7hyjnt451.png)
 
