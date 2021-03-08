@@ -12,7 +12,7 @@ One of the most hyped, impressive piece of engineering announced last year was t
 - An example of **unsupervised learning** as the training data doesn't include information that is right or wrong.      
 - To learn how to build language constructs, such as sentences, it employs semantic analytics - studying not just the words and their meanings, but also gathering an understanding of how the usage of words differs depending on other words also used in the text.   
 - It's an AI that is better at creating content that has a language structure – human or machine language – than anything that has come before it.    
-- GPT or Generative Pre-trained Transformer (-3) generates text using algorithms that are pre-trained or pre fed with the required data.     
+- GPT or Generative Pre-trained Transformer (version 3) generates text using algorithms that are pre-trained or pre fed with the required data.     
 - Data has been collected from [Common Crawl](https://commoncrawl.org), [Wikipedia](https://arxiv.org/pdf/1801.10198.pdf) and other sources.      
 - It scans all the text in its training data – hundreds of billions of words, arranged into meaningful language – and determines what word it should use to recreate the original phrase. 
 - The model has 175 billion parameters (the values that a neural network tries to optimize during training), compared with GPT-2’s already vast 1.5 billion. 
