@@ -4,7 +4,7 @@ One of the astounding papers recently published in machine learning research is 
 
 ![alt text](https://i.redd.it/dsux4qqlhbh61.jpg)
 
-DALL-E is a **12-billion parameter** version of **GPT-3** trained to generate images from text descriptions, using a dataset of text–image pairs. It can create anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images.[1]
+DALL-E is a **12-billion parameter** version of **GPT-3** trained to generate images from text descriptions, using a dataset of text–image pairs. It can create anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images.[R1]
 
 
 ![alt-image](https://raw.githubusercontent.com/blessinvarkey/blog/main/posts/Armchair%20in%20the%20shape%20of%20an%20avocado.png)
@@ -15,4 +15,4 @@ DALL-E is a **12-billion parameter** version of **GPT-3** trained to generate im
 
 
 # References
-1. [DALL-E: OpenAI](https://openai.com/blog/dall-e/)
+R1. [DALL-E: OpenAI](https://openai.com/blog/dall-e/)
