@@ -61,7 +61,6 @@ When Liam Porr, a college grad who got his hands on GPT-3, he wrote a small scri
 
 Porr's experiement highlighted a potential abuse of the tool i.e. a ton of clickbait content. Imagine websites flooded with substandard information on a topic you want to read, which gets updated by a blog post in every few minutes.  
 
-![alt text](https://i.redd.it/dsux4qqlhbh61.jpg)
 
 
 
