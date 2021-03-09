@@ -5,7 +5,7 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 
 | Topics        | Month |
 | ------------- | :------------- | 
-| [DALL-E](post/DALL-E.md) |  |
+| [DALL-E](posts/DALL-E.md) |  |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
 | NERF: Neural Radiance Fields | |
