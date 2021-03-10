@@ -3,11 +3,11 @@
 
 Topics on AI, some old, some new. Mostly created while making AWS-ML notes.   
 
-| Topics        | Month |
+| Topics        | Keywords |
 | ------------- | :------------- | 
 | DALL-E | |
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
-| [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | March 2021 |
+| [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
 | ResNet: Residual Neural Network | | 
