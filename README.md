@@ -15,6 +15,10 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 | Single Shot Multibox Detector | |
 |T5: Text-to-Text Transfer Transformer||
 
+# Papers
+|[Toward Fairness in AI for People with Disabilities](https://arxiv.org/abs/1907.02227)||
+
+
 # aws notes
 The following notes are part of my ongoing aws exploration. 
 
