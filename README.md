@@ -10,6 +10,7 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
+| PLM: Pre-trained Languge Model | | 
 | ResNet: Residual Neural Network | | 
 | Single Shot Multibox Detector | |
 |T5: Text-to-Text Transfer Transformer||
