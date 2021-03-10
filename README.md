@@ -17,7 +17,9 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 # aws notes
 The following notes are part of my ongoing aws exploration. 
 
-When tasks cannot be adequately solved using a simple (deterministic), rule-based solution.
+Machine learning is used when: 
+- tasks cannot be adequately solved using a simple (deterministic), rule-based solution.   
+- you need to handle large scale problems.  
 
 ### Steps involved 
 | Topics        | Notes|
