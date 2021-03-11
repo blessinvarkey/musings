@@ -15,7 +15,7 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 | ResNet: Residual Neural Network | | 
 | Single Shot Multibox Detector | |
 |T5: Text-to-Text Transfer Transformer||
-
+|TIMIT speech recognition||
 # Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
 | Title        | Keywords |
