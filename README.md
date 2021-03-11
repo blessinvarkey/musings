@@ -8,7 +8,7 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 | DALL-E | |
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
-|[GLOM: How to represent part-whole hierarchies in a neural network ](How to represent part-whole hierarchies in a neural network)||
+| [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
 | PLM: Pre-trained Languge Model | | 
