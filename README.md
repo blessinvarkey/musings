@@ -21,6 +21,11 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 |[Toward Fairness in AI for People with Disabilities](https://arxiv.org/abs/1907.02227)|Disability, Accessibility; AI fairness, AI bias, ethical AI|
 
 
+# Contributed papers
+| Title        | Keywords |
+| ------------- | :------------- | 
+|[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|gaze tracking, health sensing|
+
 # aws notes
 The following notes are part of my ongoing aws exploration. 
 
