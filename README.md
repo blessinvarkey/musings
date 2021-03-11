@@ -9,6 +9,7 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
 | [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
+| ImageNet Large Scale Visual Recognition Challenge||
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
 | PLM: Pre-trained Languge Model | | 
@@ -16,6 +17,8 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 | Single Shot Multibox Detector | |
 |T5: Text-to-Text Transfer Transformer||
 |TIMIT speech recognition||
+
+
 # Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
 | Title        | Keywords |
