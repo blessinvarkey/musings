@@ -16,6 +16,7 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 |T5: Text-to-Text Transfer Transformer||
 
 # Papers: Selected readings
+Here's a list of papers I'm reading/ interested in:
 | Title        | Keywords |
 | ------------- | :------------- | 
 |[Toward Fairness in AI for People with Disabilities](https://arxiv.org/abs/1907.02227)|Disability, Accessibility; AI fairness, AI bias, ethical AI|
