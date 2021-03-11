@@ -19,6 +19,9 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 Here's a list of papers I'm reading/ interested in:
 | Title        | Keywords |
 | ------------- | :------------- | 
+| [Perceptrons: An Introduction to Computational Geometry](https://mitpress.mit.edu/books/perceptrons)||
+| [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)||
+| [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)||
 |[Toward Fairness in AI for People with Disabilities](https://arxiv.org/abs/1907.02227)|Disability, Accessibility; AI fairness, AI bias, ethical AI|
 
 
@@ -26,6 +29,7 @@ Here's a list of papers I'm reading/ interested in:
 | Title        | Keywords |
 | ------------- | :------------- | 
 |[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|gaze tracking, health sensing|
+
 
 # aws notes
 The following notes are part of my ongoing aws exploration. 
