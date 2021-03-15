@@ -32,6 +32,7 @@ Here's a list of papers I'm reading/ interested in:
 | [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)||
 | [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)||
 |[Toward Fairness in AI for People with Disabilities](https://arxiv.org/abs/1907.02227)|Disability, Accessibility; AI fairness, AI bias, ethical AI|
+|[Do Artifacts Have Politics?](https://nissenbaum.tech.cornell.edu/papers/Winner.pdf)||
 
 
 # Contributed papers
