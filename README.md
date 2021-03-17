@@ -1,4 +1,4 @@
-# Participatory Design - Artificial Intelligence and other things
+# Participatory Design, Artificial Intelligence and other things
 
 
 ## Blog
