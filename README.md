@@ -1,10 +1,7 @@
 # Participatory Design - Artificial Intelligence and other things
 
-![ml-meme](ML-meme.jpeg)
 
-photo credits: [sandserif-comics](https://www.instagram.com/sandserifcomics/) 
-
-# Blog
+## Blog
 Topics on AI, some old, some new. Mostly created while making AWS-ML notes.   
 
 | Topics        | Keywords |
@@ -28,7 +25,7 @@ Topics on AI, some old, some new. Mostly created while making AWS-ML notes.
 
 
 
-# Papers: Selected readings
+## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
 | Title        | Keywords |
 | ------------- | :------------- | 
@@ -40,13 +37,13 @@ Here's a list of papers I'm reading/ interested in:
 |[A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detection of Diabetic Retinopathy](https://dl.acm.org/doi/abs/10.1145/3313831.3376718)||
 
 
-# Contributed papers
+## Contributed papers
 | Title        | Keywords |
 | ------------- | :------------- | 
 |[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|gaze tracking, health sensing|
 
 
-# Deployment
+## Deployment
 | Title        | Keywords |
 | ------------- | :------------- | 
 | [AWS ML Deployment notes](posts/aws/aws.md) ||
