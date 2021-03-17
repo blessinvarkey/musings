@@ -3,6 +3,8 @@
 
 ![ml-meme](ML-meme.jpeg)
 
+photo credits: [sandserif-comics](https://www.instagram.com/sandserifcomics/) 
+
 Topics on AI, some old, some new. Mostly created while making AWS-ML notes.   
 
 | Topics        | Keywords |
