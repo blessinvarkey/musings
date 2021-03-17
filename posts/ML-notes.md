@@ -19,7 +19,8 @@ An ensemble learning strategy that trains a series of weak models, each one atte
 - Computationally costly in large data.  
 - A prior must be chosen.   
 
-# Machine Learning Models:
+# Greedy Algorithm
+'Greedy algorithms take all of the data in a particular problem, and then set a rule for which elements to add to the solution at each step of the algorithm. In the animation above, the set of data is all of the numbers in the graph, and the rule was to select the largest number available at each level of the graph. The solution that the algorithm builds is the sum of all of those choices.' via [Brilliant](https://brilliant.org/wiki/greedy-algorithm/)
 
 # Logistic regression 
 - Used in classification problems 
