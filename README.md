@@ -43,7 +43,7 @@ Here's a list of papers I'm reading/ interested in:
 |[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|gaze tracking, health sensing|
 
 
-## Deployment
+## Deployment Notes
 | Title        | Keywords |
 | ------------- | :------------- | 
-| [AWS ML Deployment notes](posts/aws/aws.md) ||
+| [aws-ml](posts/aws/aws.md) ||
