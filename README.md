@@ -2,7 +2,7 @@
 
 
 ## Blog
-Topics on AI, some old, some new. Mostly created while making AWS-ML notes.   
+Topics on AI, some old, some new.
 
 | Topics        | Keywords |
 | ------------- | :------------- | 
