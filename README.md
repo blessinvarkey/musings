@@ -43,4 +43,4 @@ Here's a list of papers I'm reading/ interested in:
 
 
 # Deployment
-### [AWS ML Deployment](posts/aws/aws.md) 
+[AWS ML Deployment](posts/aws/aws.md) 
