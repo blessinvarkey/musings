@@ -1,6 +1,8 @@
 
 # Blog
 
+![ml-meme](ML-meme.jpeg)
+
 Topics on AI, some old, some new. Mostly created while making AWS-ML notes.   
 
 | Topics        | Keywords |
