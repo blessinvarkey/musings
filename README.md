@@ -1,10 +1,10 @@
-
-# Blog
+# Participatory Design - Artificial Intelligence and other things
 
 ![ml-meme](ML-meme.jpeg)
 
 photo credits: [sandserif-comics](https://www.instagram.com/sandserifcomics/) 
 
+# Blog
 Topics on AI, some old, some new. Mostly created while making AWS-ML notes.   
 
 | Topics        | Keywords |
