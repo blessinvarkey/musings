@@ -1,6 +1,3 @@
-## Participatory Design, Artificial Intelligence and other things
-
-
 ## Blog
 Topics on AI, some old, some new.
 
