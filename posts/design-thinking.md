@@ -7,6 +7,10 @@ Unconscious thought:
 
 ![alt image](https://cdn.mos.cms.futurecdn.net/rQkQZ6pDZbEHz23rxckWPm-320-80.jpg)
 
+What did you see? A young woman or an old woman? 
+
+The young woman's chin is the old woman's nose, and the old woman's eye is the young woman's ear.
+
 ## User Experience Design
 User-centered design (UCD) is a design process that puts users at the center of product design and development. When a product team develops digital products, it takes into account the user's requirements, objectives, and feedback.
 - The design/development team owns the final product. 
