@@ -5,7 +5,7 @@ Unconscious thought:
 
 ### What do you see? 
 
-[alt image](https://i.pinimg.com/originals/f1/c5/b0/f1c5b05750bb268f099363284743283d.png)
+![alt image](https://i.pinimg.com/originals/f1/c5/b0/f1c5b05750bb268f099363284743283d.png)
 
 ## User Experience Design
 
