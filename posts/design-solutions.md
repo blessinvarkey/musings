@@ -1,5 +1,11 @@
-## Socio-Technical Systems design
+## Participatory Design
 
+In PD, people destined to use the system play a critical role in designing it. The users give their inputs, but ultimately you are the decision maker and hold the power. 
+
+## Co-design
+Your participants are treated as equals and have equal say in the decision making of the project goals and outcomes. 
+
+## Socio-Technical Systems design
 Socio-technical systems design (STSD) methods are an approach to design that consider human, social and organisational factors, as well as technical factors in the design of organisational systems. 
 
 The underlying premise of socio-technical thinking is that systems design should be a process that takes into account both social and technical factors that influence the functionality and usage of computer-based systems. The rationale for adopting socio-technical approaches to systems design is that failure to do so can increase the risks that systems will not make their expected contribution to the goals of the organisation. Systems often meet their technical ‘requirements’ but are considered to be a ‘failure’ because they do not deliver the expected support for the real work in the organisation. The source of the problem is that techno-centric approaches to systems design do not properly consider the complex relationships between the organisation, the people enacting business processes and the system that supports these processes.
