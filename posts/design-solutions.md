@@ -1,9 +1,16 @@
+## User Experience Design
+
+- The design/development team owns the final product. 
+
 ## Participatory Design
 
 In PD, people destined to use the system play a critical role in designing it. The users give their inputs, but ultimately you are the decision maker and hold the power. 
+- The user owns the final product. 
 
 ## Co-design
 Your participants are treated as equals and have equal say in the decision making of the project goals and outcomes. 
+
+[Pivot Thinking: The Neuroscience of Design](https://www.youtube.com/watch?v=SyXdO-vksIc&feature=emb_title) by Stanford University.
 
 ## Socio-Technical Systems design
 Socio-technical systems design (STSD) methods are an approach to design that consider human, social and organisational factors, as well as technical factors in the design of organisational systems. 
