@@ -11,6 +11,7 @@ Musings
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
 | [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
 | ImageNet Large Scale Visual Recognition Challenge||
+| [Improvisation and Design](https://www.researchgate.net/publication/221516785_Improvisation_principles_and_techniques_for_design)||
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
 | PLM: Pre-trained Languge Model | | 
