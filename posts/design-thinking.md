@@ -8,7 +8,7 @@ Unconscious thought:
 ![alt image](https://cdn.mos.cms.futurecdn.net/rQkQZ6pDZbEHz23rxckWPm-320-80.jpg)
 
 ## User Experience Design
-
+User-centered design (UCD) is a design process that puts users at the center of product design and development. When a product team develops digital products, it takes into account the user's requirements, objectives, and feedback.
 - The design/development team owns the final product. 
 
 ## Participatory Design
