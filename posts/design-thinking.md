@@ -1,3 +1,12 @@
+
+There are two systems of thought: 
+Concious thought: Algorithmic thinking & Reflective thinking
+Unconscious thought: 
+
+### What do you see? 
+
+[alt image](https://i.pinimg.com/originals/f1/c5/b0/f1c5b05750bb268f099363284743283d.png)
+
 ## User Experience Design
 
 - The design/development team owns the final product. 
