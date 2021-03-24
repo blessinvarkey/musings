@@ -1,5 +1,6 @@
 ## Blog
-Topics on AI, some old, some new.
+
+Musings 
 
 | Topics        | Keywords |
 | ------------- | :------------- | 
