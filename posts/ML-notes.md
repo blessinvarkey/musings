@@ -52,8 +52,9 @@ The sparsity principle
 | Analogizers     | Psychology           | Kernal Machines          | 
 
 
+## Machine Learning Methods
 
-|                           |                       |                       
+|  ML Methods                         |      Algorithms                 |                       
 | -----------------------   | --------------------  |
 | Deep Learning             | Deep Boltzman Machine, Deep Belief Network, Convolutional Neural Network, Stacked Auto Encoders |
 | Ensemble                  |                       |                       
