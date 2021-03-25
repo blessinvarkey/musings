@@ -5,8 +5,6 @@
 
 ## Paradigms of Machine Learning 
 
-![Statistics](https://raw.githubusercontent.com/blessinvarkey/blog/main/ML-meme.jpeg)
-
 ### The 14 Learnings in Machine Learning ([collated by Jason Brownlee](https://machinelearningmastery.com/types-of-learning-in-machine-learning/))  
 
 #### Learning Problems
@@ -55,10 +53,25 @@ The sparsity principle
 
 
 
+|                           |                       |                       
+| -----------------------   | --------------------  |
+| Deep Learning             | Deep Boltzman Machine, Deep Belief Network, Convolutional Neural Network, Stacked Auto Encoders |
+| Ensemble                  |                       |                       
+| Neural Networks           |                       |                       
+| Regularisation            |                       |                       
+| Rule System               |                       |                       
+| Regression                |                       |                       
+| Bayseian                  |                       |                       
+| Decision Trees            |                       |                       
+| Diamentionality Reduction |                       |                       
+| Instance Based            |                       |                       
+| Clustering                |                       |                       
+
+
 ## Bias
 High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting)
 
-### Underfitting, Overfitting, Balanced
+### Underfitting, Overfitting, Balanced 
 
 ![alt-text](https://docs.aws.amazon.com/machine-learning/latest/dg/images/mlconcepts_image5.png)
 
@@ -88,12 +101,6 @@ An ensemble learning strategy that trains a series of weak models, each one atte
 
 
 
-
-# SOM
-# t-SNE
-# k-means
-# PLS-DA
-# random forests
 
 
 ## Image sources: 
