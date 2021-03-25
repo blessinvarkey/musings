@@ -75,6 +75,7 @@ High bias can cause an algorithm to miss the relevant relations between features
 ### Underfitting, Overfitting, Balanced 
 
 ![alt-text](https://docs.aws.amazon.com/machine-learning/latest/dg/images/mlconcepts_image5.png)
+![alt-text](https://miro.medium.com/max/936/1*xwtSpR_zg7j7zusa4IDHNQ.png)
 
 ## Bootstrap
 Bootstrap simulates obtaining many new datasets by repeated sampling with replacement from the origional dataset. 
