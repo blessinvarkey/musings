@@ -12,6 +12,7 @@ Musings
 | [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
 | ImageNet Large Scale Visual Recognition Challenge||
 | [Improvisation and Design](https://www.researchgate.net/publication/221516785_Improvisation_principles_and_techniques_for_design)||
+|[Machine Learning and Computer Vision in Autism Spectrum Disorder Research](https://github.com/blessinvarkey/blog/blob/main/posts/ml-asd.md)||
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
 | PLM: Pre-trained Languge Model | | 
