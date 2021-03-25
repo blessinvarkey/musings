@@ -13,4 +13,10 @@ Machine Learning can be divided into two categories: supervised and unsupervised
 - Supervised learning machines : involve algorithms that use __input variables__ to predict a __target classification__ (dependent variable) which may be categorical or continous. Supervised learning uses datasets where the target prediction is known at training time for the data used to learn the model. A K-fold cross validation strategy seperates the available data into K-subsets and trains the model on all but one of the subsets and tests on the remainder. The process is repeated until the model has been trained on all the available data. 
 
 
-
+| Algorithm        | keywords           | No. of studies  |
+| ------------- |:-------------:| -----:|
+| SVM      |  | 13 |
+| ADTree     |       |   6 |
+| Random Forest     |       |   6 |
+| Conditional Inference Forest      |       |   1 |
+| Descision Stump      |      |   1 |
