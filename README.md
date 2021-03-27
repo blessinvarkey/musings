@@ -1,6 +1,4 @@
-## Blog
-
-Musings 
+## Musings 
 
 | Topics        | Keywords |
 | ------------- | :------------- | 
