@@ -1,3 +1,28 @@
+## Machine Learning
+
+### Bayesian Principles
+- Use prior knowledge
+- Choose answer that explains observations the most
+- Avoid making extra assumptions
+
+## Probability theory
+### Discrete vs Continous 
+Discreate: Probablility Mass Function (PMF)
+Continous: Probability Density Function (PDF)
+Chain Rule: 
+Sum Rule:
+
+## Frequentists vs Bayesians
+
+## Bias
+High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting)
+
+### Underfitting, Overfitting, Balanced 
+
+![alt-text](https://docs.aws.amazon.com/machine-learning/latest/dg/images/mlconcepts_image5.png)
+![alt-text](https://miro.medium.com/max/936/1*xwtSpR_zg7j7zusa4IDHNQ.png)
+
+
 
 ## List of Machine Learning Algorithms
 
@@ -68,14 +93,6 @@ The sparsity principle
 | Instance Based            |                       |                       
 | Clustering                |                       |                       
 
-
-## Bias
-High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting)
-
-### Underfitting, Overfitting, Balanced 
-
-![alt-text](https://docs.aws.amazon.com/machine-learning/latest/dg/images/mlconcepts_image5.png)
-![alt-text](https://miro.medium.com/max/936/1*xwtSpR_zg7j7zusa4IDHNQ.png)
 
 ## Bootstrap
 Bootstrap simulates obtaining many new datasets by repeated sampling with replacement from the origional dataset. 
