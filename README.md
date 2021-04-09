@@ -5,6 +5,7 @@
 | Between Human and Machine||
 |[Design Thinking](https://github.com/blessinvarkey/blog/blob/main/posts/design-thinking.md)|participatory design, user-centered design, co-design|
 | DALL-E | |
+|GANs: Generative Adversarial Networks||
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
 | [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
