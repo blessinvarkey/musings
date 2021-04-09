@@ -1,5 +1,9 @@
 ## Machine Learning
 
+[Business Case]
+Hypothesis → Data collection → Data preparation → Choosing ML Model → Model training → Evaluation → Hyper-parameter tuning → Prediction
+
+
 ### Bayesian Principles
 - Use prior knowledge
 - Choose answer that explains observations the most
