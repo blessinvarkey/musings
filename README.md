@@ -15,12 +15,13 @@ Here's a list of papers I'm reading/ interested in:
 ## Contributed papers
 | Title        | Keywords |
 | ------------- | :------------- | 
-|[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|gaze tracking, health sensing|
+|[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|ML, gaze tracking, health sensing|
 
 
 | Topics        | Keywords |
 | ------------- | :------------- | 
 | Between Human and Machine||
+|BERT: Bidirectional Encoder Representation from Transformers||
 |[Design Thinking](https://github.com/blessinvarkey/blog/blob/main/posts/design-thinking.md)|participatory design, user-centered design, co-design|
 | DALL-E | |
 |GANs: Generative Adversarial Networks||
