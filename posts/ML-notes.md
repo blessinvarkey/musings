@@ -3,6 +3,7 @@
 [Business Case]
 Hypothesis → Data collection → Data preparation → Choosing ML Model → Model training → Evaluation → Hyper-parameter tuning → Prediction
 
+[Neural Networks with JAVA](https://www.nnwj.de)
 
 ### Bayesian Principles
 - Use prior knowledge
