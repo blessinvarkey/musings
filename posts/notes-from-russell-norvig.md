@@ -2,7 +2,7 @@
 
 "Playing chess the way humans play chess"
 
-# Alternatives 
+## Alternatives 
 1. Analysis, Strategy & Tactics
 2. If-Then Rules
 3. Look ahead and evaluate | Look at all the possible moves and evaluate which one of the situations is best?  
@@ -10,7 +10,7 @@
 5. Look ahead as far as possible  
 Visit [MITOCW Lecture 06](https://www.youtube.com/watch?v=STjW3eH0Cik)
 
-# Options of a basic chess game
+## Options of a basic chess game
 - move-generation
 - board evaluation
 - minimax
