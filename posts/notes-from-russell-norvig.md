@@ -10,7 +10,7 @@
 5. Look ahead as far as possible  
 Visit [MITOCW Lecture 06](https://www.youtube.com/watch?v=STjW3eH0Cik)
 
-## Options of a basic chess game
+## Options in a basic chess game
 - move-generation
 - board evaluation
 - minimax
