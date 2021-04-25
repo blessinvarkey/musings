@@ -22,24 +22,24 @@ Here's a list of papers I'm reading/ interested in:
 | Topics        | Keywords |
 | ------------- | :------------- | 
 | Between Human and Machine||
-|BERT: Bidirectional Encoder Representation from Transformers||
-|[Design Thinking](https://github.com/blessinvarkey/blog/blob/main/posts/design-thinking.md)|participatory design, user-centered design, co-design|
+| BERT: Bidirectional Encoder Representation from Transformers ||
+| [Design Thinking](https://github.com/blessinvarkey/blog/blob/main/posts/design-thinking.md)|participatory design, user-centered design, co-design |
 | DALL-E | |
-|GANs: Generative Adversarial Networks||
+| GANs: Generative Adversarial Networks ||
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
 | [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
-| ImageNet Large Scale Visual Recognition Challenge||
-| [Improvisation and Design](https://www.researchgate.net/publication/221516785_Improvisation_principles_and_techniques_for_design)||
-|[Machine Learning and Computer Vision in Autism Spectrum Disorder Research](https://github.com/blessinvarkey/blog/blob/main/posts/ml-asd.md)||
+| ImageNet Large Scale Visual Recognition Challenge ||
+| [Improvisation and Design](https://www.researchgate.net/publication/221516785_Improvisation_principles_and_techniques_for_design) ||
+| [Machine Learning and Computer Vision in Autism Spectrum Disorder Research](https://github.com/blessinvarkey/blog/blob/main/posts/ml-asd.md) ||
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
 | PLM: Pre-trained Languge Model | | 
 | ResNet: Residual Neural Network | | 
 | Single Shot Multibox Detector | |
-|T5: Text-to-Text Transfer Transformer||
-|TIMIT speech recognition||
-|The Emergence of Probability||
+| T5: Text-to-Text Transfer Transformer ||
+| TIMIT speech recognition ||
+| The Emergence of Probability ||
 
 
 
