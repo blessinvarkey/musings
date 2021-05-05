@@ -40,7 +40,7 @@ Here's a list of papers I'm reading/ interested in:
 | T5: Text-to-Text Transfer Transformer ||
 | TIMIT speech recognition ||
 | The Emergence of Probability ||
-
+| DINO: Emerging Properties in Self-Supervised Vision Transformers |Facebook AI Research|
 
 
 
