@@ -25,7 +25,7 @@ Here's a list of papers I'm reading/ interested in:
 | BERT: Bidirectional Encoder Representation from Transformers ||
 | [Design Thinking](https://github.com/blessinvarkey/blog/blob/main/posts/design-thinking.md)|participatory design, user-centered design, co-design |
 | DALL-E | |
-|[Peanut Butter & Jelly](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)| |
+|[Peanut Butter & Jelly Sandwich](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)| |
 | GANs: Generative Adversarial Networks ||
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
