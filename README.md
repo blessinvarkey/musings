@@ -43,7 +43,7 @@ Here's a list of papers I'm reading/ interested in:
 | TIMIT speech recognition ||
 | The Emergence of Probability ||
 | [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training) |Facebook AI Research|
-|[Wudao] (https://en.pingwest.com/a/8693)||
+|[Wudao](https://en.pingwest.com/a/8693)||
 
 
 
