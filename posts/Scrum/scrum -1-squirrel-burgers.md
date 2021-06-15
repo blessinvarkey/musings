@@ -17,5 +17,3 @@ One of the advantages of using the Scrum framework is delivering a product built
 
 
 
-
-Shoutout to Vikram Shekhawat who shared the 'Squirrel burgers' story. 
