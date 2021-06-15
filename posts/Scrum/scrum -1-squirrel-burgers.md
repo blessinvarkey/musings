@@ -13,6 +13,9 @@ In eight weeks, you deliver a sub-par product well garnished and presented. Alic
 
 Back to our squirrel story. Bob goes to work the next morning. He learns that the company is facing a million-dollar lawsuit because the customer who was served the squirrel burger ended up in a hospital for three weeks. Meanwhile, Alice rolls out your product and loses her major clients. 
 
-One of the advantages of using the SCRUM framework is delivering a product built in a series of iterations. In the above analogy, it would be better to deliver a part/feature of the product instead of delivering a subpar product. 
+One of the advantages of using the Scrum framework is delivering a product built in a series of iterations. In the above analogy, it would be better to deliver a part/feature of the product instead of delivering a subpar product. It's also exteremly valuable to maintain courage and transparency.  
 
-A shoutout to Vikram Shekhawat who shared the 'Squirrel burgers' story. 
+
+
+
+Shoutout to Vikram Shekhawat who shared the 'Squirrel burgers' story. 
