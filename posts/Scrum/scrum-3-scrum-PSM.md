@@ -6,8 +6,6 @@
 - Framework, not methodology
 - Empiricism (Process control theory): Transparency, Inspection, Adaptation  
 
-
-
 ## Scrum Values
 - Focus
 - Respect
@@ -51,6 +49,8 @@ The Scrum Team creates increments every sprint, is self managing and cross funct
 
 ### 5. Sprint
   - 1 month or less
+
+![Scrum Framework](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-06/ScrumValues-1000.png)
 
 ## Artifacts (3)
 
