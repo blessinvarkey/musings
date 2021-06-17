@@ -4,7 +4,7 @@ The certification path doesn't require a background in scrum, however, an exposu
 
 To prepare for the exam, first, test your current understanding of scrum by attempting the free [scrum open assessment](https://www.scrum.org/open-assessments/scrum-open) by scrum.org. 
 
-Then thoroughly study the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and make your notes on it. Do note, each line, each word is important. 
+Then __thoroughly__ study the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and __make your notes__ on it. Do note, each line, each word is important. 
 
 After your study, go back to scrum.org take the open assessments and re-read the scrum guide until you consecutively score a 100%. Once you do, try the [Product Owner open](https://www.scrum.org/open-assessments/product-owner-open) and the Scrum [Developer open](https://www.scrum.org/open-assessments/scrum-developer-open) exam. 
 
