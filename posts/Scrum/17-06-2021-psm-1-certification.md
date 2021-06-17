@@ -1,4 +1,4 @@
-# How I prepared for my PSM I examination
+# How I prepared for my PSM examination
 I was exposed to scrum first time while developing an educational application in 2015. Our dev partners used the lightweight framework to deliver the project over 6 months. Since then I've worked on two scrum projects, one of which was my first attempt to introduce scrum to my project as a scrum master (instead of being a PO).
 The certification path doesn't require a background in scrum, however, an exposure or an intent to implement scrum your project can help prepare to pass the PSM in the first go.
 
