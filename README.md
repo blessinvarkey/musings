@@ -22,7 +22,7 @@ Here's a list of papers I'm reading/ interested in:
 ## Scrum blog
 | Title        | Date |
 | ------------- | :------------- | 
-| [Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-squirrel-burgers.md) | 15th June 2021 | 
+| [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-squirrel-burgers.md) | 15th June 2021 | 
 | [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
 | [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 
 | [PSM I  Certification](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/17-06-2021-psm-1-certification.md)| 17th June 2021|
