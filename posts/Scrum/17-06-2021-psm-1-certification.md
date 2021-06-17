@@ -12,7 +12,5 @@ Review the [scrum glossary](https://www.scrum.org/resources/scrum-glossary), esp
 
 When you feel confident and ready with your preparation, attempt the [Mikhail Lapshin's](https://mlapshin.com/index.php/scrum-quizzes/) 1 hour exam in Real Mode. Review the areas where you went wrong and go back to the scrum guide. Try scoring a 100% in every attempt.
 
-Do note that the language used in the actual exam would be different from the mock and you might get a few scenario based questions too. However, the preparation should give you enough confidence to take the exam. 
-
-
+Do note that the language used in the actual exam would be different from the mock and you might get a few scenario based questions too. However, the preparation should give you enough confidence to take the exam! 
 
