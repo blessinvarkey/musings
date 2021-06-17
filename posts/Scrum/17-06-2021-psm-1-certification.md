@@ -2,7 +2,7 @@
 I was exposed to scrum first time while developing an educational application in 2015. Our dev partners used the lightweight framework to deliver the project over 6 months. Since then I've worked on two scrum projects, one of which was my first attempt to introduce scrum to my project as a scrum master (instead of a PO).
 The certification path doesn't require a background in scrum, however, an exposure or an intent to implement scrum your project can help prepare to pass the PSM in the first go.
 
-To prepare for the exam, first, test your current understanding of scrum by attempting the free [scrum open assessment](https://www.scrum.org/open-assessments/scrum-open) by scrum.org. 
+To prepare for the exam, you can first test your current understanding of scrum by attempting the free [scrum open assessment](https://www.scrum.org/open-assessments/scrum-open) by scrum.org. 
 
 Then __thoroughly__ study the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and __make your notes__ on it. Do note, each line, each word is important. 
 
