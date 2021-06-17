@@ -19,6 +19,14 @@ Here's a list of papers I'm reading/ interested in:
 |[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|ML, gaze tracking, health sensing|
 
 
+## Scrum  
+| Title        | Date |
+| ------------- | :------------- | 
+| [Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/scrum%20-1-squirrel-burgers.md) | 15th June 2021 | 
+| [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/scrum-2-complexity-of-product-development.md) | 15th June 2021 | 
+| [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/scrum-3-scrum-essentials.md) | 16th June 2021 | 
+
+
 ## Scribble
 | Topics        | Keywords |
 | ------------- | :------------- | 
