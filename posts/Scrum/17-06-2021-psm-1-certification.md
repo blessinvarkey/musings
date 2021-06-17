@@ -6,11 +6,11 @@ To prepare for the exam, you can first test your current understanding of scrum 
 
 Then __thoroughly__ study the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and __make your notes__ on it. Do note, each line, each word is important. 
 
-After your study, go back to scrum.org take the open assessments and re-read the scrum guide until you consecutively score a 100%. Once you do, try the [Product Owner open](https://www.scrum.org/open-assessments/product-owner-open) and the Scrum [Developer open](https://www.scrum.org/open-assessments/scrum-developer-open) exam. 
+After your study, go back to scrum.org take the open assessments and re-read the scrum guide until you consecutively score a 100%. Once you do, try the [Product Owner open](https://www.scrum.org/open-assessments/product-owner-open) and the Scrum [Developer open](https://www.scrum.org/open-assessments/scrum-developer-open) exam. The time per question is much shorter on the real assessment.
 
 Review the [scrum glossary](https://www.scrum.org/resources/scrum-glossary), especially the terms that you are not familiar with.  
 
 When you feel confident and ready with your preparation, attempt the [Mikhail Lapshin's](https://mlapshin.com/index.php/scrum-quizzes/) 1 hour exam in Real Mode. Review the areas where you went wrong and go back to the scrum guide. Try scoring a 100% in every attempt.
 
-Do note that the language used in the actual exam would be different from the mock and you might get a few scenario based questions too. However, the preparation should give you enough confidence to take the exam! 
+Do note that the language used in the actual exam will be different (and harder) from the mock and you might get a few scenario based questions too. However, the preparation should give you enough confidence to take the exam! 
 
