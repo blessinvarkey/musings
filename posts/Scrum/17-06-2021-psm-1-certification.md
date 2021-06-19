@@ -17,7 +17,7 @@ When you feel confident and ready with your preparation, attempt the [Mikhail La
 Do note that the language used in the actual exam will be different (and harder) from the mock and you might get a few scenario based questions too. However, the preparation should give you enough confidence to take the exam! 
 
 ----
-Some useful links:
+Recommended Reading:
 
 1. [There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/)
 2. [How to estimate Sprint Velocity](https://www.lucidchart.com/blog/how-to-estimate-sprint-velocity)
