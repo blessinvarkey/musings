@@ -21,3 +21,5 @@ Some useful links:
 
 1. [There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/)
 2. [How to estimate Sprint Velocity](https://www.lucidchart.com/blog/how-to-estimate-sprint-velocity)
+3. [Manifesto for Agile Software Development](https://agilemanifesto.org)
+4. [Twelve Principles of Agile Software](https://agilemanifesto.org/principles.html)
