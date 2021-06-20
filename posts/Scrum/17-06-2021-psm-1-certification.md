@@ -22,3 +22,4 @@ Recommended Reading:
 2. [How to estimate Sprint Velocity](https://www.lucidchart.com/blog/how-to-estimate-sprint-velocity)
 3. [Manifesto for Agile Software Development](https://agilemanifesto.org)
 4. [Twelve Principles of Agile Software](https://agilemanifesto.org/principles.html)
+5. [The Simple Guide to Scrum](https://www.thescrummaster.co.uk/wp-content/uploads/2021/03/TheSimpleGuideToScrum-1Pager.pdf) 
