@@ -17,7 +17,7 @@ You can also read the [Nexus guide](https://scrumorg-website-prod.s3.amazonaws.c
 Do note that the language used in the actual exam will be different from the mock and you might get a few scenario based questions too. Its advisable not to take more than 30-40 seconds on each question since can review your answers towards the end. The above preparation should give you enough confidence to take the exam.
 
 ----
-Recommended Reading:
+### Recommended Reading:
 
 1. [There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/)
 2. [How to estimate Sprint Velocity](https://www.lucidchart.com/blog/how-to-estimate-sprint-velocity)
