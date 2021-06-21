@@ -9,14 +9,11 @@
 - Develop and sustain cloud and operations for product use. 
 - Sustain and renew products. 
 
-# Scrum Theory
+## Scrum Theory
 - Empirical process control theory, or empiricism
 - Empiricism asserts that knowledge comes from experience and making decisions based on what is known. 
 - Scrum employs an iterative, incremental approach to optimise predictability and control risk. 
-
-## Scrum
 - Framework, not methodology
-- Empiricism (Process control theory): Transparency, Inspection, Adaptation  
 
 ## Three pillars of Scrum
 ### Transparency:
@@ -41,6 +38,7 @@
 - Openness
 - Commitment
 - Courage
+<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-06/ScrumValues-1000.png" alt="drawing" width="600"/>
 
 ## Roles (3) | Accountabilities  
 
@@ -79,7 +77,6 @@ The Scrum Team creates increments every sprint, is self managing and cross funct
 ### 5. Sprint
   - 1 month or less
 
-<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-06/ScrumValues-1000.png" alt="drawing" width="600"/>
 
 ## Artifacts (3)
 
