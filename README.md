@@ -76,4 +76,14 @@ Here's a list of papers I'm reading/ interested in:
 ## Blog: ML + AWS
 | Title        | Keywords |
 | ------------- | :------------- | 
-| [aws-ml](posts/aws/aws.md) ||
+| [GPT-3](https://github.com/blessinvarkey/musings/blob/main/posts/GPT-3.md)|deep learning, OpenAI|
+| [Machine Learning & Autism Spectrum Disorder Research](https://github.com/blessinvarkey/musings/blob/main/posts/ml-asd-dl.md)|machine learning, deep learning|
+| [aws-ml](posts/aws/aws.md) |machine learning|
+| [Exploratory Data Analysis](https://github.com/blessinvarkey/musings/blob/main/posts/Exploratory-Data-Analysis.md)| aws, deployment |
+| [Notes from Russell Norvig](https://github.com/blessinvarkey/musings/blob/main/posts/notes-from-russell-norvig.md)| machine learning |
+| [Machine Learning Notes](https://github.com/blessinvarkey/musings/blob/main/posts/ML-notes.md)| machine learning |
+| [S3 Bucket](https://github.com/blessinvarkey/musings/blob/main/posts/S3-simple-storage-service.md)| cloud computing|
+| [Syntax vs Semantics](https://github.com/blessinvarkey/musings/blob/main/posts/Syntax-vs-Semantics.md)| machine learning |
+| [Amazon Web Services - Terminologies](https://github.com/blessinvarkey/musings/blob/main/posts/aws-vocabulary.md)|cloud computing|
+
+
