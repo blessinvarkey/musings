@@ -1,19 +1,20 @@
 <img src="https://static.scrum.org/web/badges/badge-psmi.svg" alt="drawing" width="50"/>
 
 # How I prepared for my PSM examination
-First, bit of background. I was exposed to scrum first time while developing an educational application in 2015. Our dev partners used the lightweight framework to deliver the project over 6 months. Since then I've got the opportunity to work on two scrum projects, one of which was my first attempt to introduce scrum to my project as a scrum master (instead as a PO). The scrum master certification path doesn't require a background in scrum, however, an exposure or an intent to implement scrum in your project can help prepare to pass the PSM in the first go.
+First, bit of background. I was exposed to scrum first time while developing an educational application in 2015. Our dev partners used the lightweight framework to deliver the project over 6 months. Since then I've got the opportunity to work on two scrum projects, one of which was my first attempt to introduce scrum to my project as a scrum master (instead as a PO). The scrum master certification path doesn't require a background in scrum, however, an exposure or an intent to implement scrum in your project can help prepare to pass the PSM in the first go. You can also check the [Professional Scrum Certification Overview](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2019-11/0.%20CertificationOverview-US-1119.pdf) to decide which certification suits you best.  
 
 To prepare for the exam, you can first test your current understanding of scrum by attempting the free [scrum open assessment](https://www.scrum.org/open-assessments/scrum-open) by scrum.org. 
 
-Then __thoroughly__ study the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and __make your notes__ on it. Do note, each line, each word is important. 
-
-After your study, go back to scrum.org take the open assessments and re-read the scrum guide until you consecutively score a 100%. Once you do, try the [Product Owner open](https://www.scrum.org/open-assessments/product-owner-open) and the Scrum [Developer open](https://www.scrum.org/open-assessments/scrum-developer-open) exam. The time per question is much shorter on the real assessment.
+A __thorough__ study of the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and the [The Simple Guide to Scrum](https://www.thescrummaster.co.uk/wp-content/uploads/2021/03/TheSimpleGuideToScrum-TheScrumMasterCoUk-v1.pdf) by TheScrumMasterCoUk is enough to prepare you for the exam. Each line, each word in the scrum guide is important. After your study, go back to scrum.org take the scrum open, the [Product Owner open](https://www.scrum.org/open-assessments/product-owner-open) assessment and re-read the scrum guide until you consecutively score a 100%. The time per question is much shorter on the real assessment. 
 
 Review the [scrum glossary](https://www.scrum.org/resources/scrum-glossary), especially the terms that you are not familiar with.  
 
 When you feel confident and ready with your preparation, attempt the [Mikhail Lapshin's](https://mlapshin.com/index.php/scrum-quizzes/) 1 hour exam in Real Mode. Review the areas where you went wrong and go back to the scrum guide. Try scoring a 100% in every attempt.
 
-Do note that the language used in the actual exam will be different from the mock and you might get a few scenario based questions too. However, the preparation should give you enough confidence to take the exam! 
+You can also read the [Nexus guide](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/NexusGuide%202021_0.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2021-01%2FNexusGuide%25202021_0.pdf) and attempt the [Nexus Open](https://www.scrum.org/open-assessments/nexus-open) and the Scrum [Developer open](https://www.scrum.org/open-assessments/scrum-developer-open) exam. These are reccomended, but not mandatory. 
+
+
+Do note that the language used in the actual exam will be different from the mock and you might get a few scenario based questions too. Its advisable not to take more than 30-40 seconds on each question since can review your answers towards the end. The above preparation should give you enough confidence to take the exam.
 
 ----
 Recommended Reading:
