@@ -47,6 +47,8 @@
 - At __regular intervals, the team reflects__ on how to become more effective, then tunes and adjusts its behaviour accordingly. 
 
 
+## Industrial work vs Knowledge work projects
+
 |Industrial projects |Knowledge work projects |
 |:----|:----|
 |Visible |Invisible|
