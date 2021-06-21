@@ -6,7 +6,7 @@
 | [All things Scrum - Blog](https://github.com/blessinvarkey/musings#scrum-blog)|
 | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)|
 | [Scribble - Notes](https://github.com/blessinvarkey/musings#scribble)|
-|[AWS Deployment Notes](https://github.com/blessinvarkey/musings#aws-deployment---notes)|
+|[AWS Deployment - Notes](https://github.com/blessinvarkey/musings#aws-deployment---notes)|
 
 ## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
@@ -36,7 +36,7 @@ Here's a list of papers I'm reading/ interested in:
 | [How I prepared for my PSM I examination](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/17-06-2021-psm-1-certification.md)| 17th June 2021|
 
 
-## Scribble
+## Scribble - Notes
 | Topics        | Keywords |
 | ------------- | :------------- | 
 | Between Human and Machine||
@@ -64,7 +64,7 @@ Here's a list of papers I'm reading/ interested in:
 
 
 
-## AWS Deployment - Notes
+## AWS Deployment - Blog
 | Title        | Keywords |
 | ------------- | :------------- | 
 | [aws-ml](posts/aws/aws.md) ||
