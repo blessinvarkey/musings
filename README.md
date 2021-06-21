@@ -1,6 +1,6 @@
 ## Musings 
 
-| Contents       | 
+| Table of Contents | 
 | ------------- |  
 | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) |  
 | [All things Scrum - Blog](https://github.com/blessinvarkey/musings#scrum-blog)|
