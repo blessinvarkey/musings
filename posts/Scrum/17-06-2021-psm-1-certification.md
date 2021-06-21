@@ -11,7 +11,7 @@ Review the [scrum glossary](https://www.scrum.org/resources/scrum-glossary), esp
 
 When you feel confident and ready with your preparation, attempt the [Mikhail Lapshin's](https://mlapshin.com/index.php/scrum-quizzes/) 1 hour exam in Real Mode. Review the areas where you went wrong and go back to the scrum guide. Try scoring a 100% in every attempt.
 
-You can also read the [Nexus guide](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/NexusGuide%202021_0.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2021-01%2FNexusGuide%25202021_0.pdf) and attempt the [Nexus Open](https://www.scrum.org/open-assessments/nexus-open) and the Scrum [Developer open](https://www.scrum.org/open-assessments/scrum-developer-open) exam. These are reccomended, but not mandatory. 
+You can also read the [Nexus guide](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/NexusGuide%202021_0.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2021-01%2FNexusGuide%25202021_0.pdf) and attempt the [Nexus Open](https://www.scrum.org/open-assessments/nexus-open) and the Scrum [Developer open](https://www.scrum.org/open-assessments/scrum-developer-open) exam. These are recommended, but not mandatory. 
 
 
 Do note that the language used in the actual exam will be different from the mock and you might get a few scenario based questions too. Its advisable not to take more than 30-40 seconds on each question since can review your answers towards the end. The above preparation should give you enough confidence to take the exam.
