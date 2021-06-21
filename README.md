@@ -1,5 +1,12 @@
 ## Musings 
 
+| Contents       | 
+| ------------- |  
+| [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) |  
+| [Scrum](https://github.com/blessinvarkey/musings#scrum-blog)|
+| [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)|
+| [Scribble](https://github.com/blessinvarkey/musings#scribble)|
+
 ## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
 | Title        | Keywords |
