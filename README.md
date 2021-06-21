@@ -6,7 +6,7 @@
 | 2. | [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum)| blog|
 | 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)| papers|
 | 4. | [Scribble](https://github.com/blessinvarkey/musings#scribble)| notes|
-| 5. | [ML + AWS](https://github.com/blessinvarkey/musings/blob/main/README.md#blog-ml-aws)| blog|
+| 5. | [ML + AWS](https://github.com/blessinvarkey/musings/blob/main/README.md#blog-ml--aws)| blog|
 
 ## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
