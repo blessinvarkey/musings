@@ -1,6 +1,6 @@
 # Musings 
 
-Hi. Thank you for visiting my blog. Most of these pages are alive, so I keep updating them if I find any new information. I'm currently exploring implementing Lean UX with Scrum. You can jump directly to [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum) to check my latest blogs/updates. 
+Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep updating them when I find any new information. Currently, I'm exploring the implementation of Lean UX with Scrum. You can jump directly to [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum) to check my latest blogs/updates. 
 
 | S. No. | Contents | Tags |
 | ------------- | ------------- |------------- |  
@@ -24,10 +24,10 @@ Here's a list of papers I'm reading/ interested in:
 ## Blog: All things Scrum
 | Title        | Date |
 | ------------- | :------------- | 
-| [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
-| [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
-| [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 
 | [How I prepared for my PSM I examination](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/17-06-2021-psm-1-certification.md)| 17th June 2021|
+| [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 
+| [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
+| [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
 
 
 
