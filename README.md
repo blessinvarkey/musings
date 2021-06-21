@@ -1,6 +1,6 @@
 # Musings 
 
-Hi. Thank you for visiting my blog. Most of these pages are alive, so I keep updating them if I find any new information. I'm currently exploring implementing Lean UX with Scrum. You can jump directly to [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum) to check my latest updates. 
+Hi. Thank you for visiting my blog. Most of these pages are alive, so I keep updating them if I find any new information. I'm currently exploring implementing Lean UX with Scrum. You can jump directly to [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum) to check my latest blogs/updates. 
 
 | S. No. | Contents | Tags |
 | ------------- | ------------- |------------- |  
