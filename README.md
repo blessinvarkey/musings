@@ -7,8 +7,7 @@ Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep up
 | 1. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) | papers | 
 | 2. | [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum)| blog|
 | 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)| papers|
-| 4. | [Scribble](https://github.com/blessinvarkey/musings#scribble)| notes|
-| 5. | [ML + AWS](https://github.com/blessinvarkey/musings/blob/main/README.md#blog-ml--aws)| blog|
+| 4. | [Scribble: AI, ML, AWS](https://github.com/blessinvarkey/musings#scribble-ai-ml-aws)| notes|
 
 ## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
@@ -47,21 +46,26 @@ Here's a list of papers I'm reading/ interested in:
 |[Functional Brain Connectivity Analysis in Intellectual Developmental Disorder During Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)|  NSRE'20, IEEE|Intellectual developmental disorder,music perception, EEG, functional brain networks, modularity|
 |[VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989)|IUI '17, ACM|Human-Centered Computing, Machine Learning|
 
-## Scribble
+## Scribble: AI, ML, AWS
 | Topics        | Keywords |
 | ------------- | :------------- | 
+| [Adversarial Search](https://github.com/blessinvarkey/musings/blob/main/posts/notes-from-russell-norvig.md)| machine learning |
+| [Amazon Web Services - Terminologies](https://github.com/blessinvarkey/musings/blob/main/posts/aws-vocabulary.md)|cloud computing|
+| [aws-ml](posts/aws/aws.md) |machine learning|
 | Between Human and Machine||
 | BERT: Bidirectional Encoder Representation from Transformers ||
 | [Design Thinking](https://github.com/blessinvarkey/blog/blob/main/posts/design-thinking.md)|participatory design, user-centered design, co-design |
 | DALL-E | |
-|[Peanut Butter & Jelly Sandwich](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)| |
+| [Exploratory Data Analysis](https://github.com/blessinvarkey/musings/blob/main/posts/Exploratory-Data-Analysis.md)| aws, deployment |
+| [Peanut Butter & Jelly Sandwich](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)| |
 | GANs: Generative Adversarial Networks ||
 | [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
 | [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
 | [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
 | ImageNet Large Scale Visual Recognition Challenge ||
 | [Improvisation and Design](https://www.researchgate.net/publication/221516785_Improvisation_principles_and_techniques_for_design) ||
-| [Machine Learning and Computer Vision in Autism Spectrum Disorder Research](https://github.com/blessinvarkey/blog/blob/main/posts/ml-asd.md) ||
+| [Machine Learning & Autism Spectrum Disorder Research](https://github.com/blessinvarkey/musings/blob/main/posts/ml-asd-dl.md)|machine learning, deep learning|
+| [Machine Learning Notes](https://github.com/blessinvarkey/musings/blob/main/posts/ML-notes.md)| machine learning |
 | NERF: Neural Radiance Fields | |
 | Paradigms of Machine Learning |  |
 | PLM: Pre-trained Languge Model | | 
@@ -71,21 +75,9 @@ Here's a list of papers I'm reading/ interested in:
 | TIMIT speech recognition ||
 | The Emergence of Probability ||
 | [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training) |Facebook AI Research|
-|[Wudao](https://en.pingwest.com/a/8693)||
-
-
-
-## Blog: ML + AWS
-| Title        | Keywords |
-| ------------- | :------------- | 
-| [GPT-3](https://github.com/blessinvarkey/musings/blob/main/posts/GPT-3.md)|deep learning, OpenAI|
-| [Machine Learning & Autism Spectrum Disorder Research](https://github.com/blessinvarkey/musings/blob/main/posts/ml-asd-dl.md)|machine learning, deep learning|
-| [aws-ml](posts/aws/aws.md) |machine learning|
-| [Exploratory Data Analysis](https://github.com/blessinvarkey/musings/blob/main/posts/Exploratory-Data-Analysis.md)| aws, deployment |
-| [Adversarial Search](https://github.com/blessinvarkey/musings/blob/main/posts/notes-from-russell-norvig.md)| machine learning |
-| [Machine Learning Notes](https://github.com/blessinvarkey/musings/blob/main/posts/ML-notes.md)| machine learning |
 | [S3 Bucket](https://github.com/blessinvarkey/musings/blob/main/posts/S3-simple-storage-service.md)| cloud computing|
 | [Syntax vs Semantics](https://github.com/blessinvarkey/musings/blob/main/posts/Syntax-vs-Semantics.md)| machine learning |
-| [Amazon Web Services - Terminologies](https://github.com/blessinvarkey/musings/blob/main/posts/aws-vocabulary.md)|cloud computing|
+| [Wudao](https://en.pingwest.com/a/8693)||
+
 
 
