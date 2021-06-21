@@ -45,3 +45,17 @@
 - Simplicity is the art of __maximizing the amount of work not done__ is essential. 
 - The best architectures, requirements and design emerge from __self organizing teams__. 
 - At __regular intervals, the team reflects__ on how to become more effective, then tunes and adjusts its behaviour accordingly. 
+
+
+|Industrial projects |Knowledge work projects |
+|:----|:----|
+|Visible |Invisible|
+|Stable |Lot of Changes|
+|Running things | Changing Environments|
+|Structure |Less Structure |
+|Correct Answers |Lot of questions|
+|Task Driven |Value driven|
+|Command and Control| Autonomy driven|
+|Standuards |Innovation|
+|Performance measurement |Learning and teaching |
+|Cost of workers for a task |Workers are asset not a cost|
