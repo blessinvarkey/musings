@@ -5,7 +5,7 @@ First, bit of background. I was exposed to scrum first time while developing an 
 
 To prepare for the exam, you can first test your current understanding of scrum by attempting the free [scrum open assessment](https://www.scrum.org/open-assessments/scrum-open) by scrum.org. 
 
-A __thorough__ study of the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and the [The Simple Guide to Scrum](https://www.thescrummaster.co.uk/wp-content/uploads/2021/03/TheSimpleGuideToScrum-TheScrumMasterCoUk-v1.pdf) by TheScrumMasterCoUk is enough to prepare you for the exam. Each line, each word in the scrum guide is important. After your study, go back to scrum.org take the scrum open, the [Product Owner open](https://www.scrum.org/open-assessments/product-owner-open) assessment and re-read the scrum guide until you consecutively score a 100%. The time per question is much shorter on the real assessment. 
+A __thorough__ study of the [scrum guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100) and the [The Simple Guide to Scrum](https://www.thescrummaster.co.uk/wp-content/uploads/2021/03/TheSimpleGuideToScrum-TheScrumMasterCoUk-v1.pdf) by TheScrumMasterCoUk is enough to prepare you for the exam. __Each line__ in the scrum guide is important. After your study, go back to scrum.org take the scrum open, the [Product Owner open](https://www.scrum.org/open-assessments/product-owner-open) assessment and re-read the scrum guide until you consecutively score a 100%. The time per question is much shorter on the real assessment. 
 
 Review the [scrum glossary](https://www.scrum.org/resources/scrum-glossary), especially the terms that you are not familiar with.  
 
