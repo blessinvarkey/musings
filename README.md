@@ -35,17 +35,17 @@ Here's a list of papers I'm reading/ interested in:
 | Title        | Publication | Keywords |
 | ------------- | :------------- | :------------- | 
 |[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)| COMPAS'20 SIGCAS, ACM |ML, gaze tracking, health sensing|
-|[Socio-Technical Aspirations for Children with Special Needs: A Study in Two Locations - India and Finland.](https://dl.acm.org/doi/abs/10.1145/3396076)| TACCESS'20 ACM ||
-|[Promoting Joint Attention with Computer Supported Collaboration in Children with Autism](https://dl.acm.org/doi/abs/10.1145/2818048.2819930)|CSCW '16, ACM||
-|[Gesture-based interaction for individuals with developmental disabilities in India](https://dl.acm.org/doi/abs/10.1145/2982142.2982166)|ASSETS '16, ACM||
-|[Designing gesture-based applications for individuals with developmental disabilities: guidelines from user studies in India](https://dl.acm.org/doi/abs/10.1145/3161710)|TACCESS'18, ACM||
-|[Computer assisted autism interventions for india](https://dl.acm.org/doi/abs/10.1145/3010915.3011007)|OzCHI '16, ACM||
-|[EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli](https://www.sciencedirect.com/science/article/pii/S2352340920303826)|Data in Brief'20, Elsevier||
-|[Gathering garbage or going green? shifting social perspectives to empower individuals with special needs](https://dl.acm.org/doi/abs/10.1145/3392063.3394394)| IDC'20, ACM||
-|['Wow! You're Wearing a Fitbit, You're a Young Boy Now!" Socio-Technical Aspirations for Children with Autism in India](https://dl.acm.org/doi/abs/10.1145/3234695.3239329)|ASSETS'18, ACM||
-|[Kirana: A gesture-based market app for life skills learning for individuals with developmental disabilities](https://dl.acm.org/doi/abs/10.1145/2982142.2982149)|ASSETS '16, ACM||
-|[Functional Brain Connectivity Analysis in Intellectual Developmental Disorder During Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)|  NSRE'20, IEEE||
-|[VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989)|IUI '17, ACM||
+|[Socio-Technical Aspirations for Children with Special Needs: A Study in Two Locations - India and Finland.](https://dl.acm.org/doi/abs/10.1145/3396076)| TACCESS'20 ACM |Human-centered Computing, Accessibility |
+|[Promoting Joint Attention with Computer Supported Collaboration in Children with Autism](https://dl.acm.org/doi/abs/10.1145/2818048.2819930)|CSCW '16, ACM|HCI, Interaction techniques, Gestural input|
+|[Gesture-based interaction for individuals with developmental disabilities in India](https://dl.acm.org/doi/abs/10.1145/2982142.2982166)|ASSETS '16, ACM|HCI, Interaction techniques, Gestural input|
+|[Designing gesture-based applications for individuals with developmental disabilities: guidelines from user studies in India](https://dl.acm.org/doi/abs/10.1145/3161710)|TACCESS'18, ACM|HCI, Interaction techniques, Gestural input|
+|[Computer assisted autism interventions for india](https://dl.acm.org/doi/abs/10.1145/3010915.3011007)|OzCHI '16, ACM|Human-centered Computing|
+|[EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli](https://www.sciencedirect.com/science/article/pii/S2352340920303826)|Data in Brief'20, Elsevier|EEG, Neurodevelopment disorder, Auditory stimulus, Music apprehension, Emotiv|
+|[Gathering garbage or going green? shifting social perspectives to empower individuals with special needs](https://dl.acm.org/doi/abs/10.1145/3392063.3394394)| IDC'20, ACM|Human computer interaction (HCI), Social and professional topics|
+|['Wow! You're Wearing a Fitbit, You're a Young Boy Now!" Socio-Technical Aspirations for Children with Autism in India](https://dl.acm.org/doi/abs/10.1145/3234695.3239329)|ASSETS'18, ACM|Human-Centered Computing, Empirical studies in accessibility|
+|[Kirana: A gesture-based market app for life skills learning for individuals with developmental disabilities](https://dl.acm.org/doi/abs/10.1145/2982142.2982149)|ASSETS '16, ACM|HCI, Interaction techniques, Gestural input|
+|[Functional Brain Connectivity Analysis in Intellectual Developmental Disorder During Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)|  NSRE'20, IEEE|Intellectual developmental disorder,music perception, EEG, functional brain networks, modularity|
+|[VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989)|IUI '17, ACM|Human-Centered Computing, Machine Learning|
 
 ## Scribble
 | Topics        | Keywords |
