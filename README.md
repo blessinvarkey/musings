@@ -19,6 +19,14 @@ Here's a list of papers I'm reading/ interested in:
 |[Do Artifacts Have Politics?](https://nissenbaum.tech.cornell.edu/papers/Winner.pdf)||
 |[A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detection of Diabetic Retinopathy](https://dl.acm.org/doi/abs/10.1145/3313831.3376718)||
 
+## All things Scrum - Blog
+| Title        | Date |
+| ------------- | :------------- | 
+| [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
+| [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
+| [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 
+| [How I prepared for my PSM I examination](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/17-06-2021-psm-1-certification.md)| 17th June 2021|
+
 
 
 ## Contributed papers
@@ -36,15 +44,6 @@ Here's a list of papers I'm reading/ interested in:
 |[Kirana: A gesture-based market app for life skills learning for individuals with developmental disabilities](https://dl.acm.org/doi/abs/10.1145/2982142.2982149)|ASSETS '16, ACM||
 |[Functional Brain Connectivity Analysis in Intellectual Developmental Disorder During Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)|  NSRE'20, IEEE||
 |[VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989)|IUI '17, ACM||
-
-## All things Scrum - Blog
-| Title        | Date |
-| ------------- | :------------- | 
-| [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
-| [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
-| [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 
-| [How I prepared for my PSM I examination](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/17-06-2021-psm-1-certification.md)| 17th June 2021|
-
 
 ## Scribble - Notes
 | Topics        | Keywords |
