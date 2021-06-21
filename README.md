@@ -3,7 +3,7 @@
 | Contents       | 
 | ------------- |  
 | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) |  
-| [Scrum](https://github.com/blessinvarkey/musings#scrum-blog)|
+| [All things Scrum - Blog](https://github.com/blessinvarkey/musings#scrum-blog)|
 | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)|
 | [Scribble](https://github.com/blessinvarkey/musings#scribble)|
 
@@ -26,7 +26,7 @@ Here's a list of papers I'm reading/ interested in:
 |[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)|ML, gaze tracking, health sensing|
 
 
-## Scrum blog
+## All things Scrum - Blog
 | Title        | Date |
 | ------------- | :------------- | 
 | [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
