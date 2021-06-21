@@ -6,7 +6,7 @@
 | [All things Scrum - Blog](https://github.com/blessinvarkey/musings#scrum-blog)|
 | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)|
 | [Scribble - Notes](https://github.com/blessinvarkey/musings#scribble)|
-|[AWS Deployment Notes](https://github.com/blessinvarkey/musings#deployment-notes)|
+|[AWS Deployment Notes](https://github.com/blessinvarkey/musings#aws-deployment---notes)|
 
 ## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
