@@ -1,10 +1,39 @@
-# Scrum PSM Notes
+# Scrum Essentials 
 
-![Scrum Framework](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png)
+<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png" alt="drawing" width="600"/>
+
+## Scrum Utilizations: 
+- Research and identify viable markets, technologies and product capabilities. 
+- Develop products and enhancements. 
+- Frequently release products and enhancements. 
+- Develop and sustain cloud and operations for product use. 
+- Sustain and renew products. 
+
+# Scrum Theory
+- Empirical process control theory, or empiricism
+- Empiricism asserts that knowledge comes from experience and making decisions based on what is known. 
+- Scrum employs an iterative, incremental approach to optimise predictability and control risk. 
 
 ## Scrum
 - Framework, not methodology
 - Empiricism (Process control theory): Transparency, Inspection, Adaptation  
+
+## Three pillars of Scrum
+### Transparency:
+- Requires a common standard
+- Common Definition of Done
+
+### Inspection:
+- Inspect scrum artifacts
+- Inspection should not get in the way of the work
+ 
+### Adaptation:
+- Adjustments are made ASAP to minimise additional deviations
+- Scrum prescribes four events for inspect + adapt
+  - Sprint Planning
+  - Daily Scrum 
+  - Sprint Review
+  - Sprint Retrospective
 
 ## Scrum Values
 - Focus
@@ -50,7 +79,7 @@ The Scrum Team creates increments every sprint, is self managing and cross funct
 ### 5. Sprint
   - 1 month or less
 
-![Scrum Framework](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-06/ScrumValues-1000.png)
+<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-06/ScrumValues-1000.png" alt="drawing" width="600"/>
 
 ## Artifacts (3)
 
