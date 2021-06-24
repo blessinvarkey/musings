@@ -2,7 +2,7 @@
 
 ### 1. [User Centered Design ↓](https://github.com/blessinvarkey/musings/new/main/posts#1-user-centered-design-)
 
-### 2. [Five Elements Framework ↓](https://github.com/blessinvarkey/musings/new/main/posts#2-five-elements-framework-)
+### 2. [Five Elements Framework ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/five-elements-framework.md#2-five-elements-framework-)
 
 ### 3. [Design Thinking ↓]()
 
