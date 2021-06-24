@@ -1,25 +1,15 @@
-# [Draft]
-
 # Scrum with User Experience 
 
-## 1. User Experience 
-### Four elements of a good user experience
-- Usability
-- Enjoyable
-- Useful
-- Equitable
+### Key Frameworks in UX Design
 
-### User Experience Research 
-
-### Design Sprint
+### 1. [User Centered Design  ↓](https://github.com/blessinvarkey/musings/new/main/posts#1-user-centered-design-)  
+### 2. [Five Elements Framework ↓]()
+### 3. [Design Thinking ↓](https://github.com/blessinvarkey/musings/new/main/posts#3-design-thinking-)
+### 4. [Lean UX ↓]()
+### 5. [Double Diamond ↓]()
 
 
-
-## 2. Lean UX
-<img src="https://www.oreilly.com/library/view/lean-ux-2nd/9781491953594/assets/lux2_0401.png" alt="drawing" width="500"/>
-
-
-## 3. Scrum with Lean UX
+# 6. Scrum with Lean UX ↓
 Jeff Gothelff in his article [5 Rules For Integrating UX With Agile & Scrum](https://medium.com/swlh/5-rules-for-integrating-ux-with-agile-scrum-b048babb9a89) and [How UX design integrates with agile and scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24) describes how UX design integrates with Scrum: 
 
 a. A dedicated engineer on every team.   
@@ -46,3 +36,5 @@ e. Cross functional participation in learning activities.
 4. [How UX design integrates with agile and scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24)
 5. [5 Rules for Integrating UX with Agile and Scrum](https://medium.com/swlh/5-rules-for-integrating-ux-with-agile-scrum-b048babb9a89)
 6. [Defining value: the most ambiguous word in product development](https://medium.com/swlh/defining-value-the-most-ambiguous-word-in-product-development-3c36af377ecd)
+7. [Power of Inclusive Design](https://www.designbetter.co/podcast/benjamin-evans)
+8. [Design and Manage, Equity focused evaluations](https://evalpartners.org/sites/default/files/EWP5_Equity_focused_evaluations.pdf)
