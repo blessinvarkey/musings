@@ -22,7 +22,7 @@ Guiding principles for User-centered design process:
 5. Offer support
 
 
-### 2. [Five elements framework (UX Design)  ↓](https://github.com/blessinvarkey/musings/new/main/posts#2-five-elements-framework-)
+### 2. [Five elements framework (UX Design)  ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/five-elements-framework.md#2-five-elements-framework-)
 
 ### 3. [Design Thinking  ↓](https://github.com/blessinvarkey/musings/new/main/posts#3-design-thinking-)
 
