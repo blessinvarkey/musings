@@ -81,4 +81,4 @@ Here's a list of papers I'm reading/ interested in:
 
 
 
-[Back to top](https://github.com/blessinvarkey/musings#musings)
+[↑ Back to top](https://github.com/blessinvarkey/musings#musings)
