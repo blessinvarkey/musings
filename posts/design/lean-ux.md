@@ -23,9 +23,7 @@ Six principles of Lean UX:
 
 
 ### 5. [Double Diamond ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/double-diamond.md#5-double-diamond-)
-
-
-
+### 6. [Scrum with Lean UX ↓](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/12-04-2021-user-experience-scrum.md#6-scrum-with-lean-ux-)
 ---
 ## Recommended Reading:
 1. [Adobe Ideas](https://xd.adobe.com/ideas/)
@@ -35,3 +33,4 @@ Six principles of Lean UX:
 5. [5 Rules for Integrating UX with Agile and Scrum](https://medium.com/swlh/5-rules-for-integrating-ux-with-agile-scrum-b048babb9a89)
 6. [Defining value: the most ambiguous word in product development](https://medium.com/swlh/defining-value-the-most-ambiguous-word-in-product-development-3c36af377ecd)
 7. [Power of Inclusive Design](https://www.designbetter.co/podcast/benjamin-evans)
+8. [Design and Manage, Equity focused evaluations](https://evalpartners.org/sites/default/files/EWP5_Equity_focused_evaluations.pdf)
