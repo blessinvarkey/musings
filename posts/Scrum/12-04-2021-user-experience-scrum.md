@@ -2,11 +2,11 @@
 
 ### Key Frameworks in UX Design
 
-### 1. [User Centered Design  ↓](https://github.com/blessinvarkey/musings/new/main/posts#1-user-centered-design-)  
-### 2. [Five Elements Framework ↓]()
-### 3. [Design Thinking ↓](https://github.com/blessinvarkey/musings/new/main/posts#3-design-thinking-)
-### 4. [Lean UX ↓]()
-### 5. [Double Diamond ↓]()
+### 1. [User Centered Design  ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/user-centered-design.md#1-user-centered-design-)  
+### 2. [Five Elements Framework ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/five-elements-framework.md#2-five-elements-framework-)
+### 3. [Design Thinking ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/design-thinking.md#3-design-thinking-)
+### 4. [Lean UX ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/lean-ux.md#4-lean-ux-)
+### 5. [Double Diamond ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/double-diamond.md#5-double-diamond-)
 
 
 # 6. Scrum with Lean UX ↓
