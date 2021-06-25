@@ -22,6 +22,7 @@ There are four principles that inform the Double Diamond process:
 4. Iterate. 
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/b/bd/Double_diamond.png" alt = "drawing" width = "500">
+
 ### 6. [Scrum with Lean UX ↓](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/12-04-2021-user-experience-scrum.md#6-scrum-with-lean-ux-)
 
 ---
