@@ -1,12 +1,10 @@
 ### Key Frameworks in UX Design
 
-### 1. [User Centered Design ↓](https://github.com/blessinvarkey/musings/new/main/posts#1-user-centered-design-)
-
+### 1. [User Centered Design  ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/user-centered-design.md#1-user-centered-design-)  
 ### 2. [Five Elements Framework ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/five-elements-framework.md#2-five-elements-framework-)
+### 3. [Design Thinking ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/design-thinking.md#3-design-thinking-)
 
-### 3. [Design Thinking ↓]()
-
-### 4. Lean UX ↓
+# 4. Lean UX ↓
 The Lean UX process focuses on reducing wasted time and resources, and producing a workable product as soon as possible. 
 The process is iterative, i.e. the team continues to update and make revisions to the product as they gather user research and stakeholder feedback.
 Lean UX is about collaborating and incorporating feedback.
@@ -24,7 +22,9 @@ Six principles of Lean UX:
 5. Embrace radical transparency. 
 
 
-### 5. [Double Diamond ↓]()
+### 5. [Double Diamond ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/double-diamond.md#5-double-diamond-)
+
+
 
 ---
 ## Recommended Reading:
