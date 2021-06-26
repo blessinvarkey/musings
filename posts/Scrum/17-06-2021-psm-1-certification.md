@@ -25,3 +25,4 @@ Do note that the language used in the actual exam will be different from the moc
 4. [Twelve Principles of Agile Software](https://agilemanifesto.org/principles.html)
 5. [The Simple Guide to Scrum](https://www.thescrummaster.co.uk/wp-content/uploads/2021/03/TheSimpleGuideToScrum-1Pager.pdf) 
 6. [Cone of Uncertainty](http://www.agilenutshell.com/cone_of_uncertainty)
+7. [Sh!t Bad Scrum Master say](https://www.youtube.com/watch?v=GGbsgs611MM)
