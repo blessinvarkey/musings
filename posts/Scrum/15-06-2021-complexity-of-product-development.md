@@ -52,6 +52,6 @@ Scrum is a framework that outperforms predictive methods, such as scientific man
 ![Complexity of Product Development](https://www.praxisframework.org/images/stacey-matrix-2.png)
 
 ## References
-R1 : [Stacy Matrix - Adapt Knowledge](http://adaptknowledge.com/wp-content/uploads/rapidintake/PI_CL/media/Stacey_Matrix.pdf). 
+R1 : [Stacy Matrix - Adapt Knowledge](http://adaptknowledge.com/wp-content/uploads/rapidintake/PI_CL/media/Stacey_Matrix.pdf).  
 R2 : [Praxis Framework](https://www.praxisframework.org/en/library/stacey-matrix) 
 
