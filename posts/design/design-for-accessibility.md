@@ -1,7 +1,7 @@
 # Equity focused Design (a11y)
 
-Design of products, devices, services or environments for persons with disabilties. 
-Accessibility is making all things accessible to all people. 
+Accessibility is making all things accessible to all people. It includes design of products, devices, services or environments for persons with disabilties. 
+
 
 ## Social Model of Disability
 - Permenant Disability 
