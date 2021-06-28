@@ -3,19 +3,19 @@
 Design of products, devices, services or environments for persons with disabilties. 
 Accessibility is making all things accessible to all people. 
 
-Social Model of Disability
-
+## Social Model of Disability
 - Permenant Disability 
 - Temporary Disability 
 - Situational Disability 
 
-ATs : Any product equipment and system that enhances learning, working and daily living for persons with disabilities. 
+## Assitive Technolgies
+AT: Any product equipment and system that enhances learning, working and daily living for persons with disabilities. 
 
-Different kinds of Assitive Technologies
-- Color modification
-- Voice Control 
-- Screen Readers
-- Alternative text
+### Different kinds of Assitive Technologies
+- Color modification: e.g. High contrast
+- Voice Control: e.g. Switch
+- Screen Readers: e.g. Alt text
+- Alternative text: e.g. Speech to text
 
 
 ---
