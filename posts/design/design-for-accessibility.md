@@ -9,6 +9,15 @@ Social Model of Disability
 - Temporary Disability 
 - Situational Disability 
 
+ATs : Any product equipment and system that enhances learning, working and daily living for persons with disabilities. 
+
+Different kinds of Assitive Technologies
+- Color modification
+- Voice Control 
+- Screen Readers
+- Alternative text
+
+
 ---
 ## References:
 1. [Designing Global Accessibility by Google](https://design.google/library/designing-global-accessibility-part-1/)
