@@ -35,3 +35,7 @@
 - **UX writers:** Create the language that appears throughout a digital product, like websites or mobile apps
 - **Visual designers:** Focus on how the product or technology looks
 - **Wireframe:** An outline or a sketch of a product or a screen
+
+---
+# References
+1. [Grow Google: UX Design Certificate](https://grow.google/uxdesign/#?modal_active=none)
