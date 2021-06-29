@@ -2,12 +2,15 @@
 
 Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep updating them when I find any new information. Currently, I'm exploring the implementation of Lean UX with Scrum. You can jump directly to [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum) to check my latest blogs/updates. 
 
+
 | S. No. | Contents | Tags |
 | ------------- | ------------- |------------- |  
 | 1. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) | papers | 
 | 2. | [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum)| blog|
 | 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)| papers|
 | 4. | [Scribble: AI, ML, AWS](https://github.com/blessinvarkey/musings#scribble-ai-ml-aws)| notes|
+
+<img src = "https://raw.githubusercontent.com/hackclub/dinosaurs/main/Gamborlhini-top-hat-dino.png" width = "300" />
 
 ## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
@@ -20,6 +23,7 @@ Here's a list of papers I'm reading/ interested in:
 |[Do Artifacts Have Politics?](https://nissenbaum.tech.cornell.edu/papers/Winner.pdf)||
 |[A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detection of Diabetic Retinopathy](https://dl.acm.org/doi/abs/10.1145/3313831.3376718)||
 
+
 ## Blog: All things Scrum
 | Title        | Date |
 | ------------- | :------------- | 
@@ -28,7 +32,7 @@ Here's a list of papers I'm reading/ interested in:
 | [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
 | [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
 
-
+<img src = "https://raw.githubusercontent.com/hackclub/dinosaurs/main/contributing_dinosaur.png" width = "300">
 
 ## Contributed papers
 | Title        | Publication | Keywords |
@@ -78,6 +82,8 @@ Here's a list of papers I'm reading/ interested in:
 | [S3 Bucket](https://github.com/blessinvarkey/musings/blob/main/posts/S3-simple-storage-service.md)| cloud computing|
 | [Syntax vs Semantics](https://github.com/blessinvarkey/musings/blob/main/posts/Syntax-vs-Semantics.md)| machine learning |
 | [Wudao](https://en.pingwest.com/a/8693)||
+
+<img src = "https://raw.githubusercontent.com/hackclub/dinosaurs/main/smart_dinosaur_docs.png" width = "300">
 
 
 
