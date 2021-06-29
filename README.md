@@ -10,7 +10,6 @@ Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep up
 | 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)| papers|
 | 4. | [Scribble: AI, ML, AWS](https://github.com/blessinvarkey/musings#scribble-ai-ml-aws)| notes|
 
-<img src = "https://raw.githubusercontent.com/hackclub/dinosaurs/main/Gamborlhini-top-hat-dino.png" width = "300" />
 
 ## Papers: Selected readings
 Here's a list of papers I'm reading/ interested in:
@@ -32,7 +31,6 @@ Here's a list of papers I'm reading/ interested in:
 | [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
 | [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
 
-<img src = "https://raw.githubusercontent.com/hackclub/dinosaurs/main/contributing_dinosaur.png" width = "300">
 
 ## Contributed papers
 | Title        | Publication | Keywords |
