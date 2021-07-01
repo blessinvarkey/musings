@@ -81,8 +81,5 @@ Here's a list of papers I'm reading/ interested in:
 | [Syntax vs Semantics](https://github.com/blessinvarkey/musings/blob/main/posts/Syntax-vs-Semantics.md)| machine learning |
 | [Wudao](https://en.pingwest.com/a/8693)||
 
-<img src = "https://raw.githubusercontent.com/hackclub/dinosaurs/main/smart_dinosaur_docs.png" width = "300">
-
-
 
 [↑ Back to top](https://github.com/blessinvarkey/musings#musings)
