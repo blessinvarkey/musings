@@ -22,6 +22,8 @@ Here's a sample by [productplan.com](https://www.productplan.com)
 
 ## Calculating the story points
 
+Story point are estimates of effort as influenced by the amount of work, complexity, risk and uncertainity.
+
 One of the challenges of implementing scrum/agile in a new project can be the story point estimation. Story points are intended to make estimating easier by comparing the effort it will take for one user story, relative to the other user stories in the product backlog. However, a rough estimation of time per story point (perhaps while trying it out for the first time) can be set according as following: 
 
 | Time  | Story point  |
