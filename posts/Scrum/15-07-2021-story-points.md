@@ -1,6 +1,6 @@
-# Calculating the story points in Jira
+# Calculating the story points
 
-Story points are intended to make estimating easier by comparing the effort it will take for one user story, relative to the other user stories in the product backlog. However, a rough estimation of time per story point (perhaps while trying it out for the first time) can be set according as following: 
+One of the challenges of implementing scrum/agile in a new project can be the story point estimation. Story points are intended to make estimating easier by comparing the effort it will take for one user story, relative to the other user stories in the product backlog. However, a rough estimation of time per story point (perhaps while trying it out for the first time) can be set according as following: 
 
 | Time  | Story point  |
 |---|---|
