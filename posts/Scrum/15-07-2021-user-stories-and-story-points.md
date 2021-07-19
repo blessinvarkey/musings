@@ -1,7 +1,7 @@
 
 ## Why do we need User Stories
 
-_"You build what I asked for, but its not what I need"_
+_"You built what I asked for, but its not what I need"_
 
 Stories are easier to remember. 
 Mike Cohn's [video](https://www.youtube.com/watch?v=6q5-cVeNjCE) on user stories. 
