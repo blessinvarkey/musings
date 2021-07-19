@@ -13,10 +13,10 @@ _“Some people say, “Give the customers what they want.” But that’s not m
 
 ### Q1. What are User Stories?
 
-A user story describes functionality that will be valuable to either a user or purchaser of a system or software. User stories are composed of three aspects:
-• a written description of the story used for planning and as a reminder
-• conversations about the story that serve to flesh out the details of the story
-• tests that convey and document details and that can be used to determine when a story is complete
+A user story describes functionality that will be valuable to either a user or purchaser of a system or software. User stories are composed of three aspects:   
+- a written description of the story used for planning and as a reminder.  
+- conversations about the story that serve to flesh out the details of the story.  
+- tests that convey and document details and that can be used to determine when a story is complete.  
 
 Spend time understanding a customer's habit, belief and problems rather than asking what they want [[1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b)]. To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
 
