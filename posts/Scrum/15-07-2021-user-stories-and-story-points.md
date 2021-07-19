@@ -8,7 +8,7 @@ _“Some people say, “Give the customers what they want.” But that’s not m
 |------------|
 |[Q1. What are User Stories?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)    |
 |[Q2. How many user stories should be selected per sprint?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q2-do-we-have-a-rule-of-thumb-for-user-stories)|
-|[Q3. How can we calculate the story points](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
+|[Q3. How do we calculate the story points?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
 
 
 ### Q1. What are User Stories?
@@ -43,7 +43,7 @@ Here's a sample by [productplan.com](https://www.productplan.com)
 - From Mike Cohn's blog: _"One possible solution to this common problem is that these teams are doing too many product backlog items per sprint. Based on data I analyzed on successfully finished sprints, I determined that a team should average around 1 to 1-1/2 user stories (product backlog items of any sort, really) per person per sprint. So, a six-person team should get somewhere around 6-9 user stories done per sprint."_ [[4](https://www.mountaingoatsoftware.com/blog/should-the-daily-standup-be-person-by-person-or-story-by-story)]
 
 
-### Q3. How can we calculate the story points
+### Q3. How do we calculate the story points?
 
 Story points are the estimates of effort as influenced by the amount of work, complexity, risk and uncertainity. Estimating the story point in a new project while implementing a scrum/agile methodology can be challenging. Story points are intended to make estimating easier by comparing the effort it will take for one user story, relative to the other user stories in the product backlog. 
 
