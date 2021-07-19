@@ -51,4 +51,4 @@ Another way to assign story points is by taking the shirt size example. Like the
 
 Also, a user story should ideally not take more than three days.
 
-[↑ Back to top](https://github.com/blessinvarkey/musings/edit/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md)
+[↑ Back to top](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md)
