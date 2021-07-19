@@ -2,7 +2,7 @@
 
 _“Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them._ - Steve Jobs
 
-Writing the user stories and estimation the story point can be quite tedious. In fact, it's also considered among the most difficult–if not the most difficult–aspects of software development [[1](https://www.atlassian.com/agile/project-management/estimation)]. Let's look at some questions I had during my agile exploration.
+Writing the user stories and estimating the story point can be quite tedious. In fact, it's also considered among the most difficult–if not the most difficult–aspects of software development [[1](https://www.atlassian.com/agile/project-management/estimation)]. Let's look at some questions I had during my agile exploration.
 
 |Table of Contents |
 |------------|
