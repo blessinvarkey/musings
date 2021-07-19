@@ -59,7 +59,7 @@ Here's a user story card sample by [productplan.com](https://www.productplan.com
 ### Q3. How many user stories should be selected per sprint?
 
 - 5 to 15 user stories for a 2-4 week sprint can be seen as a general trend, provided no user story takes more than 3 days. [[4](https://www.leadingagile.com/2015/05/how-many-user-stories-per-sprint-rules-of-thumb/)] 
-- From Mike Cohn's blog: _"One possible solution to this common problem is that these teams are doing too many product backlog items per sprint. Based on data I analyzed on successfully finished sprints, I determined that a team should average around 1 to 1-1/2 user stories (product backlog items of any sort, really) per person per sprint. So, a six-person team should get somewhere around 6-9 user stories done per sprint."_ [[4](https://www.mountaingoatsoftware.com/blog/should-the-daily-standup-be-person-by-person-or-story-by-story)]
+- From Mike Cohn's blog: _"One possible solution to this common problem is that these teams are doing too many product backlog items per sprint. Based on data I analyzed on successfully finished sprints, I determined that a team should average around 1 to 1-1/2 user stories (product backlog items of any sort, really) per person per sprint. So, a six-person team should get somewhere around 6-9 user stories done per sprint."_ [[5](https://www.mountaingoatsoftware.com/blog/should-the-daily-standup-be-person-by-person-or-story-by-story)]
 
 
 
