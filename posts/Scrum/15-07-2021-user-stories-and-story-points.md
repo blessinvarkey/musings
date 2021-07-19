@@ -1,8 +1,8 @@
 
 
 ## Table of Contents
-[1. Why do we need User Stories](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)
-[2. Calculating the story points]()
+[1. Why do we need User Stories](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)    
+[2. Calculating the story points](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)
 
 ## 1. Why do we need User Stories
 _“Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them._ - Steve Jobs
