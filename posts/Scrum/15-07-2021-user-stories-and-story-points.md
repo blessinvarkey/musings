@@ -6,9 +6,9 @@ _“Some people say, “Give the customers what they want.” But that’s not m
 
 |Table of Contents |
 |------------|
-|[1. What are User Stories?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)    |
-|[2. How many user stories should be selected per sprint?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q2-do-we-have-a-rule-of-thumb-for-user-stories)|
-|[3. How can we calculate the story points](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
+|[Q1. What are User Stories?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)    |
+|[Q2. How many user stories should be selected per sprint?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q2-do-we-have-a-rule-of-thumb-for-user-stories)|
+|[Q3. How can we calculate the story points](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
 
 
 ### Q1. What are User Stories?
