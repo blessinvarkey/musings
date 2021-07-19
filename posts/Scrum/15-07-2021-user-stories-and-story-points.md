@@ -35,7 +35,7 @@ For writing a good user story, Roman Pichler suggests 10 tips on his [blog](http
 6. Refine the Stories until They are Ready: Break the Epics till the stories are ready
 7. Add Acceptance Criteria: They allow you to describe the conditions that have to be fulfilled so that the story is done.The definition of done is common to all your work but acceptance criteria are specific to individual pieces of work.
 8. Use Paper Cards: First, paper cards are cheap and easy to use. Second, they facilitate collaboration: Every one can take a card and jot down an idea. Third, cards can be easily grouped on the table or wall to check for consistency and completeness and to visualise dependencies.
-9. Keep your Stories Visible and Accessible
+9. Keep your Stories Visible and Accessible. 
 10 Don’t Solely Rely on User Stories
 
 ### Rachel Davies format
