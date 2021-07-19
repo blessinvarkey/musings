@@ -19,10 +19,10 @@ A user story describes functionality that will be valuable to either a user or p
 - conversations about the story that serve to flesh out the details of the story.  
 - tests that convey and document details and that can be used to determine when a story is complete.  
 
-Spend time understanding a customer's habit, belief and problems rather than asking what they want [[1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b)]. To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
+Spend time understanding a customer's habit, belief and problems rather than asking what they want [[2](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b)]. To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
 
 Stories are easier to remember. 
-User stories are an example of a participatory design. [[2](https://www.youtube.com/watch?v=6q5-cVeNjCE)] 
+User stories are an example of a participatory design. [[3](https://www.youtube.com/watch?v=6q5-cVeNjCE)] 
 
 ### Q2. How do we write a user story?
 
@@ -58,7 +58,7 @@ Here's a user story card sample by [productplan.com](https://www.productplan.com
 
 ### Q3. How many user stories should be selected per sprint?
 
-- 5 to 15 user stories for a 2-4 week sprint can be seen as a general trend, provided no user story takes more than 3 days. [[3](https://www.leadingagile.com/2015/05/how-many-user-stories-per-sprint-rules-of-thumb/)] 
+- 5 to 15 user stories for a 2-4 week sprint can be seen as a general trend, provided no user story takes more than 3 days. [[4](https://www.leadingagile.com/2015/05/how-many-user-stories-per-sprint-rules-of-thumb/)] 
 - From Mike Cohn's blog: _"One possible solution to this common problem is that these teams are doing too many product backlog items per sprint. Based on data I analyzed on successfully finished sprints, I determined that a team should average around 1 to 1-1/2 user stories (product backlog items of any sort, really) per person per sprint. So, a six-person team should get somewhere around 6-9 user stories done per sprint."_ [[4](https://www.mountaingoatsoftware.com/blog/should-the-daily-standup-be-person-by-person-or-story-by-story)]
 
 
