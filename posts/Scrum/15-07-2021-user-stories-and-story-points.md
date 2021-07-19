@@ -25,7 +25,6 @@ Stories are easier to remember.
 User stories are an example of a participatory design. [[2](https://www.youtube.com/watch?v=6q5-cVeNjCE)] 
 
 ### Q2. How do we write a user story?
-Visit this [link](https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf) to view more than 200 examples of user stories.
 
 User stories are written in the following format: As a < __user role__ >, I < __want/need/can/etc__ > < __goal__ > so that < __reason__ >.
 Examples of user stories. 
@@ -34,6 +33,8 @@ Examples of user stories.
 - As a premium user, I can cancel a reservation at the last minute
 - As a non-premium user, I can cancel 24 hours before the trip.  
 - As a frequent flyer, I want to rebook a past trip so that I can save time booking trips I take often
+
+Visit this [link](https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf) to view more than 200 examples of user stories.
 
 Here's a user story card sample by [productplan.com](https://www.productplan.com)
 
