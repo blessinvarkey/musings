@@ -82,4 +82,7 @@ The following estimated time per story point is taken from [this video](https://
 
 Another way to assign story points is by taking the shirt size example. Like the size of a shirt S, M, L, XL, XXL, a story that is assigned 2 story points (XL) should be twice as much as a story that is assigned 1(L) story point. It should also be two-thirds of a story that is estimated 3 (XXL) story points.
 
+## Reccomended Reading:
+1. [romanpichler - 10 Tips Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+
 [↑ Back to top](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md)
