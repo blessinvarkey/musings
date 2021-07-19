@@ -8,7 +8,7 @@ Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep up
 | 1. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) | papers | 
 | 2. | [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum)| blog|
 | 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)| papers|
-| 4. | [AI, ML, AWS notes](https://github.com/blessinvarkey/musings#scribble-ai-ml-aws)| notes|
+| 4. | [AI, ML, AWS notes](https://github.com/blessinvarkey/musings/blob/main/README.md#ai-ml-aws-notes)| notes|
 
 
 ## Papers: Selected readings
