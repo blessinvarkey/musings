@@ -3,10 +3,10 @@
 
 _“Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them._ - Steve Jobs
 
-Spend time understanding a customer's habit, belief and problems rather than asking what they want [1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b). To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
+Spend time understanding a customer's habit, belief and problems rather than asking what they want [[1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b)]. To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
 
 Stories are easier to remember. 
-Mike Cohn's video [2](https://www.youtube.com/watch?v=6q5-cVeNjCE) on user stories. 
+Mike Cohn's video [[2](https://www.youtube.com/watch?v=6q5-cVeNjCE)] on user stories. 
 User stories are an example of a participatory design.
 
 e.g.  on Travel Website:
