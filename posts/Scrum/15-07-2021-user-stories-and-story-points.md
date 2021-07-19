@@ -5,11 +5,10 @@ _“Some people say, “Give the customers what they want.” But that’s not m
 |Table of Contents |
 |------------|
 |[1. Why do we need User Stories?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)    |
-|[2. Calculating the story points](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
+|[3. How can we calculate the story points](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
 
 
-
-## 1. Why do we need User Stories
+### Q1. Why do we need User Stories
 
 Spend time understanding a customer's habit, belief and problems rather than asking what they want [[1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b)]. To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
 
@@ -30,7 +29,12 @@ Here's a sample by [productplan.com](https://www.productplan.com)
 
 <img src = "https://www.productplan.com/uploads/2019/01/user-story-1024x536.png" width= 600>
 
-## 2. Calculating the story points
+### Q2. Do we have a Rule of Thumb for user stories?
+
+While there is no 'rule of thumb' for selecting the number of user stories per sprint, roughly 5 to 15 user stories for a 2-4 week sprint can be seen as a general trend, provided no user story takes more than 3 days. 
+
+
+### Q3. How can we calculate the story points
 
 Story points are the estimates of effort as influenced by the amount of work, complexity, risk and uncertainity. Estimating the story point in a new project while implementing a scrum/agile methodology can be challenging. Story points are intended to make estimating easier by comparing the effort it will take for one user story, relative to the other user stories in the product backlog. 
 
@@ -49,6 +53,7 @@ The following estimated time per story point is taken from [this video](https://
 
 Another way to assign story points is by taking the shirt size example. Like the size of a shirt S, M, L, XL, XXL, a story that is assigned 2 story points (XL) should be twice as much as a story that is assigned 1(L) story point. It should also be two-thirds of a story that is estimated 3 (XXL) story points.
 
-Also, a user story should ideally not take more than three days.
+## References
+1. [How Many User Stories per Sprint - Rule of thumb](https://www.leadingagile.com/2015/05/how-many-user-stories-per-sprint-rules-of-thumb/)
 
 [↑ Back to top](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md)
