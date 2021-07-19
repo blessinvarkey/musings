@@ -27,6 +27,8 @@ Here's a list of papers I'm reading/ interested in:
 | Title        | Date |
 | ------------- | :------------- | 
 |[Writing User stories and Estimating Story points](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md)|15th July 2021|
+|[The complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md)|June 28, 2021|
+|[The Agile Mindset](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/22-06-2021-the-agile-mindset.md)|Jun 22, 2021|
 | [How I prepared for my PSM I examination](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/17-06-2021-psm-1-certification.md)| 17th June 2021|
 | [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 
 | [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
