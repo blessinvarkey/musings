@@ -1,10 +1,12 @@
 
 ## Why do we need User Stories
 
-_"You built what I asked for, but its not what I need"_
+_“Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them._ - Steve Jobs
+
+Spend time understanding a customer's habit, belief and problems rather than asking what they want [1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b). To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
 
 Stories are easier to remember. 
-Mike Cohn's [video](https://www.youtube.com/watch?v=6q5-cVeNjCE) on user stories. 
+Mike Cohn's video [2](https://www.youtube.com/watch?v=6q5-cVeNjCE) on user stories. 
 User stories are an example of a participatory design.
 
 e.g.  on Travel Website:
@@ -40,3 +42,5 @@ The estimated time per story point is taken from [this video](https://www.youtub
 Ideally, a user story should not take more than three days. 
 
 Another way to assign story points is by taking the shirt size example. Like the size of a shirt S, M, L, XL, XXL, a story that is assigned 2 story points (XL) should be twice as much as a story that is assigned 1(L) story point. It should also be two-thirds of a story that is estimated 3 (XXL) story points.
+
+
