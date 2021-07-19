@@ -8,7 +8,8 @@ _“Some people say, “Give the customers what they want.” But that’s not m
 |------------|
 |[Q1. What are User Stories?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)    |
 |[Q2. How many user stories should be selected per sprint?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q2-do-we-have-a-rule-of-thumb-for-user-stories)|
-|[Q3. How do we calculate the story points?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
+|[Q3. How do we write a user story?]()|
+|[Q4. How do we calculate the story points?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#2-calculating-the-story-points)|
 
 
 ### Q1. What are User Stories?
@@ -21,9 +22,12 @@ A user story describes functionality that will be valuable to either a user or p
 Spend time understanding a customer's habit, belief and problems rather than asking what they want [[1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b)]. To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
 
 Stories are easier to remember. 
-User stories are written in the following format: As a < __user role__ >, I < __want/need/can/etc__ > < __goal__ > so that < __reason__ >.
 User stories are an example of a participatory design. [[2](https://www.youtube.com/watch?v=6q5-cVeNjCE)] 
 
+### Q2. How do we write a user story?
+Visit this [link](https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf) to view more than 200 examples of user stories.
+
+User stories are written in the following format: As a < __user role__ >, I < __want/need/can/etc__ > < __goal__ > so that < __reason__ >.
 Examples of user stories. 
 - As a user, I want to reserve a hotel room
 - As a user, I want to cancel a reservation
@@ -31,21 +35,18 @@ Examples of user stories.
 - As a non-premium user, I can cancel 24 hours before the trip.  
 - As a frequent flyer, I want to rebook a past trip so that I can save time booking trips I take often
 
-Visit this [link](https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf) to view more than 200 examples of user stories!
-
-
 Here's a sample by [productplan.com](https://www.productplan.com)
 
 <img src = "https://www.productplan.com/uploads/2019/01/user-story-1024x536.png" width= 600>
 
-### Q2. How many user stories should be selected per sprint?
+### Q3. How many user stories should be selected per sprint?
 
 - 5 to 15 user stories for a 2-4 week sprint can be seen as a general trend, provided no user story takes more than 3 days. [[3](https://www.leadingagile.com/2015/05/how-many-user-stories-per-sprint-rules-of-thumb/)] 
 - From Mike Cohn's blog: _"One possible solution to this common problem is that these teams are doing too many product backlog items per sprint. Based on data I analyzed on successfully finished sprints, I determined that a team should average around 1 to 1-1/2 user stories (product backlog items of any sort, really) per person per sprint. So, a six-person team should get somewhere around 6-9 user stories done per sprint."_ [[4](https://www.mountaingoatsoftware.com/blog/should-the-daily-standup-be-person-by-person-or-story-by-story)]
 
 
 
-### Q3. How do we calculate the story points?
+### Q4. How do we calculate the story points?
 
 Story points are the estimates of effort as influenced by the amount of work, complexity, risk and uncertainity. Estimating the story point in a new project while implementing a scrum/agile methodology can be challenging. Story points are intended to make estimating easier by comparing the effort it will take for one user story, relative to the other user stories in the product backlog. 
 
