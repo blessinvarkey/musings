@@ -8,7 +8,7 @@ Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep up
 | 1. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) | papers | 
 | 2. | [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum)| blog|
 | 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers)| papers|
-| 4. | [Scribble: AI, ML, AWS](https://github.com/blessinvarkey/musings#scribble-ai-ml-aws)| notes|
+| 4. | [AI, ML, AWS notes](https://github.com/blessinvarkey/musings#scribble-ai-ml-aws)| notes|
 
 
 ## Papers: Selected readings
@@ -49,7 +49,7 @@ Here's a list of papers I'm reading/ interested in:
 |[Functional Brain Connectivity Analysis in Intellectual Developmental Disorder During Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)|  NSRE'20, IEEE|Intellectual developmental disorder,music perception, EEG, functional brain networks, modularity|
 |[VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989)|IUI '17, ACM|Human-Centered Computing, Machine Learning|
 
-## Scribble: AI, ML, AWS
+## AI, ML, AWS Notes
 | Topics        | Keywords |
 | ------------- | :------------- | 
 | [Adversarial Search](https://github.com/blessinvarkey/musings/blob/main/posts/notes-from-russell-norvig.md)| machine learning |
