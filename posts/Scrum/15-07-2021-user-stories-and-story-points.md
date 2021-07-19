@@ -2,7 +2,7 @@
 
 _“Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them._ - Steve Jobs
 
-
+Writing the user stories and estimation the story point can be quite tedious. In fact, it's also considered among the most difficult–if not the most difficult–aspects of software development [[1](https://www.atlassian.com/agile/project-management/estimation)]. Let's look at some questions I had during my agile exploration.
 
 |Table of Contents |
 |------------|
@@ -83,6 +83,7 @@ The following estimated time per story point is taken from [this video](https://
 Another way to assign story points is by taking the shirt size example. Like the size of a shirt S, M, L, XL, XXL, a story that is assigned 2 story points (XL) should be twice as much as a story that is assigned 1(L) story point. It should also be two-thirds of a story that is estimated 3 (XXL) story points.
 
 ## Reccomended Reading:
-1. [romanpichler - 10 Tips Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+1. [10 Tips Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+2. [Beyond Coding](https://agilecoach.typepad.com/agile-coaching/)
 
 [↑ Back to top](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md)
