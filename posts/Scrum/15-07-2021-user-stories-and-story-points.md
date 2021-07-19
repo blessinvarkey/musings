@@ -40,8 +40,13 @@ For writing a good user story, Roman Pichler suggests 10 tips on his [blog](http
 
 *The definition of done is common to all your work but acceptance criteria are specific to individual pieces of work.
 
-### - Rachel Davies format
-User stories are written in the following format: As a < __user role__ >, I < __want/need/can/etc__ > < __goal__ > so that < __reason__ >. This template originated with agile coach Rachel Davies at an English company, Connextra, in the early 2000s. It has since become a recognized standard for expressing user stories.
+### The Rachel Davies format
+User stories are written in the following format:      
+As a < __user role__ >,   
+I < __want/need/can/etc__ > < __goal__ >    
+so that < __reason__ >.    
+
+This template originated with agile coach Rachel Davies at an English company, Connextra, in the early 2000s. It has since become a recognized standard for expressing user stories.
 
 Examples of user stories. 
 - As a user, I want to reserve a hotel room
