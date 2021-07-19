@@ -33,10 +33,12 @@ For writing a good user story, Roman Pichler suggests 10 tips on his [blog](http
 4. Keep your Stories Simple and Concise: Check the Rachel Davies format.
 5. Start with Epics: a placeholder for more detailed stories
 6. Refine the Stories until They are Ready: Break the Epics till the stories are ready
-7. Add Acceptance Criteria: They allow you to describe the conditions that have to be fulfilled so that the story is done.The definition of done is common to all your work but acceptance criteria are specific to individual pieces of work.
+7. Add Acceptance Criteria: They allow you to describe the conditions that have to be fulfilled so that the story is done.*
 8. Use Paper Cards: First, paper cards are cheap and easy to use. Second, they facilitate collaboration: Every one can take a card and jot down an idea. Third, cards can be easily grouped on the table or wall to check for consistency and completeness and to visualise dependencies.
 9. Keep your Stories Visible and Accessible.    
 10. Don’t Solely Rely on User Stories
+
+*The definition of done is common to all your work but acceptance criteria are specific to individual pieces of work.
 
 ### Rachel Davies format
 User stories are written in the following format: As a < __user role__ >, I < __want/need/can/etc__ > < __goal__ > so that < __reason__ >. This template originated with agile coach Rachel Davies at an English company, Connextra, in the early 2000s. It has since become a recognized standard for expressing user stories.
