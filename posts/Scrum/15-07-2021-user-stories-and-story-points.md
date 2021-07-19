@@ -35,7 +35,7 @@ Examples of user stories.
 - As a non-premium user, I can cancel 24 hours before the trip.  
 - As a frequent flyer, I want to rebook a past trip so that I can save time booking trips I take often
 
-Here's a sample by [productplan.com](https://www.productplan.com)
+Here's a user story card sample by [productplan.com](https://www.productplan.com)
 
 <img src = "https://www.productplan.com/uploads/2019/01/user-story-1024x536.png" width= 600>
 
