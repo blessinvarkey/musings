@@ -1,7 +1,7 @@
 
 
 ## Table of Contents
-[1. Why do we need User Stories]()
+[1. Why do we need User Stories](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#1-why-do-we-need-user-stories)
 [2. Calculating the story points]()
 
 ## 1. Why do we need User Stories
