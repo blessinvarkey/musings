@@ -1,6 +1,10 @@
 
-## Why do we need User Stories
 
+## Table of Contents
+[1. Why do we need User Stories]()
+[2. Calculating the story points]()
+
+## 1. Why do we need User Stories
 _“Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them._ - Steve Jobs
 
 Spend time understanding a customer's habit, belief and problems rather than asking what they want [[1](https://productcoalition.com/dont-ask-users-what-they-want-8a842bce274b)]. To avoid the customer saying _"You built what I asked for, but its not what I need"_.  
@@ -22,7 +26,7 @@ Here's a sample by [productplan.com](https://www.productplan.com)
 
 <img src = "https://www.productplan.com/uploads/2019/01/user-story-1024x536.png" width= 600>
 
-## Calculating the story points
+## 2. Calculating the story points
 
 Story point are estimates of effort as influenced by the amount of work, complexity, risk and uncertainity.
 
