@@ -21,6 +21,7 @@ Here's a list of papers I'm reading/ interested in:
 |[Toward Fairness in AI for People with Disabilities](https://arxiv.org/abs/1907.02227)|Disability, Accessibility; AI fairness, AI bias, ethical AI|
 |[Do Artifacts Have Politics?](https://nissenbaum.tech.cornell.edu/papers/Winner.pdf)||
 |[A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detection of Diabetic Retinopathy](https://dl.acm.org/doi/abs/10.1145/3313831.3376718)||
+|[IEEE Presentation on Authoring a Research Article](https://ccstatic.ccindex.cn/event/33/39/49/7/rt/1/documents/resourceList1629805348095/finalslidedeckieeeauthorshipoasymposium26thaugust20211629805340579.pdf)|
 
 
 ## Blog: All things Scrum
