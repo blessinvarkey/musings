@@ -1,9 +1,51 @@
-## Machine Learning
+# Machine Learning
 
-[Business Case]
+## Business Case
 Hypothesis → Data collection → Data preparation → Choosing ML Model → Model training → Evaluation → Hyper-parameter tuning → Prediction
 
+- Understand the business case
+- Set aside testing and training data (make presentations with test or test+ new data)
+- Don't spend *too much time* on identifying the right algorithm. (Go with what you know)
+
 [Neural Networks with JAVA](https://www.nnwj.de)
+
+## 1. Supervised Learning
+
+### Binary Classification
+- Decision Trees
+- Naive Bayes
+- K Nearest Neighbours
+
+### Multi Class Classification
+- K Nearest Neighbours | Takes more computational power | Brute force matching method
+- Naive Bayes | Predictions are independent/ uncorrelated  
+
+### Regression
+- Not a good Machine Learning method
+- Best used when looking for trends instead of classifying data into different groups
+- Continous
+- Linear regression
+
+## 2. Unsupervised Learning
+- K-means clustering
+
+## 3. Reinforcement Learning
+- Q Learning
+
+## Ensemble Modelling
+
+### Bagging
+- Several different trees (multiple predictions)
+
+### Boosting
+- Different machine learning Algorithms
+- K Means clustering + Decision Trees
+- Semi Supervised Learning
+
+### Stacking
+- Stack several algorithms
+- Feature Weighted Linear Stacking (upto 30 algorithms)
+
 
 ### Bayesian Principles
 - Use prior knowledge
@@ -11,10 +53,10 @@ Hypothesis → Data collection → Data preparation → Choosing ML Model → Mo
 - Avoid making extra assumptions
 
 ## Probability theory
-### Discrete vs Continous 
+### Discrete vs Continous
 Discreate: Probablility Mass Function (PMF)
 Continous: Probability Density Function (PDF)
-Chain Rule: 
+Chain Rule:
 Sum Rule:
 
 ## Frequentists vs Bayesians
@@ -22,7 +64,7 @@ Sum Rule:
 ## Bias
 High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting)
 
-### Underfitting, Overfitting, Balanced 
+### Underfitting, Overfitting, Balanced
 
 ![alt-text](https://docs.aws.amazon.com/machine-learning/latest/dg/images/mlconcepts_image5.png)
 ![alt-text](https://miro.medium.com/max/936/1*xwtSpR_zg7j7zusa4IDHNQ.png)
@@ -33,7 +75,7 @@ High bias can cause an algorithm to miss the relevant relations between features
 
 
 
-## Paradigms of Machine Learning 
+## Paradigms of Machine Learning
 
 ### The 14 Learnings in Machine Learning ([collated by Jason Brownlee](https://machinelearningmastery.com/types-of-learning-in-machine-learning/))  
 
@@ -75,11 +117,11 @@ The sparsity principle
 
 |                 |                      |                          |
 | -----------     | -----------          | --------------           |
-| Symbolists      | Logic, Philosophy    | Inverse deduction        | 
-| Connectionists  | Neuroscience         | Backpropagation          | 
-| Evolutionaries  | Evolutionary biology | Genetic Programming      | 
+| Symbolists      | Logic, Philosophy    | Inverse deduction        |
+| Connectionists  | Neuroscience         | Backpropagation          |
+| Evolutionaries  | Evolutionary biology | Genetic Programming      |
 | Bayesians       | Statistics           | Probabilistic inference  |   
-| Analogizers     | Psychology           | Kernal Machines          | 
+| Analogizers     | Psychology           | Kernal Machines          |
 
 
 ## Machine Learning Methods
@@ -100,12 +142,12 @@ The sparsity principle
 
 
 ## Bootstrap
-Bootstrap simulates obtaining many new datasets by repeated sampling with replacement from the origional dataset. 
+Bootstrap simulates obtaining many new datasets by repeated sampling with replacement from the origional dataset.
 
-## Bagging 
+## Bagging
 
 ## Boosting
-An ensemble learning strategy that trains a series of weak models, each one attempting to correctly predict the observations the previous model got wrong. 
+An ensemble learning strategy that trains a series of weak models, each one attempting to correctly predict the observations the previous model got wrong.
 
 ## Bayesian Methods
 - Works well even with small data.  
@@ -115,8 +157,8 @@ An ensemble learning strategy that trains a series of weak models, each one atte
 # Greedy Algorithm
 'Greedy algorithms take all of the data in a particular problem, and then set a rule for which elements to add to the solution at each step of the algorithm. In the animation above, the set of data is all of the numbers in the graph, and the rule was to select the largest number available at each level of the graph. The solution that the algorithm builds is the sum of all of those choices.' via [Brilliant](https://brilliant.org/wiki/greedy-algorithm/)
 
-# Logistic regression 
-- Used in classification problems 
+# Logistic regression
+- Used in classification problems
 - Predictive modelling algorithm
 - It uses sigmoid function (logistic) to find the relationship between variables
 
@@ -127,5 +169,5 @@ An ensemble learning strategy that trains a series of weak models, each one atte
 
 
 
-## Image sources: 
+## Image sources:
 I1:  [Overfitting, Biased and Balanced via AWS Documentation](https://docs.aws.amazon.com/machine-learning/latest/dg/images/mlconcepts_image5.png)
