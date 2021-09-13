@@ -5,10 +5,11 @@
 1. Version Control (Github)
 2. CI System (Jenkins)
 3. Build (Maven, Gulp, Packer)
-4. Unit Testing (JUnit, Golint, Gofmt, RuboCop)
-5. Integration Testing (Robot, Protractor, Cucumber, Sauce Labs, Kitchen CI, Apache, Gauntlt)
-6. Artifact Repository (Artifactory, Nexus, Docker Hub, Amazon S3)
-7. Deployment (Rundeck, UrbanCode ThoughtWorks, Deployinator)
+4. Testing 
+    - Unit Testing (JUnit, Golint, Gofmt, RuboCop)
+    - Integration Testing (Robot, Protractor, Cucumber, Sauce Labs, Kitchen CI, Apache, Gauntlt)
+5. Artifact Repository (Artifactory, Nexus, Docker Hub, Amazon S3)
+6. Deployment (Rundeck, UrbanCode ThoughtWorks, Deployinator)
 
 ## Continous Integration Practices
 
