@@ -3,12 +3,12 @@
 
 | S. No. | Contents | Tags |
 | ------------- | ------------- |------------- |  
-| 1. | Books |  |
-| 2. | Conferences  |  |
-| 3. | CI ToolChain|  |
-| 4. | CI Practices |  |
-| 5. | Continuous Delivery |  |
-| 6. | Testing/ QA |  | 
+| 1. | [Books](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#books) |  |
+| 2. | [Conferences](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#conferences)  |  |
+| 3. | [CI ToolChain](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#ci-toolchain)|  |
+| 4. | [CI Practices](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#continous-integration-practices) |  |
+| 5. | [Continuous Delivery](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#continuous-delivery) |  |
+| 6. | [Testing/ QA](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#testing--qa) |  | 
 | 7. | Websites |  |
 
 
