@@ -27,8 +27,8 @@
 
 
 ## Conferences
-1. Velocity]()
-2. DevOps Days
+1. [Velocity](https://conferences.oreilly.com/velocity/vl-eu.html)
+2. [DevOps Days](https://devopsdays.org)
 
 ## CI ToolChain
 
