@@ -1,4 +1,4 @@
-# DevOps Essentials:
+# DevOps Essentials
 
 
 ## Table of Contents
