@@ -1,5 +1,7 @@
-# DevOps:
+# DevOps Essentials:
 
+
+## Table of Contents
 
 | S. No. | Contents | Tags |
 | ------------- | ------------- |------------- |  
@@ -8,7 +10,7 @@
 | 3. | [CI ToolChain](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#ci-toolchain)|  |
 | 4. | [CI Practices](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#continous-integration-practices) |  |
 | 5. | [Continuous Delivery](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#continuous-delivery) |  |
-| 6. | [Testing/ QA](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#testing--qa) |  | 
+| 6. | [Testing/ QA](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#testing--qa) |  |
 | 7. | Websites |  |
 
 
