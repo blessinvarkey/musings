@@ -4,7 +4,7 @@ Bob is a student who has been interning at Burger Kitchen for over a year. One n
 
 What should Bob do in this situation?     
 Pay the rest from his pocket?    
-Say no to his last customer of the day?     
+Say no to his last (and supposedly old /important) customer of the day?     
 
 Bob thinks for a moment. He remembers seeing a dead squirrel on the pavement right outside the back door. He takes the dead squirrel to the kitchen, garnishes it, and gives it to the customer. The customer eats it and says it's the best burger he has ever had and walks away happily. 
 
