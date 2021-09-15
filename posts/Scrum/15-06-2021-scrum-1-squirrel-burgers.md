@@ -1,6 +1,6 @@
 ## Delivering Squirrel Burgers 
 
-Bob is a student who has been interning at Burger Kitchen for over a year. One night, his manager has to leave early so they ask Bob to close the kitchen by 11 pm. A customer (who introduces himself an old customer of Burger Kitchen) walks in at 10:45 pm and requests a Double Chicken Burger with extra cheese, onions, and a large order of fries. Bob does the math and says that the meal would cost $ 6.50. The customer takes out $2 and says he is really hungry and needs the Double Chicken Burger with the money he has.
+Bob is a student who has been interning at Burger Kitchen for over a week. One night, his manager has to leave early so they ask Bob to close the kitchen by 11 pm. A customer (who introduces himself an old customer of Burger Kitchen) walks in at 10:45 pm and requests a Double Chicken Burger with extra cheese, onions, and a large order of fries. Bob does the math and says that the meal would cost $ 6.50. The customer takes out $2 and says he is really hungry and needs the Double Chicken Burger with the money he has.
 
 What should Bob do in this situation?     
 Say no to his last (and supposedly old /important) customer of the day?     
