@@ -1,6 +1,6 @@
 ## Delivering Squirrel Burgers | SCRUM 
 
-Bob is a student who has been interning at Burger Kitchen for over a year. One night, his manager has to leave early so they ask Bob to close the kitchen by 11 pm. A customer walks in at 10:45 pm and requests a Double Chicken Burger with extra cheese, onions, and a large order of fries. Bob does the math and says that the meal would cost $ 6.50. The customer takes out $1.7 and says he needs the Double Chicken Burger at any cost.
+Bob is a student who has been interning at Burger Kitchen for over a year. One night, his manager has to leave early so they ask Bob to close the kitchen by 11 pm. A customer walks in at 10:45 pm and requests a Double Chicken Burger with extra cheese, onions, and a large order of fries. Bob does the math and says that the meal would cost $ 6.50. The customer takes out $1.7 and says he is really hungry and needs the Double Chicken Burger at any cost.
 
 What should Bob do in this situation? 
 Pay the rest from his pocket?
