@@ -6,7 +6,7 @@ What should Bob do in this situation?
 Say no to his last (and supposedly old /important) customer of the day?     
 Pay the rest from his pocket?    
 
-Bob thinks for a moment. He remembers seeing a dead squirrel on the pavement right outside the back door. He takes the dead squirrel to the kitchen, garnishes it, and gives it to the customer. The customer eats it and says it's the best burger he has ever had and walks away happily. 
+Bob thinks for a moment and says 'okay'. He remembers seeing a dead squirrel on the pavement right outside the back door. He takes the dead squirrel to the kitchen, garnishes it, and gives it to the customer. The customer eats it and says it's the best burger he has ever had and walks away happily. 
 
 Now, imagine a scenario where Alice, your manager, walks up to you and asks you to give her a rough estimate of when the new software/ feature can be developed or integrated. Or imagine you are a consulting firm bidding for a new project and your client Alice has asked you to give her a rough estimate of product delivery. You do the math and say "10 weeks". However, Alice says "how about in eight weeks?" You think for a moment and say, "okay". Alice makes a public announcement. 
 
