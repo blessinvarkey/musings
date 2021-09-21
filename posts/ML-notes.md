@@ -9,9 +9,36 @@ Hypothesis → Data collection → Data preparation → Choosing ML Model → Mo
 
 [Neural Networks with JAVA](https://www.nnwj.de)
 
+### Myth    
+- Each use case = One best algorithm
+- The goal of the project is one model
+
+
+### Variables
+- Nominal
+- Ordinal
+- Scale
+
+
+## Linear discriminant analysis
+
+Linear discriminant analysis is used to reduce the number of features to be more manageable before classification.
+
+- Stepwise discriminant Analysis
+
 ## 1. Supervised Learning
 
+Targets with more than two categories should be kept rare.
+
 ### Binary Classification
+
+- Logistic Regression
+    - Listwise Deletion
+    - All inputs are either Used or Stepwise
+    - Scale variables (or dummy coding)
+    - Most transparent - lot of detail
+    - Inputs are ranked from most to least important
+
 - Decision Trees
 - Naive Bayes
 - K Nearest Neighbours

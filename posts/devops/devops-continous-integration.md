@@ -13,6 +13,12 @@
 | 6. | [Testing/ QA](https://github.com/blessinvarkey/musings/blob/main/posts/devops/devops-continous-integration.md#testing--qa) |  |
 | 7. | Websites |  |
 
+## DevOps
+- Chaos Monkey
+- Muda, Muri,
+- 
+
+
 
 ## Books
 1. DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis
@@ -58,6 +64,7 @@ __Code -> Build -> Unit Tests -> Code Validation -> Packaging -> Artifact__
 
 ## Continuous Delivery
 
+CD: Provide early and rapid feedback
 __Code -> VCS-> CI System creates build -> Artifact added to central repo (Staging -> Testing ) -> Production__
 
 1. Only build artifacts once.
