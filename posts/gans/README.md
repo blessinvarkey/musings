@@ -4,7 +4,7 @@
 - What are Generative Models
 - Generative vs Discriminative models
 - Types of Generative Models
-- Machine Learning Essentials 
+- Essentials of Deep Learning
 - Generator
 - Discriminator 
 
@@ -62,10 +62,11 @@ Variational Autoencoders are composed of two models that compete with each other
 Geneartive Adversarial Networks are composed of two models that compete with each other in order to reach a point where realistic examples are produced by the generator.
 
 
-## Machine Learning Essentials 
+- Essentials of Deep Learning
 
 Before we continue, here are some quick refreshers on Machine Learning needed to implement a Generative Adversarial Network: 
 
+- [Tensorflow](https://github.com/blessinvarkey/musings/blob/main/posts/generativeadversarialmodels/dl.md)
 - Neural Networks 
 - Weights 
 - Cost Functions
