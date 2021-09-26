@@ -1,8 +1,8 @@
 # Deep Learning Essentials 
 
-x = 1, 2, 3, 4
-y = 1, 3, 5, 7 
-Sol: y = 2x-1
+x = 1, 2, 3, 4  
+y = 1, 3, 5, 7    
+Sol: y = 2x-1   
 
 ## Python API: Keras
 - Keras makes it easy to define neural networks. 
