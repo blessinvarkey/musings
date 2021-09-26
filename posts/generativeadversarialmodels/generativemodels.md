@@ -1,6 +1,6 @@
-# Generative Models 
+# Generative Adversarial Networks 
 
-Table of contents
+## Table of contents
 - What are Generative Models
 - Generative vs Discriminative models
 - Types of Generative Models
@@ -47,7 +47,7 @@ https://github.com/hindupuravinash/the-gan-zoo
 |P(XY)|P(YX)|
 |[Noise: 3.5, -5, 1.2 ]E, [ 'dog' ]Y->X [features: wet nose, pointy ears]|[features: wet nose, purrs] X-> Y [ 'dog'/''cat']|
 |Learns to create a realistic image using noise input |Distinguishes between fake and real images to identify which one is real/fake|
-|Creates fakes that look real, improves based on scores assigned by discriminator |Learns to distinguish real from fakes|
+|Creates fakes that look real, improves based on scores assigned by discriminator |Looks at real and fake images, makes guesses and gets feedback on whether its guess was right or wrong. |
 
 
 ## Types of Generative Models
@@ -69,6 +69,7 @@ Before we continue, here are some quick refreshers on Machine Learning needed to
 - Neural Networks 
 - Weights 
 - Cost Functions
+- PyTorch 
 
 ## Discriminator
 A classifier distinguishes between classes. (i.e. cat/ not cat)
