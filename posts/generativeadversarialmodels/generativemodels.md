@@ -35,7 +35,7 @@ https://github.com/hindupuravinash/the-gan-zoo
 
 |Generative Models | Discriminative Models|
 |---|---|
-|P(X|Y)|P(Y|X)|
+|P(XY)|P(YX)|
 |[Noise: 3.5, -5, 1.2 ]E, [ 'dog' ]Y->X [features: wet nose, pointy ears]|[features: wet nose, purrs] X-> Y [ 'dog'/''cat']|
 |Learns to create a realistic image using noise input |Distinguishes between fake and real images to identify which one is real/fake|
 |Creates fakes that look real, improves based on scores assigned by discriminator |Learns to distinguish real from fakes|
