@@ -9,3 +9,4 @@
 |SQL Databases are vertically scalable|NoSQL databases are horizontally scalable|
 |For huge finance data, user data|documents, json assets|
 |MySQL, Oracle, PostgresSQL (hybrid), MicrosoftSQL Server (Azure)| MongoDB (collections and documents), BigTable, Redis, RavenDB Cassandra, HBase, Neo4j and CouchDB|
+
