@@ -20,8 +20,8 @@ Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep up
 | [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 | 
 
 
-## Papers: Selected readings
-Here's a list of papers I'm reading/ interested in:
+## Selected readings
+Here's a list of articles I'm reading/ interested in:
 | Title        | Keywords |
 | ------------- | :------------- | 
 | [Perceptrons: An Introduction to Computational Geometry](https://mitpress.mit.edu/books/perceptrons)||
