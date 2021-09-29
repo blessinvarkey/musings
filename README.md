@@ -31,8 +31,27 @@ Here's a list of papers I'm reading/ interested in:
 |[Do Artifacts Have Politics?](https://nissenbaum.tech.cornell.edu/papers/Winner.pdf)||
 |[A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detection of Diabetic Retinopathy](https://dl.acm.org/doi/abs/10.1145/3313831.3376718)||
 |[IEEE Presentation on Authoring a Research Article](https://ccstatic.ccindex.cn/event/33/39/49/7/rt/1/documents/resourceList1629805348095/finalslidedeckieeeauthorshipoasymposium26thaugust20211629805340579.pdf)|
-
-
+| BERT: Bidirectional Encoder Representation from Transformers ||
+| DALL-E | |
+| [Peanut Butter & Jelly Sandwich](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)| |
+| GANs: Generative Adversarial Networks ||
+| [GNN: Graph Neural Network](https://dataflowr.github.io/website/modules/graph1/) | |
+| [GPT-3 : Generative Pre-trained Transformer 3](posts/GPT-3.md) | unsupervised learning, language prediction model |
+| [GLOM: How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)||
+| ImageNet Large Scale Visual Recognition Challenge ||
+| [Improvisation and Design](https://www.researchgate.net/publication/221516785_Improvisation_principles_and_techniques_for_design) ||
+| [Machine Learning & Autism Spectrum Disorder Research](https://github.com/blessinvarkey/musings/blob/main/posts/ml-asd-dl.md)|machine learning, deep learning|
+| NERF: Neural Radiance Fields | |
+| Paradigms of Machine Learning |  |
+| PLM: Pre-trained Languge Model | | 
+| ResNet: Residual Neural Network | | 
+| Single Shot Multibox Detector | |
+| T5: Text-to-Text Transfer Transformer ||
+| TIMIT speech recognition ||
+| The Emergence of Probability ||
+| [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training) |Facebook AI Research|
+| [Syntax vs Semantics](https://github.com/blessinvarkey/musings/blob/main/posts/Syntax-vs-Semantics.md)| machine learning |
+| [Wudao](https://en.pingwest.com/a/8693)||
 
 
 [↑ Back to top](https://github.com/blessinvarkey/musings#musings)
