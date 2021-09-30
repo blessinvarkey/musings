@@ -7,6 +7,7 @@ Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep up
 | ------------- | ------------- |------------- |  
 | 1. | [All things Scrum](https://github.com/blessinvarkey/musings#blog-all-things-scrum)| blog|
 | 2. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) | papers | 
+| 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers) | papers | 
 
 ## Blog: All things Scrum
 | Title        | Date |
