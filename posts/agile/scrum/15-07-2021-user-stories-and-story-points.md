@@ -1,4 +1,4 @@
-# Writing User Stories And Estimating Story Points
+# Role-Feature-Reason: Writing User Stories And Estimating Story Points
 
 _“Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them._ - Steve Jobs
 
@@ -43,12 +43,12 @@ For writing a good user story, Roman Pichler suggests 10 tips on his [blog](http
 *The definition of done is common to all your work but acceptance criteria are specific to individual pieces of work.
 
 ### The Rachel Davies format
-User stories are written in the following format:      
+User stories are written in the following (Role-Feature-Reason) format:      
 As a < __user role__ >,   
 I < __want/need/can/etc__ > < __goal__ >    
 so that < __reason__ >.    
 
-This template originated with agile coach Rachel Davies at an English company, Connextra, in the early 2000s. It has since become a recognized standard for expressing user stories.
+This template originated with agile coach Rachel Davies at an English company, Connextra, in the early 2000s. It has since become a recognized standard for expressing user stories. This feature is also known as Role-Feature-Reason technique, because its short sentence structure keeps the focus on the who (As a user..), what (I want/can..) and why(so that..).
 
 Examples of user stories. 
 - As a user, I want to reserve a hotel room
