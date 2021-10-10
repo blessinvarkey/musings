@@ -12,7 +12,37 @@ AWS cloud is a set of resources that lets you quickly tear down and set up an in
 - Increase speed and agility
 - Stop spending money on running and maintaining data centers
 
-____ has an interesting way to remember this. She uses ____ as an acronym to memorize. Do check out her linkedin learning course. 
+Hiroko Nishimura has an interesting way to remember this. She uses  as an acronym to memorize. Do check out her linkedin learning course. 
+
+## AWS CCP: Certified Cloud Professional 
+The AWS CCP covers four domains:
+- Cloud Concepts:  
+    - The cloud concepts cover 28% of the examination
+    - Defining the AWS Cloud and value proposition
+    - Identifing aspects of AWS Cloud economics 
+    - Descibing different cloud architecture design principles
+- Security & Compliance
+    - Covers 25% of the examination
+    - Identifying AWS shared responsibility model
+    - Define AWS Cloud security and compliance concepts
+    - Identifying AWS access management capabilities 
+    - Identifying resources for security support
+- Technology 
+    - Covers 33% of the exam
+    - Define method of deploying and operating IT applications in the AWS cloud 
+    - Define AWS global infrastructure
+    - Identify the core AWS services
+    - Identify ways to contact or recieve technical support    
+- Billing and Pricing
+    - 16% of the exam
+    - Recognise various account structures in AWS billing and pricing 
+    - Identify resources available for billing support 
+
+## Cloud Computing Models
+|IaaS|PaaS|SaaS| 
+|--|--|--|
+| AWS, Azure, Google Cloud | Azure web hosting, Google App Engine, Heroku |Gmail, Outlook|
+||||
 
 ## Breakdown of major services
 Firewalls, ACLs, Administrators <-- Security --> Security groups, Network ACLs, AWS IAM
@@ -30,6 +60,7 @@ One or more data centers are also called Availability Zones, and in one region, 
     - _AWS Wavelength_: For 5G technology. 
 
 ## S3
+- 
 
 ## The three ways to get started
 - AWS Management Console
@@ -94,6 +125,8 @@ An EC2 instance is like a remote computer running Windows or Linux and on which 
 
 ### Amazon S3
 Amazon S3 is a storage service, typically used to store large binary files. Amazon also has other storage and database services, like RDS for relational databases and DynamoDB for NoSQL.
+
+
 
 --------
 ### Amazon Rekognition
