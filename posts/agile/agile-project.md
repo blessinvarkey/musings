@@ -1,4 +1,4 @@
-# An Agile Project journey
+# An Agile Research Project journey
 
 I have started this blog to record my journey of a six month long agile project. 
 
@@ -18,6 +18,8 @@ I have started this blog to record my journey of a six month long agile project.
 
 ## Week 3: Outcomes and Deliverables
 
+## AudioNote for recording interviews
+https://luminantsoftware.com/apps/audionote-notepad-and-voice-recorder/
 
 
 
