@@ -9,7 +9,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 | 2. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) | papers | 
 | 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers) | papers | 
 
-## Blog: All things Scrum
+## Blog
 | Title        | Date |
 | ------------- | :------------- | 
 |[Mind Maps](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/20-10-2021-mind-maps.md)|20th October 2021|
