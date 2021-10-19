@@ -20,7 +20,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 | [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 
 | [Complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-06-2021-complexity-of-product-development.md) | 15th June 2021 | 
 | [Delivering Squirrel Burgers](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-06-2021-scrum-1-squirrel-burgers.md) | 15th June 2021 |
-
+|[GPT-3](https://github.com/blessinvarkey/musings/blob/main/posts/gpt/GPT-3.md)|3rd March 2021|
 
 
 ## Selected readings
