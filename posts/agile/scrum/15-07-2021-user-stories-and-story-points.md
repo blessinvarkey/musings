@@ -24,7 +24,7 @@ Listed below are some product backlog shoulds and should nots[2](https://romanpi
 | Be Appropriately refined | Be too big|
 | Be effectively prioritized | Be too detailed|
 | Be shared |Be a wishlist|
-||Should not lack strategic alignment|
+||Lack strategic alignment|
 
 ### Q2. What are User Stories?
 
