@@ -1,6 +1,6 @@
 # Musings 
 
-Hi. Thank you for visiting my blog. Most of these pages are alive i.e. I keep updating them when I find any new information. 
+Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) linked are alive i.e. I keep updating them when I find any new information. 
 
 
 | S. No. | Contents | Tags |
