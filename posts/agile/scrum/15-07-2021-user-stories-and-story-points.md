@@ -17,7 +17,7 @@ PS: You can also jump to a specific question by selecting from the Table of Cont
 ### Q1. What is a Product Backlog
 
 The product backlog is a simple yet powerful tool to capture and revise detailed product decisions and direct the work of the development team. 
-Listed below are some product backlog shoulds and should nots[2](https://romanpichler.medium.com/seven-product-backlog-mistakes-to-avoid-44a667707021):
+Listed below are some product backlog shoulds and should nots[[2](https://romanpichler.medium.com/seven-product-backlog-mistakes-to-avoid-44a667707021)]:
 
 |Should|Should Not|
 |--|--|
