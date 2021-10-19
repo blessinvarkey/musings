@@ -8,13 +8,25 @@ PS: You can also jump to a specific question by selecting from the Table of Cont
 
 |Table of Contents |
 |------------|
-|[Q1. What are User Stories?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q1-what-are-user-stories)    |
-|[Q2. How do we write a user story?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q2-how-do-we-write-a-user-story)|
-|[Q3. How many user stories should be selected per sprint?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q3-how-many-user-stories-should-be-selected-per-sprint)|
-|[Q4. How do we calculate the story points?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q4-how-do-we-calculate-the-story-points)|
+|[Q1. What is a Product Backlog](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q1-what-is-a-product-backlog)    |
+|[Q2. What are User Stories?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q1-what-are-user-stories)    |
+|[Q3. How do we write a user story?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q2-how-do-we-write-a-user-story)|
+|[Q4. How many user stories should be selected per sprint?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q3-how-many-user-stories-should-be-selected-per-sprint)|
+|[Q5. How do we calculate the story points?](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md#q4-how-do-we-calculate-the-story-points)|
+ 
+### Q1. What is a Product Backlog
 
+The product backlog is a simple yet powerful tool to capture and revise detailed product decisions and direct the work of the development team. 
+Listed below are some product backlog shoulds and should nots:
 
-### Q1. What are User Stories?
+|Should|Should Not|
+|--|--|
+|Be Appropriately refined |Be too big|
+|Be effectively prioritized |Be too detailed|
+|Be shared |Be a wishlist|
+||Should not lack strategic alignment|
+
+### Q2. What are User Stories?
 
 A user story describes functionality that will be valuable to either a user or purchaser of a system or software. User stories are composed of three aspects:   
 - a written description of the story used for planning and as a reminder.  
@@ -26,7 +38,7 @@ Spend time understanding a customer's habit, belief and problems rather than ask
 Stories are easier to remember. 
 User stories are an example of a participatory design. [[3](https://www.youtube.com/watch?v=6q5-cVeNjCE)] 
 
-### Q2. How do we write a user story?
+### Q3. How do we write a user story?
 
 For writing a good user story, Roman Pichler suggests 10 tips on his [blog](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/):
 1. Put Users First: a user story describes how a customer or user employs the product; it is told from the user’s perspective
@@ -63,14 +75,13 @@ Here's a user story card sample by [productplan.com](https://www.productplan.com
 
 <img src = "https://www.productplan.com/uploads/2019/01/user-story-1024x536.png" width= 600>
 
-### Q3. How many user stories should be selected per sprint?
+### Q4. How many user stories should be selected per sprint?
 
 - 5 to 15 user stories for a 2-4 week sprint can be seen as a general trend, provided no user story takes more than 3 days. [[4](https://www.leadingagile.com/2015/05/how-many-user-stories-per-sprint-rules-of-thumb/)] 
 - From Mike Cohn's blog: _"One possible solution to this common problem is that these teams are doing too many product backlog items per sprint. Based on data I analyzed on successfully finished sprints, I determined that a team should average around 1 to 1-1/2 user stories (product backlog items of any sort, really) per person per sprint. So, a six-person team should get somewhere around 6-9 user stories done per sprint."_ [[5](https://www.mountaingoatsoftware.com/blog/should-the-daily-standup-be-person-by-person-or-story-by-story)]
 
 
-
-### Q4. How do we calculate the story points?
+### Q5. How do we calculate the story points?
 
 Story points are the estimates of effort as influenced by the amount of work, complexity, risk and uncertainity. Estimating the story point in a new project while implementing a scrum/agile methodology can be challenging. Story points are intended to make estimating easier by comparing the effort it will take for one user story, relative to the other user stories in the product backlog. 
 
