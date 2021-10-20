@@ -3,11 +3,11 @@
 Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) linked are alive i.e. I keep updating them when I find any new information. 
 
 
-| S. No. | Contents | Tags |
-| ------------- | ------------- |------------- |  
-| 1. | [Blog](https://github.com/blessinvarkey/musings#blog)| blog|
-| 2. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) | papers | 
-| 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers) | papers | 
+| S. No. | Contents | 
+| ------------- | ------------- |
+| 1. | [Blog](https://github.com/blessinvarkey/musings#blog)|
+| 2. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) |  
+| 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers) | 
 
 ## Blog
 | Title        | Date |
