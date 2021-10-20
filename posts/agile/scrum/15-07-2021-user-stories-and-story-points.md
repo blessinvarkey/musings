@@ -104,4 +104,4 @@ Another way to assign story points is by taking the shirt size example. Like the
 1. [10 Tips Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 2. [Beyond Coding](https://agilecoach.typepad.com/agile-coaching/)
 
-[↑ Back to top](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/15-07-2021-user-stories-and-story-points.md)
+[↑ Back to top](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-07-2021-user-stories-and-story-points.md#role-feature-reason-writing-user-stories-and-estimating-story-points)
