@@ -75,6 +75,8 @@ Here's a user story card sample by [productplan.com](https://www.productplan.com
 
 <img src = "https://www.productplan.com/uploads/2019/01/user-story-1024x536.png" width= 600>
 
+<img src = "http://1qtspv2a8qad3nf2xr3pzat3-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/HW-Story-Splitting-Flowchart-Thumbnail.png"  width= 600>
+
 ### Q4. How many user stories should be selected per sprint?
 
 - 5 to 15 user stories for a 2-4 week sprint can be seen as a general trend, provided no user story takes more than 3 days. [[5](https://www.leadingagile.com/2015/05/how-many-user-stories-per-sprint-rules-of-thumb/)] 
