@@ -1,9 +1,9 @@
+# The PSPO Certification
+
+I took the PSM in the last quater and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset and SM mindset for PSPO and PSM, respectively. 
+
 # The Product Owner
 
-
-
-
-The product owner interacts with the 
 
 ## Scrum Master/Team Lead/Project Manger
 ● Guide team on product vision.  
