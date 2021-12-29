@@ -60,7 +60,7 @@ One or more data centers are also called Availability Zones, and in one region, 
     - _AWS Wavelength_: For 5G technology. 
 
 ## S3
-- 
+
 
 ## The three ways to get started
 - AWS Management Console
