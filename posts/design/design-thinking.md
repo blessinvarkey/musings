@@ -1,17 +1,44 @@
-# Scrum with User Experience 
+# Design Thinking 
 
-### Key Frameworks in UX Design
+_"Design Thinking is a human centered and collaborative approach with a designed mindset to solve complex problems_ - Tim Brown"
 
-### 1. [User Centered Design  ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/user-centered-design.md#1-user-centered-design-)  
-### 2. [Five Elements Framework ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/five-elements-framework.md#2-five-elements-framework-)
+Over the last few months, I've got the opportunity to design and collaborate on a few Design Thinking projects. While collaborating with a DT team may feel quite natural (especially if you are coming from an agile background), designing a DT workshop or phase may require more flexibility in using the Design Thinking tools. 
 
-# 3. Design Thinking ↓
-Design Thinking is centered around creating solutions that address real user problems in a way that is both functional and affordable. 
-The five steps in Design thinking are Empathize, Design, Ideate, Prototype and Test.
+So, lets first look at what Design Thinking process offers: 
 
-### 4. [Lean UX ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/lean-ux.md#4-lean-ux-)
-### 5. [Double Diamond ↓](https://github.com/blessinvarkey/musings/blob/main/posts/design/double-diamond.md#5-double-diamond-)
-### 6. [Scrum with Lean UX ↓](https://github.com/blessinvarkey/musings/blob/main/posts/Scrum/12-04-2021-user-experience-scrum.md#6-scrum-with-lean-ux-)
+![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Double_diamond.png)
+
+The core of Design Thinking is made of
+- The Problem Space
+- The Solution Space
+
+## The Problem Space: Framing the right question
+The problem space contains three which aim at understanding the user's/stakeholder's pain points and to frame the right question. 
+
+_Empathy_: The Empathy phase is a Divergent phase. Opening up and listening to opportunities.  
+_Define phase_: Covergent phase to make a point of view, and by synthesising insights to make the right questions.  
+
+
+## The Solution Space: Creating the right solution
+_Ideate Phase_: The ideate phase is a Divergent Phase. Brainstorming, idea generation
+This can be done using personas, journey maps to understand 
+
+### Value Proposition
+_Prototyping_: Using prototyping techniques via iteration
+
+_Testing phase_: Testing the solution with the user
+
+
+Engage with empathy 
+Craft insights
+Co-create
+Demonstrate your ideas
+Integrate feedback
+Trust the process
+Stay positive
+
+
+
 ---
 ## Recommended Reading:
 1. [Adobe Ideas](https://xd.adobe.com/ideas/)
