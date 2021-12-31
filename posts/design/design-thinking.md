@@ -77,8 +77,65 @@ Which of our customers are most profitable, and are we doing anything to pursue 
 
 
 ![](https://images.squarespace-cdn.com/content/v1/568a65ddd82d5eb4328515d6/1493966303118-P120HXQ9ZF7GCZJ01CJL/image-asset.png?format=1500w)
+
+
+
+## Who is at the centre?
+Its important to first identify our key stakeholders or the category of the stakeholders who fall within the design challenge (Why its also called Human Centered Design/ Stakeholder Centered Design/ User-Centered Design/ Employee-Centered Design).
+
+SAP's Project Scope Stakeholder Canvas addresses four areas:   
+1.  The Core Stakeholders   
+2.  The Key Challenges (pain points we are trying to address)
+3.  What does success look like? How will we know if we succeeded?
+4.  Where we are right now? 
+5. What would be a relief for the stakeholders?  
+
+## Scope of the project 
+- What are the key business challenges that you will focus on? 
+- What are the barriers and constraints? 
+- Where are your future opportunities?
+What are your key success metrics? 
+
+
+## How Might We
+
+An article by the Nielsen Norman Group [[2](https://www.nngroup.com/articles/how-might-we-questions/)] states 
+
+``` At the end of a discovery, the team should come together, agree on the top things it found out, and use this knowledge to frame design challenges. To prevent individuals from suggesting their pet solutions, which might have little resemblance to the problems found, construct How might we questions that frame the problem(s) for ideation.```
+
+How Might We's start with 'How Might We' along with an action verb, without including a solution.  
+
+### #1 Start with the Problems (or Insights) You’ve Uncovered
+
+|||
+|---|---|
+|||
+|Problem	| Users aren't aware of the full product offerings. |
+|HMW	| How might we increase awareness of the full product offerings? |
+
+### #2 Avoid Suggesting a Solution in Your HMW Question
+
+|||
+|--|--|
+|||
+|Insight|	Users are often unsure about which form to complete when they file their taxes.|
+|HMW (poor)	| How might we tell users which form to complete to file their taxes?|
+|HMW (good)	| How might we make users feel confident they are filing their taxes correctly?|
+
+### #3 Keep Your HMWs Broad
+
+|||
+|--|--|
+|||
+|Insight|	Users often spend a long time checking their submission for mistakes.|
+|HMW (good)	|How might we make it quick and easy for users to check their work for mistakes?|
+|HMW (better) |How might we support users to efficiently draft submissions that they’re happy with?|
+
+
+
 ---
 ## Recommended Reading:
+
 1. [Adobe Ideas](https://xd.adobe.com/ideas/)
 2. [Is UX still viable? The unintended consequences of user-centered design](https://uxdesign.cc)
 3. [Nielsen Norman Group](https://www.nngroup.com/articles/)
