@@ -6,6 +6,7 @@ I took the PSM 1 certification in the last quarter and realised that either thes
 Scrum is a lightweight adaptive framework for managing complex development projects. It consists of __roles__, __artifacts__, __events__ with a simple set of rules to govern the interaction between them.
 
 
+
 ## The Product Owner
 
 
@@ -78,3 +79,36 @@ A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Produc
 
 
 https://www.amazon.com/Scrum-Insights-Practitioners-Guide-Companion-ebook/dp/B01MYSIYPT/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+
+-----
+## 1. Short Feedback loops
+Thing big, fail fast, work small, work quickly
+
+### 2. Just-In-Time Requirements & Design
+No comprehensive blueprints. 
+
+### 3. Delivering Incremental Value
+Deliver something of value to the customer at the end of every increment. 
+
+### 4. Release Ready Deliverables
+- Code complete 
+- Integrated 
+- Tested
+- Documented
+- Deployable
+
+### 5. Sustainable Pace
+Maintain a constant velocity
+
+### 6. Lean Management Hierarchy
+Smaller number of people in key roles. 
+
+### 7. Trust, Courage & Transparency 
+Trusting your team, giving them the ability to make those decisions and empowering them to be transparent.
+
+### 8. Continous Delivery
+Continous Integration and Delivery. Short feedback loops. 
+
+### 9. Embracing Change
+Embracing something that changes as an opportunity. 
+
