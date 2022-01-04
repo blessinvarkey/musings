@@ -2,26 +2,98 @@
 
 I took the PSM 1 certification in the last quarter and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset or SM mindset for PSPO and PSM, respectively. 
 
+Note:    
+*Outside of Scrum Guide   
+**Acc. to an earlier version of the Scrum Guide
+
+
+## Roles in Scrum
+The business fable of The Chicken and the Pig is about commitment to a project or cause. When producing a dish made of eggs with ham or bacon, the pig provides the ham or bacon which requires his or her sacrifice and the chicken provides the eggs which are not difficult to produce. Thus the pig is really committed to that dish ("has skin in the game") while the chicken is only involved, yet both are needed to produce the dish.
+
+Managers, Stakeholders, customers are not actually involved in the actual making of the process (i.e. they don't write code, they don't create deliverables). 
+
 ## What is Scrum?
 Scrum is a lightweight adaptive framework for managing complex development projects. It consists of __roles__, __artifacts__, __events__ with a simple set of rules to govern the interaction between them.
 
-
-
 ## The Product Owner
+- Maximizes the Product Value
+- Manages the Product Backlog
+- Representation for the users
+- Single Person
 
+### Scrum Master/ Team Leads
+- Shepard of Scrum 
+- Servant Leader
+- Removes Impediments
+- Resolves Conflicts
 
-### Scrum Master/Team Lead/Project Manger
-● Guide team on product vision.  
-● Refine the backlog.  
-● Motivate team.  
+### Development team
+- Cross Functional (UX/Dev/BAs/etc)
+- Self organizing teams
+- Attend Daily Scrum.   
+- Highly collaborative/ Collaborate on product features.  
+- 5 to 9 members
+- Discuss scenarios.  
+- Other feedback.  
 
-### Developers & technical resources
-● Interact in standup meeting.   
-● Collaborate on product features.  
-● Discuss scenarios.  
-● Other feedback.  
+## Artifacts 
 
-Testing teams/ Leaders/ Business analysts/ SMEs/ other POs
+### Product Vision 
+- Target Market
+- Business Need/Opportunity 
+- Key Features
+- Value to the Company
+
+### Product Backlog
+- Single source of all requirements
+- Constantly evolving
+- Ordered based on Value
+- Estimated by the Development team
+
+### Release Plan
+- Forecast Based on Empirical Data
+- Overlay on the Product Backlog
+- Updated Every Sprint
+
+### Sprint Backlog
+- Product backlog items for a sprint
+- Plan to Deliver a Product Increment 
+- Owned by the Developement Team 
+- Dynamic and Highly Visible
+
+### Burndown Chart 
+- Tracks Work Remaining by Day
+- Updated by the Development Team
+- Displayed Prominently
+
+### Impediments List
+- Anything blocking or affecting performance
+- Updated by the Scrum Team
+- Monitored by the Scrum Master
+
+## Events 
+- Determine __What__ will be Delivered
+- Past Performance/ Capacity
+- Determine __How__ it will be delivered
+- Create Sprint Backlog
+
+### Sprint 
+- Timeboxed for one Month or Less
+- Clearly stated sprint goal
+- Potentially releasable increment
+- Scope is set by the Scrum Team
+
+### Daily Scrum 
+- Timeboxed to 15 minutes 
+- Inspect our work done yesterday**
+- Plan for today**
+- Any possible impediments** 
+
+### Product Backlog Grooming*
+- Clarifying and Estimating New Items
+- Reviewing Higher Priority Items
+- Less Details on Lower Priority Items
+- Around 10% of the Sprint 
 
 
 ## PO & Product Backlog, according to the scrum guide
