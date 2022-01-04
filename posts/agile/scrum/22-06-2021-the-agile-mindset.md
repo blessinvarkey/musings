@@ -1,13 +1,36 @@
 # The Agile Mindset
 
+## Waterfall? 
+One of the problem with waterfall, is the gap between the siloed activities. 
+![](https://static.javatpoint.com/tutorial/jira/images/jira-waterfall-model.png)
+
+### Big Design Up Front (BDUF)
+Requirements/Analysis + Design make the BDUF or the Big Design Up Front.
+
+### Setting Milestones
+![](https://www.slidegeeks.com/pics/dgm/l/s/Setting_Project_Milestones_Ppt_PowerPoint_Presentation_Slides_Slide_1-.jpg)
+
+
+
+## What is Agile? 
 - Experiment with new techniques and processes
 - Share knowledge new collaboration
 - Emergent Leadership 
 - Practice Servant Leadership
 
+## Agile
 
-## Agile Manifesto
+- Scrum 
+- Extreme Programming
+- Crystal Clear
+- Lean 
+- Kanban
+- Agile Unified Process
+- Dynamic Systems Development Method
+- Feature Driven Development
+- Agile Modeling
 
+## Agile Manifesto: Values
 - __Individuals and interactions__ over processes and tools
     - People complete projects, negotiate, do knowledge work 
     - Processes create repeatable results 
@@ -21,7 +44,7 @@
     - Projects are change driven
     - Uncertainity upfront
 
-## Principles behind the Agile Manifesto
+## Agile Manifesto: Principles 
 - Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 - Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.

@@ -1,6 +1,10 @@
 # The PSPO Certification
 
-I took the PSM in the last quater and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset and SM mindset for PSPO and PSM, respectively. 
+I took the PSM 1 certification in the last quarter and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset or SM mindset for PSPO and PSM, respectively. 
+
+## What is Scrum?
+Scrum is a lightweight adaptive framework for managing complex development projects. It consists of __roles__, __artifacts__, __events__ with a simple set of rules to govern the interaction between them.
+
 
 ## The Product Owner
 
