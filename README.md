@@ -12,7 +12,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 ## Blog
 | Title        | Date |
 | ------------- | :------------- | 
-|[SLDC Documentation](https://github.com/blessinvarkey/musings/blob/wip-1/posts/agile/scrum/04-01-2022-sldc.md)|January 2022|
+|[SLDC Documentation](https://github.com/blessinvarkey/musings/blob/wip-1/posts/agile/scrum/04-01-2022-sldc.md)|7th January 2022|
 |[The PO & the PSPO I Certifciation](https://github.com/blessinvarkey/musings/blob/wip-1/posts/agile/scrum/07-12-2021-the-product-owner.md)|7th December 2021|
 |[Mind Maps](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/20-10-2021-mind-maps.md)|20th October 2021|
 |[Writing User stories and Estimating Story points](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-07-2021-user-stories-and-story-points.md)|15th July 2021|
