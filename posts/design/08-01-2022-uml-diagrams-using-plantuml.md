@@ -28,3 +28,35 @@ Requester <- DataRequestTrackerApp : Email Notification with Approver comments
 Requester -> DataRequestTrackerApp :   Checks the Request details
 @enduml
 ```
+
+## Use Case Diagram
+```
+@startuml
+left to right direction
+actor Guest as g
+actor "<<service>> authentication" as auth
+actor "Identity Provider" as idp
+actor "Credit Payment Service" as cps
+actor "PayPal" as pp
+
+package Online_Shopping_System {
+  usecase "View Items" as UC1
+  usecase "Make Purchase" as UC2
+  usecase "Complete Checkout" as UC3
+  usecase "Login" as UC4
+}
+
+UC2 -> UC1 : include
+UC2 -> UC3 : include
+g --> UC1
+g --> UC2
+g --> UC4
+UC4 --> auth
+UC1 --> auth
+UC3 --> auth
+UC1 --> idp
+UC3 --> idp
+UC3 --> cps
+UC4 --> pp
+@enduml
+```
