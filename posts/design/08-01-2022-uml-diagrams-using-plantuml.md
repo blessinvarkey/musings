@@ -15,7 +15,7 @@ For more details on installation, click [here](https://plantuml.com/graphviz-dot
 
 ## Sequence Diagram
 
-![](sequence-uml.png)
+![](sequence.png)
 ```
 @startuml
 Requester -> DataRequestTrackerApp : Bob raises a Request
