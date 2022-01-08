@@ -1,6 +1,6 @@
 # The PO and the PSPO 1 Certification
 
-I took the PSM 1 certification in the last quarter and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset or SM mindset for PSPO and PSM, respectively. 
+I took the PSM 1 certification in the last quarter and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset or SM mindset for PSPO and PSM, respectively.
 
 The business fable of The Chicken and the Pig is about commitment to a project or cause. When producing a dish made of eggs with ham or bacon, the pig provides the ham or bacon which requires his or her sacrifice and the chicken provides the eggs which are not difficult to produce. Thus the pig is really committed to that dish ("has skin in the game") while the chicken is only involved, yet both are needed to produce the dish.
 
