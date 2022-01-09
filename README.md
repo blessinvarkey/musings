@@ -12,6 +12,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 ## Blog
 | Title        | Date |
 | ------------- | :------------- | 
+|[PlantUML for UML Diagrams](https://github.com/blessinvarkey/musings/blob/wip-1/posts/design/08-01-2022-uml-diagrams-using-plantuml.md)|8th January 2022|
 |[SLDC Documentation](https://github.com/blessinvarkey/musings/blob/wip-1/posts/agile/scrum/04-01-2022-sldc.md)|7th January 2022|
 |[The PO & the PSPO I Certifciation](https://github.com/blessinvarkey/musings/blob/wip-1/posts/agile/scrum/07-12-2021-the-product-owner.md)|7th December 2021|
 |[Mind Maps](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/20-10-2021-mind-maps.md)|20th October 2021|
