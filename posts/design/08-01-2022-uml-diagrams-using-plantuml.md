@@ -1,5 +1,3 @@
-
-
 # PlantUML for UML designs
 
 
@@ -13,7 +11,9 @@ brew link --overwrite graphviz
 ```
 For more details on installation, click [here](https://plantuml.com/graphviz-dot)
 
-## Sequence Diagram
+## Sequence Diagram 
+
+Modelling the 'how' of the system.
 
 ![](sequence.png)
 ```
@@ -28,6 +28,7 @@ Requester <- DataRequestTrackerApp : Email Notification with Approver comments
 Requester -> DataRequestTrackerApp :   Checks the Request details
 @enduml
 ```
+
 
 ## Use Case Diagram
 
@@ -62,3 +63,5 @@ UC3 --> cps
 UC4 --> pp
 @enduml
 ```
+## Class Diagram 
+Modelling the 'what' of the system.
