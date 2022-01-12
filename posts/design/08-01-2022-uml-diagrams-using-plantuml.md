@@ -33,6 +33,15 @@ Requester -> DataRequestTrackerApp :   Checks the Request details
 ## Use Case Diagram
 
 ![](usecase.png)
+
+|||
+|--|--|
+|Use Case | verb-noun|
+|Systems||
+|Actor | |
+|Association (extend) | arrow, dotted arrow|
+
+
 ```
 @startuml
 left to right direction
