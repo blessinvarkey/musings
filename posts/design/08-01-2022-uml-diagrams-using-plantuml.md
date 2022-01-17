@@ -32,13 +32,14 @@ Requester -> DataRequestTrackerApp :   Checks the Request details
 
 ## Use Case Diagram
 
-![](usecase.png)
+Use case diagrams capture high-level functionality of a system using notations for actors, use cases and relationships among them. 
 
-|||
+
+| | |
 |--|--|
-|Use Case | verb-noun|
-|Systems||
-|Actor | |
+|Use Case |  |
+|Systems|  |
+|Actor | Primary actor - triggers the use case, Secondary actors - involved in the use case/external |
 |Association (extend) | arrow, dotted arrow|
 
 
@@ -72,5 +73,8 @@ UC3 --> cps
 UC4 --> pp
 @enduml
 ```
+![](usecase.png)
+
+
 ## Class Diagram 
 Modelling the 'what' of the system.
