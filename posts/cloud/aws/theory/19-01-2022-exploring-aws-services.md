@@ -1,18 +1,18 @@
 # The AWS Essentials 
 
 
-| S. No. | Contents | 
-| ------------- | ------------- |
-| 1. | [Setting up the CLI](/19-01-2022-exploring-aws-services.md#setting-up-cli)|
-| 2. | [IAM Management Console]() |  
-| 3. | [IAM Security Tools]() | 
-| 4. | [IAM Role]() | 
-| 5. | [IAM Policies]() | 
-| 6. | [IAM Policy Structure]() | 
-| 7. | [IAM Permissions]() | 
-| 8. | [Setting up an EC2 Instance]() | 
-| 9. | [EBS Volume & Snapshot]() | 
-| 11. | [Lambda]() | 
+| S. No. |  
+|------------- |
+| 1.  [Setting up the CLI](/19-01-2022-exploring-aws-services.md#setting-up-the-cli)|
+| 2. [IAM Management Console]() |
+| 3. [IAM Security Tools]() | 
+| 4. [IAM Role]() | 
+| 5. [IAM Policies]() | 
+| 6. [IAM Policy Structure]() | 
+| 7. [IAM Permissions]() | 
+| 8. [Setting up an EC2 Instance]() | 
+| 9. [EBS Volume & Snapshot]() | 
+| 10. [Lambda]() | 
 
 ## Setting up the CLI
 For Mac, installation via terminal:
