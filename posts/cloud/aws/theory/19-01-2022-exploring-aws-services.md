@@ -1,20 +1,16 @@
 # The AWS Essentials 
 
+### Contents
+ 1.  [Setting up the CLI](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#setting-up-the-cli)
+ 2. [IAM Security Tools](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#iam-security-tools) 
+ 3. [IAM Role](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#iam-role) 
+ 4. [IAM Policies](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#iam-policies) 
+ 5. [IAM Permissions](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#iam-permissions) 
+ 6. [Setting up an EC2 Instance](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#setting-up-an-ec2-instance)  
+ 7. [EBS Volume & Snapshot](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#ebs-volume--snapshot)  
+ 8. [Lambda](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#lambda)  
 
-| S. No. |  
-|------------- |
-| 1.  [Setting up the CLI](/19-01-2022-exploring-aws-services.md#setting-up-the-cli)|
-| 2. [IAM Management Console]() |
-| 3. [IAM Security Tools]() | 
-| 4. [IAM Role]() | 
-| 5. [IAM Policies]() | 
-| 6. [IAM Policy Structure]() | 
-| 7. [IAM Permissions]() | 
-| 8. [Setting up an EC2 Instance]() | 
-| 9. [EBS Volume & Snapshot]() | 
-| 10. [Lambda]() | 
-
-## Setting up the CLI
+## 1. Setting up the CLI
 For Mac, installation via terminal:
 
 ```
@@ -31,7 +27,7 @@ which aws
 aws --version
 ```
 
-#### IAM Management Console  
+#### a. IAM Management Console  
 Users> Security Credentials> Access Keys> Download .csv file (or save them)
 
 ```
@@ -44,26 +40,26 @@ Default region name [selected-region-name]: (return or enter region name)
 Default output format [None]: (return or enter json)
 ```
 
-## IAM Security Tools
+## 2. IAM Security Tools
 
-### 1. Credential Report (account level)
+### a. Credential Report (account level)
 Report with details of account's users and status of their various credentials.  
 
 IAM Management Console> Credential Report
  
-### 2. Access Advisor (user level)
+### b. Access Advisor (user level)
 Access advisor shows the service permissions granted to a user and when those services were last accessed. 
 
 IAM Management Console> Users> Access Advisor
 
 
-## IAM Role
+## 3. IAM Role
 An IAM Role is an IAM entity that defines a set of permissions for making requests to AWS services and will be used by an AWS service. 
 
-## IAM Policies
+## 4. IAM Policies
 IAM Policies are JSON documents that define a set of permissions for making requests to AWS services, and can be used by IAM users, User Groups and IAM Roles
 
-### Policy structure
+### a. Policy structure
 ```
 {
       "Version": "2012-10-17",
@@ -83,11 +79,11 @@ IAM Policies are JSON documents that define a set of permissions for making requ
 }
 ```
 
-## IAM Permissions
+## 5. IAM Permissions
 Grant Least Privilege 
 
 
-## Setting up an EC2 Instance
+## 6. Setting up an EC2 Instance
 
 1. Choose an AMI (Linux 2)
 2. Choose an Instance type (t2.micro)
@@ -116,16 +112,16 @@ whoami
 ```
 The whoami command should give the output: ec2-user
 
-## EBS volume & Snapshot
+## 7. EBS volume & Snapshot
 
 Select Instance> Storage> Select Volume ID> Create Volume > GiB size (2)> Availability Zone (same as instance name)> Create Volume
 
 
-### Lambda
+## 8. Lambda
 
 ![](aws-lambda.png)
 
-### Major Integrations
+### a. Major Integrations
 - API Gateway
 - DynamoDB
 - S3
@@ -137,13 +133,13 @@ Select Instance> Storage> Select Volume ID> Create Volume > GiB size (2)> Availa
 - CloudWatch Logs
 - Cognito
 
-### Flow example
+### b. Flow example
 Example flow of uploading an image on the s3 bucket to generate a thumbnail image of the same.
 
 ![](aws-lambda-example.png)
 
 
-### Lambda function 
+### c. Lambda function example 
 
 Lambda> Create function> Author from scratch> function name> runtime> create fn
 ```
@@ -153,8 +149,8 @@ def lambda_handler(event, context):
 ```
 
 
-### Invocations
-#### Syncronous 
+### d. Invocations
+#### i. Syncronous 
 ![](aws-lambda-syncronous-invocation.png)
 - Result is returned right away
 - User invoked 
@@ -177,14 +173,14 @@ aws lambda invoke \
     response.json
 ```
 
-#### CLI
+### e. CLI
 
 ```
 aws lambda invoke --function-name lambda-1 --cli-binary-format raw-in-base64-out --payload'{"key1":"value1", "key2":"value2"}'  
 ```
 
 
-#### Functions in the region
+### f. Functions in the region
 ```
 aws lambda list-functions
 ```
