@@ -6,11 +6,15 @@ For Mac, installation via terminal:
 
 ```
 "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
-
+```
+```
 sudo installer -pkg AWSCLIV2.pkg -target /      
 
+```
+```
 which aws
-
+```
+```
 aws --version
 ```
 
@@ -19,6 +23,8 @@ Users> Security Credentials> Access Keys> Download .csv file (or save them)
 
 ```
 aws configure
+```
+```
 AWS Access Key ID: (input access id)
 AWS Secret Access Key: (input access key)
 Default region name [selected-region-name]: (return or enter region name)
@@ -70,16 +76,18 @@ Grant Least Privilege
 
 ## Setting up an EC2 Instance
 
-1. Choose an AMI
-2. Choose an Instance type
+1. Choose an AMI (Linux 2)
+2. Choose an Instance type (t2.micro)
 3. Configure Instance Details
-4. Add Storage
+4. Add Storage 
 5. Add Tags
 6. Configure security group
 7. Review instance launch 
 
 ```
 chmod 0400 KEYPAIR.pem 
+```
+```
 shh -i KEYPAIR.pem ec2-user@IPV4address
 ```
 If you selected Amazon Linux, you should now be able to see: 
