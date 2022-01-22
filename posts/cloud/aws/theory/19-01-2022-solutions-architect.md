@@ -110,4 +110,31 @@ Select Instance> Storage> Select Volume ID> Create Volume > GiB size (2)> Availa
 ### Setting up an EBS Snapshot
 
 
-### AMI: Amazon Machine Image
+### Lambda
+
+![](aws-lambda.jpg)
+
+### Major Integrations
+- API Gateway
+- DynamoDB
+- S3
+- SNS
+- SQS
+- Kinesis
+- CloudFront 
+- CloudWatch EventBridge 
+- CloudWatch Logs
+- Cognito
+
+![](aws-lambda-example.png)
+
+
+
+|||
+|--|--|
+|EC2|Lambda|
+|Virtual Servers in the Cloud| Virtual functions - no servers to manage |
+|Limited by RAM and CPU|Limited by time - short executions|
+|Continously running|Run-on-demand|
+|Scaling means intervention to add/remove servers||
+
