@@ -1,7 +1,20 @@
-# AWS Exploration
+# The AWS Essentials 
 
 
-## Setting up CLI
+| S. No. | Contents | 
+| ------------- | ------------- |
+| 1. | [Setting up the CLI](/19-01-2022-exploring-aws-services.md#setting-up-cli)|
+| 2. | [IAM Management Console]() |  
+| 3. | [IAM Security Tools]() | 
+| 4. | [IAM Role]() | 
+| 5. | [IAM Policies]() | 
+| 6. | [IAM Policy Structure]() | 
+| 7. | [IAM Permissions]() | 
+| 8. | [Setting up an EC2 Instance]() | 
+| 9. | [EBS Volume & Snapshot]() | 
+| 11. | [Lambda]() | 
+
+## Setting up the CLI
 For Mac, installation via terminal:
 
 ```
@@ -18,7 +31,7 @@ which aws
 aws --version
 ```
 
-#### On your IAM Management Console:  
+#### IAM Management Console  
 Users> Security Credentials> Access Keys> Download .csv file (or save them)
 
 ```
@@ -103,11 +116,9 @@ whoami
 ```
 The whoami command should give the output: ec2-user
 
-### Setting up an EBS volume
+## EBS volume & Snapshot
 
 Select Instance> Storage> Select Volume ID> Create Volume > GiB size (2)> Availability Zone (same as instance name)> Create Volume
-
-### Setting up an EBS Snapshot
 
 
 ### Lambda
@@ -166,15 +177,6 @@ aws lambda invoke \
     response.json
 ```
 
-#### Lambda function 
-```
-
-```
-#### Test
-
-```
-
-```
 #### CLI
 
 ```
