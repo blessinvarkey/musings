@@ -6,11 +6,15 @@ For Mac, installation via terminal:
 
 ```
 "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
-
+```
+```
 sudo installer -pkg AWSCLIV2.pkg -target /      
 
+```
+```
 which aws
-
+```
+```
 aws --version
 ```
 
@@ -19,6 +23,8 @@ Users> Security Credentials> Access Keys> Download .csv file (or save them)
 
 ```
 aws configure
+```
+```
 AWS Access Key ID: (input access id)
 AWS Secret Access Key: (input access key)
 Default region name [selected-region-name]: (return or enter region name)
@@ -70,16 +76,18 @@ Grant Least Privilege
 
 ## Setting up an EC2 Instance
 
-1. Choose an AMI
-2. Choose an Instance type
+1. Choose an AMI (Linux 2)
+2. Choose an Instance type (t2.micro)
 3. Configure Instance Details
-4. Add Storage
+4. Add Storage 
 5. Add Tags
 6. Configure security group
 7. Review instance launch 
 
 ```
 chmod 0400 KEYPAIR.pem 
+```
+```
 shh -i KEYPAIR.pem ec2-user@IPV4address
 ```
 If you selected Amazon Linux, you should now be able to see: 
@@ -102,4 +110,87 @@ Select Instance> Storage> Select Volume ID> Create Volume > GiB size (2)> Availa
 ### Setting up an EBS Snapshot
 
 
-### AMI: Amazon Machine Image
+### Lambda
+
+![](aws-lambda.png)
+
+### Major Integrations
+- API Gateway
+- DynamoDB
+- S3
+- SNS
+- SQS
+- Kinesis
+- CloudFront 
+- CloudWatch EventBridge 
+- CloudWatch Logs
+- Cognito
+
+### Flow example
+Example flow of uploading an image on the s3 bucket to generate a thumbnail image of the same.
+
+![](aws-lambda-example.png)
+
+
+### Lambda function 
+
+Lambda> Create function> Author from scratch> function name> runtime> create fn
+```
+def lambda_handler(event, context):
+      print(event['key1])
+      return 'Hello from Lambda!'
+```
+
+
+### Invocations
+#### Syncronous 
+![](aws-lambda-syncronous-invocation.png)
+- Result is returned right away
+- User invoked 
+- Elastic Load balancing, API Gateway, CloudFront, S3 batch, Cognito, Step Functions, Lex, Alexa, Kinesis Data Firehose
+
+```
+invoke
+--function-name <value>
+[--invocation-type <value>]
+[--log-type <value>]
+[--client-context <value>]
+[--payload <value>]
+[--qualifier <value>]
+<outfile>
+----
+
+aws lambda invoke \
+    --function-name my-function \
+    --payload '{ "name": "Bob" }' \
+    response.json
+```
+
+#### Lambda function 
+```
+
+```
+#### Test
+
+```
+
+```
+#### CLI
+
+```
+aws lambda invoke --function-name lambda-1 --cli-binary-format raw-in-base64-out --payload'{"key1":"value1", "key2":"value2"}'  
+```
+
+
+#### Functions in the region
+```
+aws lambda list-functions
+```
+
+|EC2|Lambda|
+|--|--|
+|Virtual Servers in the Cloud| Virtual functions - no servers to manage |
+|Limited by RAM and CPU|Limited by time - short executions|
+|Continously running|Run-on-demand|
+|Scaling means intervention to add/remove servers||
+
