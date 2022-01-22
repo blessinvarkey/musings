@@ -112,7 +112,7 @@ Select Instance> Storage> Select Volume ID> Create Volume > GiB size (2)> Availa
 
 ### Lambda
 
-![](aws-lambda.jpg)
+![](aws-lambda.png)
 
 ### Major Integrations
 - API Gateway
@@ -126,21 +126,66 @@ Select Instance> Storage> Select Volume ID> Create Volume > GiB size (2)> Availa
 - CloudWatch Logs
 - Cognito
 
+### Flow example
+Example flow of uploading an image on the s3 bucket to generate a thumbnail image of the same.
+
 ![](aws-lambda-example.png)
 
 
+### Lambda function 
+
+Lambda> Create function> Author from scratch> function name> runtime> create fn
 ```
 def lambda_handler(event, context):
-      print(event)
+      print(event['key1])
       return 'Hello from Lambda!'
 ```
 
 
+### Invocations
+#### Syncronous 
+![](aws-lambda-syncronous-invocation.png)
+- Result is returned right away
+- User invoked 
+- Elastic Load balancing, API Gateway, CloudFront, S3 batch, Cognito, Step Functions, Lex, Alexa, Kinesis Data Firehose
+
+```
+invoke
+--function-name <value>
+[--invocation-type <value>]
+[--log-type <value>]
+[--client-context <value>]
+[--payload <value>]
+[--qualifier <value>]
+<outfile>
+----
+
+aws lambda invoke \
+    --function-name my-function \
+    --payload '{ "name": "Bob" }' \
+    response.json
+```
+
+#### Lambda function 
+```
+
+```
+#### Test
 
 ```
 
 ```
+#### CLI
 
+```
+aws lambda invoke --function-name lambda-1 --cli-binary-format raw-in-base64-out --payload'{"key1":"value1", "key2":"value2"}'  
+```
+
+
+#### Functions in the region
+```
+aws lambda list-functions
+```
 
 |EC2|Lambda|
 |--|--|
