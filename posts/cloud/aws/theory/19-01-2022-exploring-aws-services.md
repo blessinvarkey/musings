@@ -1,5 +1,9 @@
 # The AWS Essentials 
 
+Hi. So, over the last few months I've been part of two use cases which have given me an opportunity to explore some of the AWS services. While the objective of this blog will be to cover the essentials, I will try to also add as many examples as I explore. 
+
+Since this is a living, breathing page, expect this page to evolve over time! 
+
 ### Contents
  1.  [Setting up the CLI](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#setting-up-the-cli)
  2. [IAM Security Tools](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#iam-security-tools) 
@@ -179,11 +183,11 @@ aws lambda invoke \
 aws lambda invoke --function-name lambda-1 --cli-binary-format raw-in-base64-out --payload'{"key1":"value1", "key2":"value2"}'  
 ```
 
-
 ### f. Functions in the region
 ```
 aws lambda list-functions
 ```
+### g. EC2 vs Lambda 
 
 |EC2|Lambda|
 |--|--|
