@@ -1,9 +1,5 @@
 # The AWS Essentials 
 
-Hi. So, over the last few months I've been part of two use cases which have given me an opportunity to explore some of the AWS services. While the objective of this blog will be to cover the essentials, I will try to also add as many examples as I explore. 
-
-Since this is a living, breathing page, expect this page to evolve over time! 
-
 ### Contents
  1.  [Setting up the CLI](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#setting-up-the-cli)
  2. [IAM Security Tools](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#iam-security-tools) 
@@ -15,6 +11,8 @@ Since this is a living, breathing page, expect this page to evolve over time!
  8. [Lambda](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#lambda)  
 
 ## 1. Setting up the CLI
+To get started, first download the CLI. I've shared the details for installing on Mac, for Windows and Linux, you can find the installation details [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
+
 For Mac, installation via terminal:
 
 ```
@@ -195,4 +193,35 @@ aws lambda list-functions
 |Limited by RAM and CPU|Limited by time - short executions|
 |Continously running|Run-on-demand|
 |Scaling means intervention to add/remove servers||
+
+## 9. SQS & SNS
+### SQS
+- unlimited messages in queue
+- Message stays for 4 days, maximum 14 
+- Limitation of 256KB per message sent
+- Producer sends message to SQS (SendMessageAPI)
+- Consumer pulls message from SQS (upto 10 messages at a time)
+- Consumer deletes messages using DeleteMessageAPI
+
+## 10. Elastic Load Balancer
+Load Balancers are servers that forward traffic to multiple servers. 
+
+An Elastic Load Balancer is a managed load balancer (AWS ensures that it will take care of the upgrades, maintainance and availability)
+- Cheaper to set a load balancer, but requires more effort
+- ELB can be integrated with: EC2, EC2 Auto Scaling Groups, Amazon ECS, AWS Certificate Manager, CloudWatch, Route53, AWS WAF, AWS Global Accelerator
+
+![](load-balancer.png)
+
+### a. Load Balancer Security groups
+
+|Security Group|Type|Port Range|Source|
+|--|--|--|--|
+|Load Balancer|HTTP/S|40/443|0.0.0.0/0 (from anywhere)|
+|Application|HTTP|80|sg-05..(load balancer)|
+
+- __Classic Load Balancer (CLB)__: HTTP, HTTPS, TCP, SSL
+- __Application Load Balancer (ALB)__: HTTP, HTTPS, WebSocket
+- __Network Load Balancer__: NLB, TCP, TLS, UDP
+- __Gateway Load Balancer__: Layer 3, IP Protocol
+
 
