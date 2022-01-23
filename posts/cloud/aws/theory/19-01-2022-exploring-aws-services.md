@@ -12,6 +12,7 @@
  9. [SNS & SQS]()
  10. [Elastic Load Balancer]()
  11. [RDS]
+ 12. [Hosting a Web Application on AWS]()
 
 ## 1. Setting up the CLI
 To get started, first download the CLI. I've shared the details for installing on Mac, for Windows and Linux, you can find the installation details [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
@@ -253,3 +254,39 @@ __Gateway Load Balancer__:
 - Helps you increase storage on your RDS DB instance dynamically (increases storage, when running out)
 - Maximum Storage Threshold (maximum limit for DB storage) 
 - Postgres, MySQL, MariaDB, Oracle, Microsoft SQL Server, Aurora (AWS Proprietary database)
+
+
+## Web Application on AWS
+
+### a. Setting up the repository via CodeCommit
+
+CodeCommit > Repository > Create Repository > IAM> Users > Security Credentials > HTTPS Git credentials for AWS CodeCommit
+
+[Note](https://github.com/aws-samples/aws-serverless-workshops/issues/292) : You might have to grant the IAM user the AmazonS3ReadOnlyAccess policy to give the user permission to read from S3.
+
+
+```
+$ git clone https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/wildrydes-site
+Username :XXXXXXXXXX
+Password : XXXXXXXXXXXX
+```
+
+```
+cd wildrydes-site
+```
+```
+aws s3 cp s3://wildrydes-us-east-1/WebApplication/1_StaticWebHosting/website ./ --recursive
+```
+```
+$ git add .
+$ git commit -m 'new'
+$ git push
+```
+
+### b. Web Hosting with AWS Amplify
+- Amplify Console page> Get Started> Select the Repository service provider> Next> Select the Repository and Branch just created
+
+Click on site [link](https://master.d1peuc32q9a1y5.amplifyapp.com). 
+
+You can also follow the AWS documentation on how to build a Serverless Web Application [here](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/).
+
