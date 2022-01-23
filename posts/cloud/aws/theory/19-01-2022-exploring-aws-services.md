@@ -9,6 +9,9 @@
  6. [Setting up an EC2 Instance](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#setting-up-an-ec2-instance)  
  7. [EBS Volume & Snapshot](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#ebs-volume--snapshot)  
  8. [Lambda](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#lambda)  
+ 9. [SNS & SQS]()
+ 10. [Elastic Load Balancer]()
+ 11. [RDS]
 
 ## 1. Setting up the CLI
 To get started, first download the CLI. I've shared the details for installing on Mac, for Windows and Linux, you can find the installation details [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
@@ -229,6 +232,8 @@ __Classic Load Balancer (v1)__:
 - HTTP, HTTPS, TCP, SSL
 __Application Load Balancer (ALB)__:
 - HTTP, HTTPS, WebSocket
+- Fixed hostname: xxx.region.elb.amazon.aws.com
+
 ![](a-load-balancer.png)
 
 __Network Load Balancer (ALB)__:
@@ -238,3 +243,13 @@ __Network Load Balancer (ALB)__:
 
 __Gateway Load Balancer__: 
 - Layer 3, IP Protocol
+
+
+## Relational Database Service RDS
+- Managed DB service for DB use SQL as a query language
+- Automated provisioning, OS patching
+- Storage backed by EBS
+- Continous backups (automated backups, transaction logs - every 5 mins, 7 days - upto 35 days)
+- Helps you increase storage on your RDS DB instance dynamically (increases storage, when running out)
+- Maximum Storage Threshold (maximum limit for DB storage) 
+- Postgres, MySQL, MariaDB, Oracle, Microsoft SQL Server, Aurora (AWS Proprietary database)
