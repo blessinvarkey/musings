@@ -212,16 +212,29 @@ An Elastic Load Balancer is a managed load balancer (AWS ensures that it will ta
 
 ![](load-balancer.png)
 
-### a. Load Balancer Security groups
+### Load Balancer Security groups
 
 |Security Group|Type|Port Range|Source|
 |--|--|--|--|
 |Load Balancer|HTTP/S|40/443|0.0.0.0/0 (from anywhere)|
 |Application|HTTP|80|sg-05..(load balancer)|
 
-- __Classic Load Balancer (CLB)__: HTTP, HTTPS, TCP, SSL
-- __Application Load Balancer (ALB)__: HTTP, HTTPS, WebSocket
-- __Network Load Balancer__: NLB, TCP, TLS, UDP
-- __Gateway Load Balancer__: Layer 3, IP Protocol
 
 
+__Classic Load Balancer (v1)__:
+- Launch EC2 Instance>Load Balancers>CLB> Define Load Balancer>Assign Security Groups (Type: HTTP, Source: Anywhere)>Security settings> Configure Health Check > Add EC2 Instance > Tags> Review 
+  
+- For more EC2 Instanaces (with same script)>Load Balancer> Edit Instances
+
+- HTTP, HTTPS, TCP, SSL
+__Application Load Balancer (ALB)__:
+- HTTP, HTTPS, WebSocket
+![](a-load-balancer.png)
+
+__Network Load Balancer (ALB)__:
+- NLB, TCP, TLS, UDP
+
+![](network-load-balancer.jpg)
+
+__Gateway Load Balancer__: 
+- Layer 3, IP Protocol
