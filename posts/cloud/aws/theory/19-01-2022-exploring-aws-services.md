@@ -11,7 +11,7 @@
  8. [Lambda](https://github.com/blessinvarkey/musings/blob/wip-1/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md#lambda)  
  9. [SNS & SQS]()
  10. [Elastic Load Balancer]()
- 11. [RDS]
+ 11. [RDS]()
  12. [Hosting a Web Application on AWS]()
 
 ## 1. Setting up the CLI
@@ -246,7 +246,7 @@ __Gateway Load Balancer__:
 - Layer 3, IP Protocol
 
 
-## Relational Database Service RDS
+## 11. Relational Database Service RDS
 - Managed DB service for DB use SQL as a query language
 - Automated provisioning, OS patching
 - Storage backed by EBS
@@ -256,7 +256,7 @@ __Gateway Load Balancer__:
 - Postgres, MySQL, MariaDB, Oracle, Microsoft SQL Server, Aurora (AWS Proprietary database)
 
 
-## Web Application on AWS
+## 12. Web Application on AWS
 
 ### a. Setting up the repository via CodeCommit
 
