@@ -112,7 +112,6 @@ If you selected Amazon Linux, you should now be able to see:
       ___|\___|___|
 
 
-
 ```
 whoami
 ```
@@ -255,8 +254,21 @@ __Gateway Load Balancer__:
 - Maximum Storage Threshold (maximum limit for DB storage) 
 - Postgres, MySQL, MariaDB, Oracle, Microsoft SQL Server, Aurora (AWS Proprietary database)
 
+## 12. ECS
+- Cluster
+- Services
+- Tasks 
+- Tasks Definition
+- Fargate
 
-## 12. Web Application on AWS
+### a. Docker
+- Software platform to deploy apps
+- Containers that can run on any OS
+- Docker images are stored in Docker repositories
+- Public: Docker Hub 
+Elastic Container Registery 
+
+## 13. Web Application on AWS
 
 ### a. Setting up the repository via CodeCommit
 

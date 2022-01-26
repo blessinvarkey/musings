@@ -1,8 +1,48 @@
 # Design Thinking 
 
-_"Design Thinking is a human centered and collaborative approach with a designed mindset to solve complex problems_ - Tim Brown"
+_"Design Thinking is a human centered and collaborative approach with a designed mindset to solve complex problems_" - Tim Brown
 
 Over the last few months, I've got the opportunity to design and collaborate on a few Design Thinking projects. While collaborating with a DT team may feel quite natural (especially if you are coming from an agile background), designing a DT workshop or phase may require more flexibility in using the Design Thinking tools. 
+
+_"People ignore design that ignores people"_- Frank Chimero
+
+
+## Design Thinking
+- DT is a tool, a creative process for finding effective solutions to problems
+- It is a "human-centered approach to innovation"
+- It is about looking at a problem and generating ideas to arrive at a solution
+- It focuses on the user/customer and his needs. 
+
+Design thinking is about embracing ambiguity. Its an iterative process which favours ongoing experimentation until the right solution is found.
+
+
+## The DT Practitioner
+__Adjectives__
+- Confident
+- Optimistic
+- Curious
+- Intutive
+- Empathetic
+- Resilient
+
+__Verbs__
+- Articulates clearly
+- Collaborates
+- Embraces risk
+- goes the extra mile
+- fails fast
+- smiles and has fun
+
+## Four Principles of Design Thinking
+
+- __The Human Rule__: No matter what the context, all design activity is social in nature, and any social innovation will bring us back to the "human-centric-point of view"
+
+- __The Ambiguity Rule__: Ambiguity is inevitable, and it cannot be removed or oversimplified. Experimenting at the limits of your knowledge and ability is crucial in being able to see things differently. 
+
+- __The Redesign Rule__: All design is design. While technology and social circumstances may change and evolve, basic human needs remain unchanged. We essentially only redesign the means of fulfilling these needs or reaching desired outcomes.
+
+- __The Tangibility Rule__ Making ideas tangible in the form of prototypes enables designers to communicate them more effectively. 
+
 
 So, lets first look at what Design Thinking process offers: 
 
@@ -15,9 +55,86 @@ The core of Design Thinking is made of
 ## The Problem Space: Framing the right question
 The problem space contains three which aim at understanding the user's/stakeholder's pain points and to frame the right question. 
 
-_Empathy_: The Empathy phase is a Divergent phase. Opening up and listening to opportunities.  
-_Define phase_: Covergent phase to make a point of view, and by synthesising insights to make the right questions.  
+### Know Your Customer
+The user may have functional, social, cultural and emotional needs, which needs to be documented. Two types of research: 
+- Primary Research (interviewing, surveys)
+- Secondary Research (market analysis, existing data)
 
+Based on the research user personas can be defined. 
+
+### I _Empathy_: The Empathy phase is a Divergent phase. Opening up and listening to opportunities. 
+- Listen closely (actively) and if you thinkg you understand the how the user is feeling and why, express it back and see if it resonates with the user
+- Practice Respect
+- Try not to assume the role of a problem solver  
+
+
+#### Best practices for interviewing
+- Ask why
+- When asking a question say don't use "usually.."
+- Evoke stories, don't ignore them 
+- Look for inconsistencies
+- Pay heed to nonverbal cues
+- When there is silence, don't intrude and wait for the user to think through and respond 
+- You are not trying to find answers, only understanding the problem better
+- Ask questions neutrally
+- Ask binary questions
+- Be prepared to capture
+
+#### Empathy Map
+
+![](https://assets.uxbooth.com/uploads/2018/06/empathy-map-canvas.png)
+
+### Personas
+![](https://www.keepitusable.com/blog/wp-content/uploads/2016/06/ExPersona_Clark2.png)
+
+### Mapping Personas with Empathy Maps
+![](https://xd.adobe.com/ideas/wp-content/uploads/2019/12/empathy-map-3-2048x769.jpg.webp)
+
+### Journey Maps
+A journey map is a visualization of the process that a person goes through in order to accomplish a goal. 
+
+Maps the relationship between customer and an organization over time and across all channels in which they interact with the business.
+
+- A timescale (timeline)
+- Scenarios 
+- Touchpoints 
+- Channels (where they work/perform the action)
+- Thoughts and feelings
+
+![](https://cdn2.slidemodel.com/wp-content/uploads/FF0324-02-free-customer-journey-template-1.jpg)
+
+![](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/updates/customer-journey-map-example.png)
+
+### II _Define phase_ : Covergent phase to make a point of view, and by synthesising insights to make the right questions.
+- Realize new insights 
+- Reframe the problem 
+- Uncover opportunities
+
+USER - NEED - INSIGHT
+- NEEDS (as nouns): 
+    - They are human, physical and emotional necessities. 
+    - They capture the goals and motivations and desires (not solutions)
+- INSIGHTS (Interesting, Relevant, Actionable): are expected things/ the 'why' response to the needs.  
+
+Stanford template: 
+![](https://joeyaquino.files.wordpress.com/2012/06/picture-10.png)
+
+
+![](https://public-media.interaction-design.org/images/uploads/653bfb2401c80aaca7d8ce13c26c6f4d.jpg)
+
+### Point of View (POV) template
+
+- We Met: _User you are inspired by_ 
+- We were surprised to notice:_tension, contradiction or surprise_
+- We wonder if this means:_what did you infer?_
+- It would be game changing to: _frame up an inspired challenge for yourself_
+
+### How Might We
+- Opens the exploration space to a range of possibilities 
+
+How 
+- Descriptive 
+- 
 
 ## The Solution Space: Creating the right solution
 _Ideate Phase_: The ideate phase is a Divergent Phase. Brainstorming, idea generation
