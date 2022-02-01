@@ -105,6 +105,7 @@ Maps the relationship between customer and an organization over time and across 
 
 ![](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/updates/customer-journey-map-example.png)
 
+
 ### II _Define phase_ : Covergent phase to make a point of view, and by synthesising insights to make the right questions.
 - Realize new insights 
 - Reframe the problem 
@@ -135,6 +136,8 @@ Stanford template:
 How 
 - Descriptive 
 - 
+---- 
+
 
 ## The Solution Space: Creating the right solution
 _Ideate Phase_: The ideate phase is a Divergent Phase. Brainstorming, idea generation
@@ -251,7 +254,7 @@ How Might We's start with 'How Might We' along with an action verb, without incl
 
 
 ---
-## Recommended Reading:
+## Recommended Readings:
 
 1. [Adobe Ideas](https://xd.adobe.com/ideas/)
 2. [Is UX still viable? The unintended consequences of user-centered design](https://uxdesign.cc)
