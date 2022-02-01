@@ -254,7 +254,7 @@ How Might We's start with 'How Might We' along with an action verb, without incl
 
 
 ---
-## Recommended Reading:
+## Recommended Readings:
 
 1. [Adobe Ideas](https://xd.adobe.com/ideas/)
 2. [Is UX still viable? The unintended consequences of user-centered design](https://uxdesign.cc)
