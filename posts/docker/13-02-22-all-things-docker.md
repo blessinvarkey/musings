@@ -48,6 +48,10 @@ $ docker build -t hello .
 $ docker run hello
 ```
 
+<img src= "https://miro.medium.com/max/1400/1*p8k1b2DZTQEW_yf0hYniXw.png" alt="drawing" width="300"/>
+
+
+
 ### # Example 2
 
 In the previous example, we saw how to run a file with a print() function.
@@ -55,9 +59,9 @@ In the previous example, we saw how to run a file with a print() function.
 For the second example, let's consider the fashion-mnist file from my Eco-Coding project. To use codecarbon for our eco-coding project, we need to create a virtual environment using ``` 
 conda ``` for easier management of dependencies and packages. 
 
-The py file can be accessed [here]. 
+Application: The py file can be accessed [here](eco-fmnist.py). 
 
-Create a Dockerfile:
+Dependencies: Create a Dockerfile
 
 ```
 ADD eco-fmnist.py .
@@ -90,5 +94,32 @@ RUN pip install tensorflow
 CMD ["python", "./eco-fmnist.py"]
 
 ```
+### List the containers
+```
+$ docker ps 
+```
 
+### Delete the image(s)
+```
+$ docker rmi <IMAGE ID>
+```
 
+### List the image(s)
+```
+$ docker image ls 
+```
+
+### To stop a docker
+On the terminal:
+
+```
+$ docker stop <name of the container>
+```
+OR
+```
+$ docker kill <ID>
+```
+
+```
+$ docker pull 
+```
