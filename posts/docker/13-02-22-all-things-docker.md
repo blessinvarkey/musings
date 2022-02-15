@@ -10,7 +10,7 @@ Docker is a platform which enables developers to package applications into conta
  In simple terms, Docker is a software platform that simplifies the process of **building**, **running**, **managing** and **distributing** applications. It does this by virtualizing the operating system of the computer on which it is installed and running.
 
 
- Basically, it wraps & ships the application and the dependencies to avoid say a scenario where the code works perfectly on the developer's system, while the ops team is unable to execute the same. 
+ Basically, it wraps & ships the application and the dependencies to avoid. Say a scenario where the code works perfectly on the developer's system, while the ops team is unable to execute the same. 
 
 
 <img src= "https://external-preview.redd.it/aR6WdUcsrEgld5xUlglgKX_0sC_NlryCPTXIHk5qdu8.jpg?auto=webp&s=5fe64dd318eec71711d87805d43def2765dd83cd" alt="drawing" width="300"/>
@@ -48,7 +48,7 @@ $ docker build -t hello .
 $ docker run hello
 ```
 
-<img src= "https://miro.medium.com/max/1400/1*p8k1b2DZTQEW_yf0hYniXw.png" alt="drawing" width="300"/>
+<img src= "https://miro.medium.com/max/1400/1*p8k1b2DZTQEW_yf0hYniXw.png" alt="drawing" width="600"/>
 
 
 
@@ -59,9 +59,9 @@ In the previous example, we saw how to run a file with a print() function.
 For the second example, let's consider the fashion-mnist file from my Eco-Coding project. To use codecarbon for our eco-coding project, we need to create a virtual environment using ``` 
 conda ``` for easier management of dependencies and packages. 
 
-Application: The py file can be accessed [here](eco-fmnist.py). 
+The py (Application) file can be accessed [here](eco-fmnist.py). 
 
-Dependencies: Create a Dockerfile
+Dockerfile (containing dependencies & application):
 
 ```
 ADD eco-fmnist.py .
