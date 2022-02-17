@@ -1,3 +1,5 @@
+|   [HOME](https://github.com/blessinvarkey/musings)    |   [NEXT](https://github.com/blessinvarkey/musings/blob/main/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md)    |
+
 ## Docker 
 
 ### What is a Docker? 
@@ -123,3 +125,7 @@ $ docker kill <ID>
 ```
 $ docker pull 
 ```
+
+For setting up a CICD pipeline with Github Actions, check this [repo](https://github.com/blessinvarkey/docker-github-actions)
+
+|   [HOME](https://github.com/blessinvarkey/musings)    |   [NEXT](https://github.com/blessinvarkey/musings/blob/main/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md)    |

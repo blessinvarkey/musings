@@ -1,8 +1,8 @@
 FROM python:3.6
 
 # Example 1
-# ADD helloworld.py .
-# CMD ["python", "./helloworld.py"]
+ADD helloworld.py .
+CMD ["python", "./helloworld.py"]
 
 # Example 2
 # ADD eco-fmnist.py .

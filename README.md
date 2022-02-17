@@ -12,6 +12,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 ## Blog
 | Title        | Date |
 | ------------- | :------------- | 
+|[All things Docker](https://github.com/blessinvarkey/musings/blob/main/posts/docker/13-02-22-all-things-docker.md)|13th February 2022|
 |[The AWS Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md)|19th January 2022|
 |[Mind Maps](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/20-10-2021-mind-maps.md)|20th October 2021|
 |[Writing User stories and Estimating Story points](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-07-2021-user-stories-and-story-points.md)|15th July 2021|
