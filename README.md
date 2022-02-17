@@ -17,6 +17,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 |[Mind Maps](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/20-10-2021-mind-maps.md)|20th October 2021|
 |[Writing User stories and Estimating Story points](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-07-2021-user-stories-and-story-points.md)|15th July 2021|
 |[The complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-06-2021-complexity-of-product-development.md)|28th June  2021|
+|[Design Thinking](https://github.com/blessinvarkey/musings/blob/main/posts/design/24-06-2021-design-thinking.md)|24th June 2021|
 |[The Agile Mindset](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/22-06-2021-the-agile-mindset.md)|22nd June 2021|
 | [How I prepared for my PSM I examination](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/17-06-2021-psm-1-certification.md)| 17th June 2021|
 | [Scrum Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/16-06-2021-scrum-essentials.md) | 16th June 2021 | 

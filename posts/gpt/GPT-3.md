@@ -1,3 +1,5 @@
+|   [HOME](https://github.com/blessinvarkey/musings)    |   [NEXT](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-06-2021-scrum-1-squirrel-burgers.md)    |
+
 # GPT-3 | Generative Pre-trained Transformer 3 
 
 *"AI is going to change the world, but GPT-3 is just a very early glimpse."* - Even Sam Altman, co-founder of OpenAI
