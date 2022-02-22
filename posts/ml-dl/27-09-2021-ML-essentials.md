@@ -1,6 +1,19 @@
 
 ### Machine Learning Essentials
 
+Machine learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning from data and finding hidden insights which can be used to build intelliget applications. 
+
+There are many reasons why the mathematics of Machine Learning is important: 
+1. Selecting the right algorithm which includes giving considerations to _accuracy_, _training time_, _model complexity_, number of _parameters_ and number of _features_. 
+2. Choosing _parameter settings_ and _validation_ strategies. 
+3. Identifying underfitting and overfitting by understanding the _Bias-Variance tradeoff_. 
+4. Estimating the right _confidence_, _interval_ and _uncertainty_. 
+
+## Cheatsheets
+![](https://scikit-learn.org/stable/_static/ml_map.png)
+
+![](https://miro.medium.com/max/1400/0*B6MGGFnT-os8NQQV)
+
 ### Popular Models
 - Linear Discriminant Analysis
 - K Neighbours Classifier
@@ -15,6 +28,8 @@
 - Light Gradient Boosting
 - Machine Ridge Classifier 
 - SVM - Linear Kernel
+
+
 
 
 |Column|Information| Definition|
