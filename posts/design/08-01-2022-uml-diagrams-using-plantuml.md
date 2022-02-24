@@ -1,7 +1,35 @@
-# PlantUML for UML designs
+# UML
+
+UML is used for
+- visualizing 
+- specifying 
+- consulting 
+- documenting
+
+UML notations are the most important elements in modelling. 
+
+Efficient and appropriate use of notations are very importatnt for making a complete and meaningful model. The model is useless, unless its purpose is depicted properly. 
+
+The conceptual model of UML has 3 major components
+- The buiilding blocks
+  - Things: Major components
+  - Relationships: Association (), Dependency (), Generalization (), Realization ()
+  - Diagrams
+
+- Rules
+- Common Mechanisms
+
+### UML Tools
+- StarUML
+- ArgoUML
+- Umbrello UML
+- Acceleo
+- UML Tools List @ Wiki
+- GenMyModel
 
 
-## Installation for Mac
+
+## PlantUML Installation for Mac
 
 ```
 brew install libtool

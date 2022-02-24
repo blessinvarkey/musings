@@ -5,17 +5,17 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 
 | S. No. | Contents | 
 | ------------- | ------------- |
-| 1. | [Blog](https://github.com/blessinvarkey/musings#blog)|
-| 2. | [Selected Readings](https://github.com/blessinvarkey/musings#papers-selected-readings) |  
-| 3. | [Contributed Papers](https://github.com/blessinvarkey/musings#contributed-papers) | 
+| 1. | [Blog](/musings#blog)|
+| 2. | [Selected Readings](/musings#papers-selected-readings) |  
+| 3. | [Contributed Papers](/musings#contributed-papers) | 
 
 ## Blog
 
 | Title        | Date |
 | ------------- | ------------- |
-| [All things Docker](https://github.com/blessinvarkey/musings/blob/main/posts/docker/13-02-22-all-things-docker.md)| 13th February 2022 |
-| [The AWS Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md)| 19th January 2022 |
-| [Mind Maps](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/20-10-2021-mind-maps.md)| 20th October 2021 |
+| [All things Docker](/posts/docker/13-02-22-all-things-docker.md)| 13th February 2022 |
+| [The AWS Essentials](/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md)| 19th January 2022 |
+| [Mind Maps](/posts/agile/scrum/20-10-2021-mind-maps.md)| 20th October 2021 |
 | [Writing User stories and Estimating Story points](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-07-2021-user-stories-and-story-points.md)| 15th July 2021 |
 | [The complexity of Product Development](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/15-06-2021-complexity-of-product-development.md) | 28th June  2021 |
 | [Design Thinking](https://github.com/blessinvarkey/musings/blob/main/posts/design/24-06-2021-design-thinking.md)| 24th June 2021 |
@@ -73,11 +73,11 @@ Here's a list of articles I'm reading/ interested in:
 |[Designing gesture-based applications for individuals with developmental disabilities: guidelines from user studies in India](https://dl.acm.org/doi/abs/10.1145/3161710)| TACCESS'18, ACM|HCI, Interaction techniques, Gestural input |
 |[Computer assisted autism interventions for india](https://dl.acm.org/doi/abs/10.1145/3010915.3011007) | OzCHI '16, ACM|Human-centered Computing |
 |[EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli](https://www.sciencedirect.com/science/article/pii/S2352340920303826)| Data in Brief'20, Elsevier|EEG, Neurodevelopment disorder, Auditory stimulus, Music apprehension, Emotiv |
-|[Gathering garbage or going green? shifting social perspectives to empower individuals with special needs](https://dl.acm.org/doi/abs/10.1145/3392063.3394394)| IDC'20, ACM|Human computer interaction (HCI), Social and professional topics |
-| ['Wow! You're Wearing a Fitbit, You're a Young Boy Now!" Socio-Technical Aspirations for Children with Autism in India](https://dl.acm.org/doi/abs/10.1145/3234695.3239329)| ASSETS'18, ACM |Human-Centered Computing, Empirical studies in accessibility |
-| [Kirana: A gesture-based market app for life skills learning for individuals with developmental disabilities](https://dl.acm.org/doi/abs/10.1145/2982142.2982149)|ASSETS '16, ACM|HCI, Interaction techniques, Gestural input |
-| [Functional Brain Connectivity Analysis in Intellectual Developmental Disorder During Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)|  NSRE'20, IEEE|Intellectual developmental disorder,music perception, EEG, functional brain networks, modularity |
-| [VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989)|IUI '17, ACM| Human-Centered Computing, Machine Learning |
+|[Gathering garbage or going green? shifting social perspectives to empower individuals with special needs](https://dl.acm.org/doi/abs/10.1145/3392063.3394394) | IDC'20, ACM|Human computer interaction (HCI), Social and professional topics |
+| ['Wow! You're Wearing a Fitbit, You're a Young Boy Now!" Socio-Technical Aspirations for Children with Autism in India](https://dl.acm.org/doi/abs/10.1145/3234695.3239329) | ASSETS'18, ACM |Human-Centered Computing, Empirical studies in accessibility |
+| [Kirana: A gesture-based market app for life skills learning for individuals with developmental disabilities](https://dl.acm.org/doi/abs/10.1145/2982142.2982149)| ASSETS '16, ACM | HCI, Interaction techniques, Gestural input |
+| [Functional Brain Connectivity Analysis in Intellectual Developmental Disorder During Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/) |  NSRE'20, IEEE | Intellectual developmental disorder,music perception, EEG, functional brain networks, modularity |
+| [VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989) | IUI '17, ACM | Human-Centered Computing, Machine Learning |
 
 
-[↑ Back to top](https://github.com/blessinvarkey/musings#musings)
+[↑ Back to top](/musings#musings)
