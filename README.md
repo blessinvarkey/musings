@@ -11,7 +11,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 
 ## Blog
 | Title        | Date |
-| ------------- | :------------- | 
+| ------------- | ------------- | 
 |[All things Docker](https://github.com/blessinvarkey/musings/blob/main/posts/docker/13-02-22-all-things-docker.md)|13th February 2022|
 |[The AWS Essentials](https://github.com/blessinvarkey/musings/blob/main/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md)|19th January 2022|
 |[Mind Maps](https://github.com/blessinvarkey/musings/blob/main/posts/agile/scrum/20-10-2021-mind-maps.md)|20th October 2021|
@@ -29,7 +29,7 @@ Hi. Thank you for visiting my repo. Most of the pages (blogs or personal notes) 
 ## Selected readings
 Here's a list of articles I'm reading/ interested in:
 | Title        | Keywords |
-| ------------- | :------------- | 
+| ------------- | ------------- | 
 | [Perceptrons: An Introduction to Computational Geometry](https://mitpress.mit.edu/books/perceptrons)||
 | [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)||
 | [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)||
@@ -62,7 +62,7 @@ Here's a list of articles I'm reading/ interested in:
 
 ## Contributed papers
 | Title        | Publication | Keywords |
-| ------------- | :------------- | :------------- | 
+| ------------- | ------------- | ------------- | 
 |[Gaze-based Autism Detection for Adolescents and Young Adults using Prosaic Videos](https://arxiv.org/pdf/2005.12951.pdf)| COMPAS'20 SIGCAS, ACM |ML, gaze tracking, health sensing|
 |[Socio-Technical Aspirations for Children with Special Needs: A Study in Two Locations - India and Finland.](https://dl.acm.org/doi/abs/10.1145/3396076)| TACCESS'20 ACM |Human-centered Computing, Accessibility |
 |[Promoting Joint Attention with Computer Supported Collaboration in Children with Autism](https://dl.acm.org/doi/abs/10.1145/2818048.2819930)|CSCW '16, ACM|HCI, Interaction techniques, Gestural input|
