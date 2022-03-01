@@ -1,4 +1,4 @@
-# The PO and the PSPO 1 Certification
+# The PO and the PSPO Certification
 
 I took the PSM 1 certification in the last quarter and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset or SM mindset for PSPO and PSM, respectively.
 
