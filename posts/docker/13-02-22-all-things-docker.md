@@ -129,3 +129,31 @@ $ docker pull
 For setting up a CICD pipeline with Github Actions, check this [repo](https://github.com/blessinvarkey/docker-github-actions)
 
 |   [HOME](https://github.com/blessinvarkey/musings)    |   [NEXT](https://github.com/blessinvarkey/musings/blob/main/posts/cloud/aws/theory/19-01-2022-exploring-aws-services.md)    |
+
+### Run daemon
+```
+$ docker container run -d
+```
+
+### Remove/Delete the container name quantum
+```
+$ docker container run -d --rm --name quantum --publish mode = ingress, published=18080, target = 8080 spkane/quantum-game:latest
+```
+rm - remove
+ingress - into the container
+published - 
+target - targeted port
+spkane/quantum-game:latest
+
+```
+docker container ls
+```
+### Single dash 
+```
+-
+```
+
+### Double dash 
+```
+--
+```

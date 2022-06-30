@@ -1,10 +1,17 @@
 # The PO and the PSPO Certification
 
-I took the PSM 1 certification in the last quarter and realised that either these two exams should be taken together (if you are just interested in certifying yourself) or should be taken with the PO mindset or SM mindset for PSPO and PSM, respectively.
+I took the PSM 1 certification in the last quarter and realised that either these two exams should be taken together (if you are just interested in certifying yourself on both) or should be taken with the PO mindset or SM mindset for PSPO and PSM, respectively.
 
-The business fable of The Chicken and the Pig is about commitment to a project or cause. When producing a dish made of eggs with ham or bacon, the pig provides the ham or bacon which requires his or her sacrifice and the chicken provides the eggs which are not difficult to produce. Thus the pig is really committed to that dish ("has skin in the game") while the chicken is only involved, yet both are needed to produce the dish.
+## The Chicken and the Pig
+To understand the need for scrum, there's a popular fable that's used in workshops. It goes something like this: 
 
+Once a chicken and pig decided to work on a project together. Their project was a dish called a 'Bacon and Egg'. When producing the dish made of eggs with bacon, the pig provided the bacon which required its sacrifice and the chicken provided the eggs, which was not difficult to produce. 
+
+ the pig is really committed to that dish ("has skin in the game") while the chicken is only involved, yet both are needed to produce the dish.
+
+The business fable of The Chicken and the Pig is about commitment to a project or cause. 
 Managers, Stakeholders, customers are not actually involved in the actual making of the process (i.e. they don't write code, they don't create deliverables). 
+
 
 ## What is Scrum?
 Scrum is a lightweight adaptive framework for managing complex development projects. It consists of __roles__, __artifacts__, __events__ with a simple set of rules to govern the interaction between them.

@@ -23,6 +23,3 @@ Machine Learning can be divided into two categories: supervised and unsupervised
 
 (Hyde et. al, 2017)[R2]
 
-
-R1 - 
-R2 - 
