@@ -14,22 +14,6 @@ There are many reasons why the mathematics of Machine Learning is important:
 
 ![](https://miro.medium.com/max/1400/0*B6MGGFnT-os8NQQV)
 
-### Popular Models
-- Linear Discriminant Analysis
-- K Neighbours Classifier
-- Quadratic Discriminant Analysis 
-- Logistic Regression
-- Naive Bayes
-- Gradient Boosting Classifier
-- Decision Tree Classifier
-- Extra Tree Classifier 
-- Random Forest Classifier
-- Ada Boost Classifier
-- Light Gradient Boosting
-- Machine Ridge Classifier 
-- SVM - Linear Kernel
-
-
 
 
 |Column|Information| Definition|
@@ -42,3 +26,38 @@ There are many reasons why the mathematics of Machine Learning is important:
 |Kappa | THe degree of arrangement between true values and predicted values|
 |MCC|Matthews correlation coefficient|A measure of quality of classifications. Used only in case of binary classificiation|
 |TT| Time taken| Time taken in seconds for model to predict the output after an input is given to it| 
+
+
+### Popular Models & Keywords
+- Linear Discriminant Analysis
+- K Neighbours Classifier
+- Quadratic Discriminant Analysis 
+- Logistic Regression
+- Bayesian Methods
+- Naive Bayes
+- Gradient Boosting Classifier
+- Ada Boost Classifier
+- Decision Tree Classifier
+- Extra Tree Classifier 
+- Random Forest Classifier
+- Light Gradient Boosting
+- Machine Ridge Classifier 
+- SVM - Linear Kernel
+- Regression Analysis
+- K-Means Clustering
+- Principal Component Analysis
+- Cross-validation
+- Multivariate Regression
+- Multi-Level Models
+- Support Vector Machines
+- Reinforcement Learning
+- Collaborative Filtering 
+- K-Nearerst Neighbour
+- Bias/Variance Tradeoff
+- Ensemble learning
+- TF/IDF
+- Experimental Design 
+- Artificial Neural Networks
+- Deep Learning
+- Convolutional Neural Networks
+- Recurrent Neural Networks 
